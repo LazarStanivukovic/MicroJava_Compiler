@@ -1,0 +1,142 @@
+INFO  23:15:38,446 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj2.mj
+INFO  23:15:38,539 - #30 program
+INFO  23:15:38,540 - #38 TestLength
+INFO  23:15:38,540 - #31 const
+INFO  23:15:38,542 - #38 int
+INFO  23:15:38,542 - #38 pi
+INFO  23:15:38,543 - #33 =
+INFO  23:15:38,543 - #36 3
+INFO  23:15:38,543 - #32 ;
+INFO  23:15:38,545 - #38 int
+INFO  23:15:38,546 - #38 x
+INFO  23:15:38,546 - #6 ,
+INFO  23:15:38,546 - #38 y
+INFO  23:15:38,546 - #16 [
+INFO  23:15:38,546 - #17 ]
+INFO  23:15:38,546 - #32 ;
+INFO  23:15:38,548 - #34 {
+INFO  23:15:38,549 - #14 void
+INFO  23:15:38,549 - #38 main
+INFO  23:15:38,549 - #15 (
+INFO  23:15:38,550 - #5 )
+INFO  23:15:38,550 - #38 int
+INFO  23:15:38,552 - #38 a
+INFO  23:15:38,552 - #6 ,
+INFO  23:15:38,553 - #38 b
+INFO  23:15:38,553 - #32 ;
+INFO  23:15:38,553 - #38 char
+INFO  23:15:38,553 - #38 carr
+INFO  23:15:38,553 - #16 [
+INFO  23:15:38,553 - #17 ]
+INFO  23:15:38,554 - #32 ;
+INFO  23:15:38,554 - #34 {
+INFO  23:15:38,554 - #26 print
+INFO  23:15:38,554 - #15 (
+INFO  23:15:38,554 - #38 carr
+INFO  23:15:38,557 - #5 )
+INFO  23:15:38,559 - #32 ;
+INFO  23:15:38,560 - #35 }
+INFO  23:15:38,560 - #35 }
+INFO  23:15:38,563 - Program(
+  ProgramName(
+   TestLength
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList4(
+      ) [ConVarDecList4]
+      ConDecList(
+        Type(
+         int
+        ) [Type]
+        ConDecl(
+         pi
+          ConstantN(
+           3
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDeclVar(
+       x
+      ) [VarDeclVar]
+      VarDeclMoreCOMMA(
+        VarDeclArray(
+         y
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclMoreCOMMA]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecE(
+          ) [VarDeclListRecE]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDeclVar(
+             a
+            ) [VarDeclVar]
+            VarDeclMoreCOMMA(
+              VarDeclVar(
+               b
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclMoreCOMMA]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDeclArray(
+           carr
+          ) [VarDeclArray]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListE(
+        ) [StatementListE]
+        StatementP1(
+          AddExpr(
+            FactorTerm(
+              Factor(
+                NoMinus(
+                ) [NoMinus]
+                FactorD(
+                  DesignatorVar(
+                   carr
+                  ) [DesignatorVar]
+                ) [FactorD]
+              ) [Factor]
+            ) [FactorTerm]
+            AddopTermListE(
+            ) [AddopTermListE]
+          ) [AddExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  23:15:38,563 - ===================================
+INFO  23:15:38,574 - Upotreba lokalne promenljive carr, Obj node: [kind=Var, name=carr, type=Arr of char, adr=2, level=1] na liniji 16
+ERROR 23:15:38,575 - Print operacija ne int/char/bool izraza:  na liniji 7
+INFO  23:15:38,575 - ===================================
+INFO  23:15:38,576 - Parsiranje NIJE uspesno zavrseno

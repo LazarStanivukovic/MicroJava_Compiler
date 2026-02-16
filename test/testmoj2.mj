@@ -1,0 +1,19 @@
+program TestLength
+
+const int pi = 3;
+
+enum Broj { NULA, JEDAN, PET=5, DESET=10}
+
+int x,y[];
+
+{
+	void main() int a, b, c[]; char carr[];Broj nula, jedan;
+	{
+		nula = Broj.NULA;
+		print(nula);
+		
+		jedan = Broj.PET;
+		print(jedan);
+	}
+	
+}

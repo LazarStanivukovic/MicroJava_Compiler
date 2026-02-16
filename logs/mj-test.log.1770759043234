@@ -1,0 +1,65 @@
+INFO  22:24:06,882 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  22:24:06,975 - #30 program
+INFO  22:24:06,975 - #38 Keske
+INFO  22:24:06,975 - #31 const
+INFO  22:24:06,975 - #38 int
+INFO  22:24:06,976 - #38 pi
+INFO  22:24:06,976 - #33 =
+INFO  22:24:06,976 - #39 a
+INFO  22:24:06,976 - #6 ,
+INFO  22:24:06,977 - #38 g
+INFO  22:24:06,977 - #33 =
+INFO  22:24:06,977 - #36 9
+INFO  22:24:06,977 - #32 ;
+INFO  22:24:06,978 - #34 {
+INFO  22:24:06,979 - #14 void
+INFO  22:24:06,979 - #38 main
+INFO  22:24:06,979 - #15 (
+INFO  22:24:06,980 - #5 )
+INFO  22:24:06,980 - #34 {
+INFO  22:24:06,980 - #35 }
+INFO  22:24:06,982 - #35 }
+INFO  22:24:06,984 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    ConDecList(
+      Type(
+       int
+      ) [Type]
+      ConDecl(
+       pi
+        ConstantC(
+         a
+        ) [ConstantC]
+      ) [ConDecl]
+      ConDeclMore1(
+        ConDecl(
+         g
+          ConstantN(
+           9
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDeclMore1]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  22:24:06,986 - ===================================
+INFO  22:24:06,992 - ===================================
+INFO  22:24:06,992 - Parsiranje uspesno zavrseno

@@ -1,0 +1,69 @@
+INFO  20:11:43,964 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  20:11:44,009 - #30 program
+INFO  20:11:44,009 - #38 Keske
+INFO  20:11:44,009 - #31 const
+INFO  20:11:44,010 - #38 int
+INFO  20:11:44,010 - #38 pi
+INFO  20:11:44,011 - #33 =
+INFO  20:11:44,011 - #36 3
+INFO  20:11:44,011 - #32 ;
+INFO  20:11:44,012 - #38 char
+INFO  20:11:44,012 - #38 carr
+INFO  20:11:44,012 - #16 [
+INFO  20:11:44,012 - #17 ]
+INFO  20:11:44,012 - #32 ;
+INFO  20:11:44,014 - #34 {
+INFO  20:11:44,016 - #14 void
+INFO  20:11:44,016 - #38 main
+INFO  20:11:44,016 - #15 (
+INFO  20:11:44,017 - #5 )
+INFO  20:11:44,017 - #34 {
+INFO  20:11:44,018 - #35 }
+INFO  20:11:44,018 - #35 }
+INFO  20:11:44,020 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList4(
+      ) [ConVarDecList4]
+      ConDecList(
+        Type(
+         int
+        ) [Type]
+        ConDecl(
+         pi
+          ConstantN(
+           3
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       char
+      ) [Type]
+      VarDeclArray(
+       carr
+      ) [VarDeclArray]
+      VarDeclMoreE(
+      ) [VarDeclMoreE]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  20:11:44,021 - ===================================
+INFO  20:11:44,021 - Parsiranje uspesno zavrseno

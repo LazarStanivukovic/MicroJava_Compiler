@@ -1,0 +1,66 @@
+INFO  22:30:43,236 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  22:30:43,266 - #30 program
+INFO  22:30:43,267 - #38 Keske
+INFO  22:30:43,267 - #31 const
+INFO  22:30:43,268 - #38 int
+INFO  22:30:43,268 - #38 pi
+INFO  22:30:43,268 - #33 =
+INFO  22:30:43,268 - #39 a
+INFO  22:30:43,268 - #6 ,
+INFO  22:30:43,269 - #38 g
+INFO  22:30:43,269 - #33 =
+INFO  22:30:43,269 - #36 9
+INFO  22:30:43,269 - #32 ;
+INFO  22:30:43,270 - #34 {
+INFO  22:30:43,271 - #14 void
+INFO  22:30:43,271 - #38 main
+INFO  22:30:43,271 - #15 (
+INFO  22:30:43,271 - #5 )
+INFO  22:30:43,271 - #34 {
+INFO  22:30:43,272 - #35 }
+INFO  22:30:43,272 - #35 }
+INFO  22:30:43,275 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    ConDecList(
+      Type(
+       int
+      ) [Type]
+      ConDecl(
+       pi
+        ConstantC(
+         a
+        ) [ConstantC]
+      ) [ConDecl]
+      ConDeclMore1(
+        ConDecl(
+         g
+          ConstantN(
+           9
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDeclMore1]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  22:30:43,276 - ===================================
+ERROR 22:30:43,281 - Neadekvatna dodela konstanti: pi na liniji 3
+INFO  22:30:43,281 - ===================================
+INFO  22:30:43,281 - Parsiranje NIJE uspesno zavrseno

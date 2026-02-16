@@ -1,0 +1,129 @@
+INFO  17:56:07,266 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  17:56:07,335 - #30 program
+INFO  17:56:07,336 - #38 Keske
+INFO  17:56:07,336 - #38 int
+INFO  17:56:07,337 - #38 x
+INFO  17:56:07,337 - #32 ;
+INFO  17:56:07,338 - #34 {
+INFO  17:56:07,339 - #14 void
+INFO  17:56:07,339 - #38 main
+INFO  17:56:07,339 - #15 (
+INFO  17:56:07,340 - #5 )
+INFO  17:56:07,340 - #34 {
+INFO  17:56:07,341 - #38 x
+INFO  17:56:07,342 - #33 =
+INFO  17:56:07,344 - #20 *
+ERROR 17:56:07,344 - 
+Sintaksna greska na liniji 7
+INFO  17:56:07,344 - #32 ;
+INFO  17:56:07,345 - #38 a
+INFO  17:56:07,345 - #24 ++
+INFO  17:56:07,345 - #32 ;
+ERROR 17:56:07,345 - Oporavak od greske u DS. Linija: 13
+INFO  17:56:07,348 - #38 b
+INFO  17:56:07,348 - #33 =
+INFO  17:56:07,348 - #36 3
+INFO  17:56:07,350 - #32 ;
+INFO  17:56:07,352 - #26 print
+INFO  17:56:07,352 - #15 (
+INFO  17:56:07,352 - #39 x
+INFO  17:56:07,352 - #5 )
+INFO  17:56:07,352 - #32 ;
+INFO  17:56:07,352 - #35 }
+INFO  17:56:07,352 - #35 }
+INFO  17:56:07,355 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDeclVar(
+       x
+      ) [VarDeclVar]
+      VarDeclMoreE(
+      ) [VarDeclMoreE]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListR(
+        StatementListR(
+          StatementListR(
+            StatementListR(
+              StatementListE(
+              ) [StatementListE]
+              StatementDS(
+                DesignatorStatementError(
+                ) [DesignatorStatementError]
+              ) [StatementDS]
+            ) [StatementListR]
+            StatementDS(
+              DesignatorStatementINC(
+                Designator(
+                  DesignatorName(
+                   a
+                  ) [DesignatorName]
+                  DesiListNEMA(
+                  ) [DesiListNEMA]
+                ) [Designator]
+              ) [DesignatorStatementINC]
+            ) [StatementDS]
+          ) [StatementListR]
+          StatementDS(
+            DesignatorStatementASS(
+              Designator(
+                DesignatorName(
+                 b
+                ) [DesignatorName]
+                DesiListNEMA(
+                ) [DesiListNEMA]
+              ) [Designator]
+              Assignop(
+              ) [Assignop]
+              AddExpr(
+                FactorTerm(
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorNum(
+                     3
+                    ) [FactorNum]
+                  ) [Factor]
+                ) [FactorTerm]
+                AddopTermListE(
+                ) [AddopTermListE]
+              ) [AddExpr]
+            ) [DesignatorStatementASS]
+          ) [StatementDS]
+        ) [StatementListR]
+        StatementP1(
+          AddExpr(
+            FactorTerm(
+              Factor(
+                NoMinus(
+                ) [NoMinus]
+                FactorChar(
+                 x
+                ) [FactorChar]
+              ) [Factor]
+            ) [FactorTerm]
+            AddopTermListE(
+            ) [AddopTermListE]
+          ) [AddExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  17:56:07,355 - ===================================
+INFO  17:56:07,355 - Parsiranje NIJE uspesno zavrseno

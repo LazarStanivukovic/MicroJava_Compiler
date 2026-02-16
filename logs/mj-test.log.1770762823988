@@ -1,0 +1,38 @@
+INFO  23:33:29,525 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  23:33:29,609 - #30 program
+INFO  23:33:29,609 - #38 Keske
+INFO  23:33:29,609 - #31 const
+INFO  23:33:29,611 - #38 int
+INFO  23:33:29,611 - #38 pi
+INFO  23:33:29,613 - #33 =
+INFO  23:33:29,614 - #36 13
+INFO  23:33:29,614 - #6 ,
+INFO  23:33:29,615 - #38 g
+INFO  23:33:29,615 - #33 =
+INFO  23:33:29,615 - #36 9
+INFO  23:33:29,616 - #32 ;
+INFO  23:33:29,618 - #31 const
+INFO  23:33:29,620 - #38 bool
+INFO  23:33:29,620 - #38 b
+INFO  23:33:29,620 - #33 =
+INFO  23:33:29,620 - #37 1
+INFO  23:33:29,620 - #32 ;
+INFO  23:33:29,620 - #31 const
+INFO  23:33:29,622 - #38 char
+INFO  23:33:29,622 - #38 a
+INFO  23:33:29,626 - #33 =
+INFO  23:33:29,627 - #39 a
+INFO  23:33:29,627 - #32 ;
+INFO  23:33:29,627 - #19 enum
+INFO  23:33:29,627 - #38 Broj
+INFO  23:33:29,627 - #34 {
+INFO  23:33:29,629 - #38 NULA
+INFO  23:33:29,630 - #6 ,
+INFO  23:33:29,630 - #38 JEDAN
+INFO  23:33:29,630 - #6 ,
+INFO  23:33:29,630 - #38 PET
+INFO  23:33:29,630 - #33 =
+INFO  23:33:29,630 - #39 a
+ERROR 23:33:29,630 - 
+Sintaksna greska na liniji 7
+ERROR 23:33:29,630 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 7

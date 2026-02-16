@@ -1,0 +1,107 @@
+INFO  22:34:49,363 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  22:34:49,438 - #30 program
+INFO  22:34:49,438 - #38 Keske
+INFO  22:34:49,438 - #31 const
+INFO  22:34:49,439 - #38 int
+INFO  22:34:49,439 - #38 pi
+INFO  22:34:49,439 - #33 =
+INFO  22:34:49,439 - #36 13
+INFO  22:34:49,439 - #6 ,
+INFO  22:34:49,440 - #38 g
+INFO  22:34:49,440 - #33 =
+INFO  22:34:49,440 - #36 9
+INFO  22:34:49,440 - #32 ;
+INFO  22:34:49,441 - #31 const
+INFO  22:34:49,442 - #38 bool
+INFO  22:34:49,442 - #38 b
+INFO  22:34:49,442 - #33 =
+INFO  22:34:49,442 - #37 1
+INFO  22:34:49,442 - #32 ;
+INFO  22:34:49,442 - #31 const
+INFO  22:34:49,442 - #38 char
+INFO  22:34:49,442 - #38 a
+INFO  22:34:49,444 - #33 =
+INFO  22:34:49,445 - #39 a
+INFO  22:34:49,445 - #32 ;
+INFO  22:34:49,445 - #34 {
+INFO  22:34:49,445 - #14 void
+INFO  22:34:49,445 - #38 main
+INFO  22:34:49,445 - #15 (
+INFO  22:34:49,447 - #5 )
+INFO  22:34:49,447 - #34 {
+INFO  22:34:49,448 - #35 }
+INFO  22:34:49,448 - #35 }
+INFO  22:34:49,451 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList1(
+      ConVarDecList1(
+        ConVarDecList4(
+        ) [ConVarDecList4]
+        ConDecList(
+          Type(
+           int
+          ) [Type]
+          ConDecl(
+           pi
+            ConstantN(
+             13
+            ) [ConstantN]
+          ) [ConDecl]
+          ConDeclMore1(
+            ConDecl(
+             g
+              ConstantN(
+               9
+              ) [ConstantN]
+            ) [ConDecl]
+            ConDeclMore2(
+            ) [ConDeclMore2]
+          ) [ConDeclMore1]
+        ) [ConDecList]
+      ) [ConVarDecList1]
+      ConDecList(
+        Type(
+         bool
+        ) [Type]
+        ConDecl(
+         b
+          ConstantB(
+           1
+          ) [ConstantB]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    ConDecList(
+      Type(
+       char
+      ) [Type]
+      ConDecl(
+       a
+        ConstantC(
+         a
+        ) [ConstantC]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  22:34:49,451 - ===================================
+INFO  22:34:49,457 - ===================================
+INFO  22:34:49,458 - Parsiranje uspesno zavrseno

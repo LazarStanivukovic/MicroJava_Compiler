@@ -1,0 +1,308 @@
+INFO  21:48:42,039 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  21:48:42,138 - #30 program
+INFO  21:48:42,138 - #38 Keske
+INFO  21:48:42,138 - #31 const
+INFO  21:48:42,140 - #38 int
+INFO  21:48:42,140 - #38 pi
+INFO  21:48:42,141 - #33 =
+INFO  21:48:42,141 - #36 3
+INFO  21:48:42,141 - #6 ,
+INFO  21:48:42,143 - #38 g
+INFO  21:48:42,143 - #33 =
+INFO  21:48:42,143 - #36 11
+INFO  21:48:42,143 - #32 ;
+INFO  21:48:42,145 - #38 char
+INFO  21:48:42,146 - #38 y
+INFO  21:48:42,146 - #16 [
+INFO  21:48:42,146 - #17 ]
+INFO  21:48:42,147 - #32 ;
+INFO  21:48:42,148 - #31 const
+INFO  21:48:42,150 - #38 bool
+INFO  21:48:42,150 - #38 t
+INFO  21:48:42,150 - #33 =
+INFO  21:48:42,152 - #37 1
+INFO  21:48:42,152 - #32 ;
+INFO  21:48:42,153 - #34 {
+INFO  21:48:42,153 - #14 void
+INFO  21:48:42,153 - #38 main
+INFO  21:48:42,153 - #15 (
+INFO  21:48:42,154 - #5 )
+INFO  21:48:42,154 - #38 int
+INFO  21:48:42,155 - #38 a
+INFO  21:48:42,155 - #6 ,
+INFO  21:48:42,155 - #38 b
+INFO  21:48:42,156 - #16 [
+INFO  21:48:42,156 - #17 ]
+INFO  21:48:42,156 - #32 ;
+INFO  21:48:42,156 - #38 int
+INFO  21:48:42,156 - #38 x
+INFO  21:48:42,157 - #16 [
+INFO  21:48:42,157 - #17 ]
+INFO  21:48:42,157 - #6 ,
+INFO  21:48:42,157 - #38 y
+INFO  21:48:42,157 - #32 ;
+INFO  21:48:42,157 - #38 char
+INFO  21:48:42,157 - #38 eol
+INFO  21:48:42,157 - #32 ;
+INFO  21:48:42,157 - #34 {
+INFO  21:48:42,157 - #38 a
+INFO  21:48:42,158 - #33 =
+INFO  21:48:42,158 - #38 b
+INFO  21:48:42,160 - #32 ;
+INFO  21:48:42,163 - #38 a
+INFO  21:48:42,163 - #33 =
+INFO  21:48:42,163 - #36 3
+INFO  21:48:42,163 - #3 +
+INFO  21:48:42,163 - #38 b
+INFO  21:48:42,165 - #32 ;
+INFO  21:48:42,165 - #38 a
+INFO  21:48:42,165 - #33 =
+INFO  21:48:42,165 - #36 3
+INFO  21:48:42,165 - #3 +
+INFO  21:48:42,165 - #38 b
+INFO  21:48:42,165 - #20 *
+INFO  21:48:42,165 - #36 2
+INFO  21:48:42,168 - #32 ;
+INFO  21:48:42,168 - #35 }
+INFO  21:48:42,168 - #35 }
+INFO  21:48:42,171 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList2(
+      ConVarDecList1(
+        ConVarDecList4(
+        ) [ConVarDecList4]
+        ConDecList(
+          Type(
+           int
+          ) [Type]
+          ConDecl(
+           pi
+            ConstantN(
+             3
+            ) [ConstantN]
+          ) [ConDecl]
+          ConDeclMore1(
+            ConDecl(
+             g
+              ConstantN(
+               11
+              ) [ConstantN]
+            ) [ConDecl]
+            ConDeclMore2(
+            ) [ConDeclMore2]
+          ) [ConDeclMore1]
+        ) [ConDecList]
+      ) [ConVarDecList1]
+      VarDeclList(
+        Type(
+         char
+        ) [Type]
+        VarDeclArray(
+         y
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclList]
+    ) [ConVarDecList2]
+    ConDecList(
+      Type(
+       bool
+      ) [Type]
+      ConDecl(
+       t
+        ConstantB(
+         1
+        ) [ConstantB]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecR(
+            VarDeclListRecE(
+            ) [VarDeclListRecE]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDeclVar(
+               a
+              ) [VarDeclVar]
+              VarDeclMoreCOMMA(
+                VarDeclArray(
+                 b
+                ) [VarDeclArray]
+                VarDeclMoreE(
+                ) [VarDeclMoreE]
+              ) [VarDeclMoreCOMMA]
+            ) [VarDeclList]
+          ) [VarDeclListRecR]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDeclArray(
+             x
+            ) [VarDeclArray]
+            VarDeclMoreCOMMA(
+              VarDeclVar(
+               y
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclMoreCOMMA]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDeclVar(
+           eol
+          ) [VarDeclVar]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListR(
+          StatementListR(
+            StatementListE(
+            ) [StatementListE]
+            StatementDS(
+              DesignatorStatementASS(
+                DesignatorVar(
+                 a
+                ) [DesignatorVar]
+                Assignop(
+                ) [Assignop]
+                AddExpr(
+                  FactorTerm(
+                    Factor(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorD(
+                        DesignatorVar(
+                         b
+                        ) [DesignatorVar]
+                      ) [FactorD]
+                    ) [Factor]
+                  ) [FactorTerm]
+                  AddopTermListE(
+                  ) [AddopTermListE]
+                ) [AddExpr]
+              ) [DesignatorStatementASS]
+            ) [StatementDS]
+          ) [StatementListR]
+          StatementDS(
+            DesignatorStatementASS(
+              DesignatorVar(
+               a
+              ) [DesignatorVar]
+              Assignop(
+              ) [Assignop]
+              AddExpr(
+                FactorTerm(
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorNum(
+                     3
+                    ) [FactorNum]
+                  ) [Factor]
+                ) [FactorTerm]
+                AddopTermList1(
+                  AddopTermListE(
+                  ) [AddopTermListE]
+                  AddopADD(
+                  ) [AddopADD]
+                  FactorTerm(
+                    Factor(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorD(
+                        DesignatorVar(
+                         b
+                        ) [DesignatorVar]
+                      ) [FactorD]
+                    ) [Factor]
+                  ) [FactorTerm]
+                ) [AddopTermList1]
+              ) [AddExpr]
+            ) [DesignatorStatementASS]
+          ) [StatementDS]
+        ) [StatementListR]
+        StatementDS(
+          DesignatorStatementASS(
+            DesignatorVar(
+             a
+            ) [DesignatorVar]
+            Assignop(
+            ) [Assignop]
+            AddExpr(
+              FactorTerm(
+                Factor(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorNum(
+                   3
+                  ) [FactorNum]
+                ) [Factor]
+              ) [FactorTerm]
+              AddopTermList1(
+                AddopTermListE(
+                ) [AddopTermListE]
+                AddopADD(
+                ) [AddopADD]
+                MulTerm(
+                  FactorTerm(
+                    Factor(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorD(
+                        DesignatorVar(
+                         b
+                        ) [DesignatorVar]
+                      ) [FactorD]
+                    ) [Factor]
+                  ) [FactorTerm]
+                  MulopMUL(
+                  ) [MulopMUL]
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorNum(
+                     2
+                    ) [FactorNum]
+                  ) [Factor]
+                ) [MulTerm]
+              ) [AddopTermList1]
+            ) [AddExpr]
+          ) [DesignatorStatementASS]
+        ) [StatementDS]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  21:48:42,171 - ===================================
+ERROR 21:48:42,179 - operacija ne int vrednosti [AddExpr] na liniji 4
+ERROR 21:48:42,181 - neadekvatna dodela vrednosti u promenljivu: a na liniji 10
+ERROR 21:48:42,181 - Addop operacija ne int vrednosti [AddopTermList1] na liniji 5
+ERROR 21:48:42,181 - operacija ne int vrednosti [AddExpr] na liniji 3
+ERROR 21:48:42,181 - neadekvatna dodela vrednosti u promenljivu: a na liniji 11
+ERROR 21:48:42,181 - Mulop operacija ne int vrednosti na liniji 5
+ERROR 21:48:42,181 - Addop operacija ne int vrednosti [AddopTermList1] na liniji 4
+ERROR 21:48:42,181 - operacija ne int vrednosti [AddExpr] na liniji 3
+ERROR 21:48:42,181 - neadekvatna dodela vrednosti u promenljivu: a na liniji 12
+INFO  21:48:42,181 - ===================================
+INFO  21:48:42,182 - Parsiranje NIJE uspesno zavrseno

@@ -1,0 +1,11 @@
+INFO  16:30:05,136 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  16:30:05,224 - #30 program
+INFO  16:30:05,224 - #38 Keske
+INFO  16:30:05,224 - #38 int
+INFO  16:30:05,225 - #38 x
+INFO  16:30:05,227 - #32 ;
+INFO  16:30:05,228 - #34 {
+INFO  16:30:05,230 - #34 {
+ERROR 16:30:05,230 - 
+Sintaksna greska na liniji 4
+ERROR 16:30:05,231 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

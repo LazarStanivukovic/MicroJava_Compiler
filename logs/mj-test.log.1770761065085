@@ -1,0 +1,157 @@
+INFO  23:03:47,220 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  23:03:47,298 - #30 program
+INFO  23:03:47,298 - #38 Keske
+INFO  23:03:47,298 - #31 const
+INFO  23:03:47,299 - #38 int
+INFO  23:03:47,299 - #38 pi
+INFO  23:03:47,300 - #33 =
+INFO  23:03:47,300 - #36 13
+INFO  23:03:47,300 - #6 ,
+INFO  23:03:47,301 - #38 g
+INFO  23:03:47,301 - #33 =
+INFO  23:03:47,301 - #36 9
+INFO  23:03:47,301 - #32 ;
+INFO  23:03:47,302 - #31 const
+INFO  23:03:47,303 - #38 bool
+INFO  23:03:47,303 - #38 b
+INFO  23:03:47,303 - #33 =
+INFO  23:03:47,303 - #37 1
+INFO  23:03:47,303 - #32 ;
+INFO  23:03:47,303 - #31 const
+INFO  23:03:47,303 - #38 char
+INFO  23:03:47,303 - #38 a
+INFO  23:03:47,303 - #33 =
+INFO  23:03:47,304 - #39 a
+INFO  23:03:47,304 - #32 ;
+INFO  23:03:47,304 - #38 char
+INFO  23:03:47,304 - #38 h
+INFO  23:03:47,304 - #6 ,
+INFO  23:03:47,304 - #38 j
+INFO  23:03:47,304 - #16 [
+INFO  23:03:47,304 - #17 ]
+INFO  23:03:47,304 - #32 ;
+INFO  23:03:47,305 - #34 {
+INFO  23:03:47,305 - #14 void
+INFO  23:03:47,305 - #38 main
+INFO  23:03:47,305 - #15 (
+INFO  23:03:47,306 - #5 )
+INFO  23:03:47,306 - #38 int
+INFO  23:03:47,306 - #38 a
+INFO  23:03:47,306 - #6 ,
+INFO  23:03:47,306 - #38 b
+INFO  23:03:47,306 - #16 [
+INFO  23:03:47,306 - #17 ]
+INFO  23:03:47,307 - #32 ;
+INFO  23:03:47,307 - #34 {
+INFO  23:03:47,307 - #35 }
+INFO  23:03:47,308 - #35 }
+INFO  23:03:47,310 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList1(
+        ConVarDecList1(
+          ConVarDecList4(
+          ) [ConVarDecList4]
+          ConDecList(
+            Type(
+             int
+            ) [Type]
+            ConDecl(
+             pi
+              ConstantN(
+               13
+              ) [ConstantN]
+            ) [ConDecl]
+            ConDeclMore1(
+              ConDecl(
+               g
+                ConstantN(
+                 9
+                ) [ConstantN]
+              ) [ConDecl]
+              ConDeclMore2(
+              ) [ConDeclMore2]
+            ) [ConDeclMore1]
+          ) [ConDecList]
+        ) [ConVarDecList1]
+        ConDecList(
+          Type(
+           bool
+          ) [Type]
+          ConDecl(
+           b
+            ConstantB(
+             1
+            ) [ConstantB]
+          ) [ConDecl]
+          ConDeclMore2(
+          ) [ConDeclMore2]
+        ) [ConDecList]
+      ) [ConVarDecList1]
+      ConDecList(
+        Type(
+         char
+        ) [Type]
+        ConDecl(
+         a
+          ConstantC(
+           a
+          ) [ConstantC]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       char
+      ) [Type]
+      VarDeclVar(
+       h
+      ) [VarDeclVar]
+      VarDeclMoreCOMMA(
+        VarDeclArray(
+         j
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclMoreCOMMA]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecE(
+        ) [VarDeclListRecE]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDeclVar(
+           a
+          ) [VarDeclVar]
+          VarDeclMoreCOMMA(
+            VarDeclArray(
+             b
+            ) [VarDeclArray]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclMoreCOMMA]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  23:03:47,310 - ===================================
+ERROR 23:03:47,315 - Dvostruka definicija promenljive: a na liniji 10
+ERROR 23:03:47,315 - Dvostruka definicija promenljive: b na liniji 10
+INFO  23:03:47,315 - ===================================
+INFO  23:03:47,316 - Parsiranje NIJE uspesno zavrseno

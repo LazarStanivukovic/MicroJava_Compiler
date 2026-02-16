@@ -1,0 +1,154 @@
+INFO  12:43:35,574 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj2.mj
+INFO  12:43:35,666 - #30 program
+INFO  12:43:35,666 - #38 TestLength
+INFO  12:43:35,666 - #31 const
+INFO  12:43:35,668 - #38 int
+INFO  12:43:35,668 - #38 pi
+INFO  12:43:35,669 - #33 =
+INFO  12:43:35,669 - #36 3
+INFO  12:43:35,669 - #32 ;
+INFO  12:43:35,671 - #38 int
+INFO  12:43:35,672 - #38 x
+INFO  12:43:35,672 - #6 ,
+INFO  12:43:35,672 - #38 y
+INFO  12:43:35,672 - #16 [
+INFO  12:43:35,672 - #17 ]
+INFO  12:43:35,672 - #32 ;
+INFO  12:43:35,673 - #34 {
+INFO  12:43:35,674 - #14 void
+INFO  12:43:35,674 - #38 main
+INFO  12:43:35,674 - #15 (
+INFO  12:43:35,675 - #5 )
+INFO  12:43:35,675 - #38 int
+INFO  12:43:35,678 - #38 a
+INFO  12:43:35,678 - #6 ,
+INFO  12:43:35,678 - #38 b
+INFO  12:43:35,678 - #32 ;
+INFO  12:43:35,678 - #38 char
+INFO  12:43:35,678 - #38 carr
+INFO  12:43:35,678 - #16 [
+INFO  12:43:35,678 - #17 ]
+INFO  12:43:35,678 - #32 ;
+INFO  12:43:35,678 - #34 {
+INFO  12:43:35,678 - #38 a
+INFO  12:43:35,680 - #29 --
+INFO  12:43:35,680 - #32 ;
+INFO  12:43:35,680 - #26 print
+INFO  12:43:35,680 - #15 (
+INFO  12:43:35,680 - #38 a
+INFO  12:43:35,681 - #5 )
+INFO  12:43:35,683 - #32 ;
+INFO  12:43:35,683 - #35 }
+INFO  12:43:35,683 - #35 }
+INFO  12:43:35,685 - Program(
+  ProgramName(
+   TestLength
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList4(
+      ) [ConVarDecList4]
+      ConDecList(
+        Type(
+         int
+        ) [Type]
+        ConDecl(
+         pi
+          ConstantN(
+           3
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDeclVar(
+       x
+      ) [VarDeclVar]
+      VarDeclMoreCOMMA(
+        VarDeclArray(
+         y
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclMoreCOMMA]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecE(
+          ) [VarDeclListRecE]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDeclVar(
+             a
+            ) [VarDeclVar]
+            VarDeclMoreCOMMA(
+              VarDeclVar(
+               b
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclMoreCOMMA]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDeclArray(
+           carr
+          ) [VarDeclArray]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListR(
+          StatementListE(
+          ) [StatementListE]
+          StatementDS(
+            DesignatorStatementDEC(
+              DesignatorVar(
+               a
+              ) [DesignatorVar]
+            ) [DesignatorStatementDEC]
+          ) [StatementDS]
+        ) [StatementListR]
+        StatementP1(
+          AddExpr(
+            FactorTerm(
+              Factor(
+                NoMinus(
+                ) [NoMinus]
+                FactorD(
+                  DesignatorVar(
+                   a
+                  ) [DesignatorVar]
+                ) [FactorD]
+              ) [Factor]
+            ) [FactorTerm]
+            AddopTermListE(
+            ) [AddopTermListE]
+          ) [AddExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  12:43:35,686 - ===================================
+INFO  12:43:35,693 - Upotreba lokalne promenljive a, Obj node: [kind=Var, name=a, type=int, adr=0, level=1] na liniji 17
+INFO  12:43:35,693 - Upotreba lokalne promenljive a, Obj node: [kind=Var, name=a, type=int, adr=0, level=1] na liniji 19
+INFO  12:43:35,694 - ===================================
+INFO  12:43:35,699 - Parsiranje i Generisanje uspesno zavrseno

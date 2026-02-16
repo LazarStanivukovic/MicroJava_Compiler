@@ -1,0 +1,186 @@
+INFO  21:15:54,333 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj2.mj
+INFO  21:15:54,397 - #30 program
+INFO  21:15:54,397 - #38 TestLength
+INFO  21:15:54,397 - #31 const
+INFO  21:15:54,399 - #38 int
+INFO  21:15:54,399 - #38 pi
+INFO  21:15:54,400 - #33 =
+INFO  21:15:54,400 - #36 3
+INFO  21:15:54,400 - #32 ;
+INFO  21:15:54,402 - #34 {
+INFO  21:15:54,404 - #14 void
+INFO  21:15:54,404 - #38 main
+INFO  21:15:54,404 - #15 (
+INFO  21:15:54,405 - #5 )
+INFO  21:15:54,405 - #38 char
+INFO  21:15:54,406 - #38 x
+INFO  21:15:54,407 - #16 [
+INFO  21:15:54,407 - #17 ]
+INFO  21:15:54,407 - #32 ;
+INFO  21:15:54,408 - #38 int
+INFO  21:15:54,409 - #38 a
+INFO  21:15:54,409 - #6 ,
+INFO  21:15:54,411 - #38 b
+INFO  21:15:54,411 - #16 [
+INFO  21:15:54,411 - #17 ]
+INFO  21:15:54,411 - #32 ;
+INFO  21:15:54,412 - #38 int
+INFO  21:15:54,412 - #38 z
+INFO  21:15:54,412 - #16 [
+INFO  21:15:54,412 - #17 ]
+INFO  21:15:54,412 - #32 ;
+INFO  21:15:54,412 - #38 char
+INFO  21:15:54,412 - #38 eol
+INFO  21:15:54,412 - #32 ;
+INFO  21:15:54,412 - #38 char
+INFO  21:15:54,412 - #38 c
+INFO  21:15:54,413 - #32 ;
+INFO  21:15:54,413 - #38 Broj
+INFO  21:15:54,413 - #38 nula
+INFO  21:15:54,413 - #6 ,
+INFO  21:15:54,413 - #38 jedan
+INFO  21:15:54,413 - #32 ;
+INFO  21:15:54,413 - #34 {
+INFO  21:15:54,413 - #26 print
+INFO  21:15:54,414 - #15 (
+INFO  21:15:54,414 - #36 1
+INFO  21:15:54,416 - #5 )
+INFO  21:15:54,418 - #32 ;
+INFO  21:15:54,418 - #35 }
+INFO  21:15:54,419 - #35 }
+INFO  21:15:54,423 - Program(
+  ProgramName(
+   TestLength
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    ConDecList(
+      Type(
+       int
+      ) [Type]
+      ConDecl(
+       pi
+        ConstantN(
+         3
+        ) [ConstantN]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecR(
+            VarDeclListRecR(
+              VarDeclListRecR(
+                VarDeclListRecR(
+                  VarDeclListRecE(
+                  ) [VarDeclListRecE]
+                  VarDeclList(
+                    Type(
+                     char
+                    ) [Type]
+                    VarDeclArray(
+                     x
+                    ) [VarDeclArray]
+                    VarDeclMoreE(
+                    ) [VarDeclMoreE]
+                  ) [VarDeclList]
+                ) [VarDeclListRecR]
+                VarDeclList(
+                  Type(
+                   int
+                  ) [Type]
+                  VarDeclVar(
+                   a
+                  ) [VarDeclVar]
+                  VarDeclMoreCOMMA(
+                    VarDeclArray(
+                     b
+                    ) [VarDeclArray]
+                    VarDeclMoreE(
+                    ) [VarDeclMoreE]
+                  ) [VarDeclMoreCOMMA]
+                ) [VarDeclList]
+              ) [VarDeclListRecR]
+              VarDeclList(
+                Type(
+                 int
+                ) [Type]
+                VarDeclArray(
+                 z
+                ) [VarDeclArray]
+                VarDeclMoreE(
+                ) [VarDeclMoreE]
+              ) [VarDeclList]
+            ) [VarDeclListRecR]
+            VarDeclList(
+              Type(
+               char
+              ) [Type]
+              VarDeclVar(
+               eol
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclList]
+          ) [VarDeclListRecR]
+          VarDeclList(
+            Type(
+             char
+            ) [Type]
+            VarDeclVar(
+             c
+            ) [VarDeclVar]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           Broj
+          ) [Type]
+          VarDeclVar(
+           nula
+          ) [VarDeclVar]
+          VarDeclMoreCOMMA(
+            VarDeclVar(
+             jedan
+            ) [VarDeclVar]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclMoreCOMMA]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListE(
+        ) [StatementListE]
+        StatementP1(
+          AddExpr(
+            FactorTerm(
+              Factor(
+                NoMinus(
+                ) [NoMinus]
+                FactorNum(
+                 1
+                ) [FactorNum]
+              ) [Factor]
+            ) [FactorTerm]
+            AddopTermListE(
+            ) [AddopTermListE]
+          ) [AddExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  21:15:54,423 - ===================================
+ERROR 21:15:54,433 - Nepostojeci tip podatka: Broj na liniji 8
+INFO  21:15:54,434 - ===================================
+INFO  21:15:54,435 - Parsiranje NIJE uspesno zavrseno

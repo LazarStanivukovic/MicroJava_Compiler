@@ -1,0 +1,99 @@
+INFO  20:38:21,686 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  20:38:21,725 - #30 program
+INFO  20:38:21,725 - #38 Keske
+INFO  20:38:21,725 - #31 const
+INFO  20:38:21,727 - #38 int
+INFO  20:38:21,728 - #38 pi
+INFO  20:38:21,730 - #33 =
+INFO  20:38:21,730 - #36 3
+INFO  20:38:21,730 - #32 ;
+INFO  20:38:21,733 - #38 char
+INFO  20:38:21,735 - #38 carr
+INFO  20:38:21,735 - #16 [
+INFO  20:38:21,735 - #17 ]
+INFO  20:38:21,735 - #32 ;
+INFO  20:38:21,736 - #34 {
+INFO  20:38:21,737 - #14 void
+INFO  20:38:21,737 - #38 main
+INFO  20:38:21,738 - #15 (
+INFO  20:38:21,738 - #5 )
+INFO  20:38:21,738 - #34 {
+INFO  20:38:21,738 - #38 a
+INFO  20:38:21,739 - #33 =
+INFO  20:38:21,740 - #38 b
+INFO  20:38:21,745 - #32 ;
+INFO  20:38:21,747 - #35 }
+INFO  20:38:21,747 - #35 }
+INFO  20:38:21,750 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList4(
+      ) [ConVarDecList4]
+      ConDecList(
+        Type(
+         int
+        ) [Type]
+        ConDecl(
+         pi
+          ConstantN(
+           3
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       char
+      ) [Type]
+      VarDeclArray(
+       carr
+      ) [VarDeclArray]
+      VarDeclMoreE(
+      ) [VarDeclMoreE]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListR(
+        StatementListE(
+        ) [StatementListE]
+        StatementDS(
+          DesignatorStatementASS(
+            DesignatorVar(
+             a
+            ) [DesignatorVar]
+            Assignop(
+            ) [Assignop]
+            AddExpr(
+              FactorTerm(
+                Factor(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorD(
+                    DesignatorVar(
+                     b
+                    ) [DesignatorVar]
+                  ) [FactorD]
+                ) [Factor]
+              ) [FactorTerm]
+              AddopTermListE(
+              ) [AddopTermListE]
+            ) [AddExpr]
+          ) [DesignatorStatementASS]
+        ) [StatementDS]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  20:38:21,750 - ===================================
+INFO  20:38:21,750 - Parsiranje uspesno zavrseno

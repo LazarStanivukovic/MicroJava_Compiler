@@ -1,0 +1,159 @@
+INFO  23:04:25,089 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  23:04:25,152 - #30 program
+INFO  23:04:25,152 - #38 Keske
+INFO  23:04:25,152 - #31 const
+INFO  23:04:25,154 - #38 int
+INFO  23:04:25,154 - #38 pi
+INFO  23:04:25,155 - #33 =
+INFO  23:04:25,155 - #36 13
+INFO  23:04:25,155 - #6 ,
+INFO  23:04:25,156 - #38 g
+INFO  23:04:25,156 - #33 =
+INFO  23:04:25,156 - #36 9
+INFO  23:04:25,156 - #32 ;
+INFO  23:04:25,158 - #31 const
+INFO  23:04:25,160 - #38 bool
+INFO  23:04:25,160 - #38 b
+INFO  23:04:25,160 - #33 =
+INFO  23:04:25,160 - #37 1
+INFO  23:04:25,160 - #32 ;
+INFO  23:04:25,160 - #31 const
+INFO  23:04:25,161 - #38 char
+INFO  23:04:25,161 - #38 a
+INFO  23:04:25,161 - #33 =
+INFO  23:04:25,162 - #39 a
+INFO  23:04:25,162 - #32 ;
+INFO  23:04:25,162 - #38 char
+INFO  23:04:25,162 - #38 h
+INFO  23:04:25,162 - #6 ,
+INFO  23:04:25,163 - #38 j
+INFO  23:04:25,163 - #16 [
+INFO  23:04:25,163 - #17 ]
+INFO  23:04:25,163 - #32 ;
+INFO  23:04:25,165 - #34 {
+INFO  23:04:25,166 - #14 void
+INFO  23:04:25,166 - #38 main
+INFO  23:04:25,167 - #15 (
+INFO  23:04:25,168 - #5 )
+INFO  23:04:25,168 - #38 int
+INFO  23:04:25,168 - #38 a
+INFO  23:04:25,169 - #6 ,
+INFO  23:04:25,169 - #38 b
+INFO  23:04:25,169 - #16 [
+INFO  23:04:25,169 - #17 ]
+INFO  23:04:25,169 - #32 ;
+INFO  23:04:25,169 - #34 {
+INFO  23:04:25,169 - #35 }
+INFO  23:04:25,170 - #35 }
+INFO  23:04:25,174 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList1(
+        ConVarDecList1(
+          ConVarDecList4(
+          ) [ConVarDecList4]
+          ConDecList(
+            Type(
+             int
+            ) [Type]
+            ConDecl(
+             pi
+              ConstantN(
+               13
+              ) [ConstantN]
+            ) [ConDecl]
+            ConDeclMore1(
+              ConDecl(
+               g
+                ConstantN(
+                 9
+                ) [ConstantN]
+              ) [ConDecl]
+              ConDeclMore2(
+              ) [ConDeclMore2]
+            ) [ConDeclMore1]
+          ) [ConDecList]
+        ) [ConVarDecList1]
+        ConDecList(
+          Type(
+           bool
+          ) [Type]
+          ConDecl(
+           b
+            ConstantB(
+             1
+            ) [ConstantB]
+          ) [ConDecl]
+          ConDeclMore2(
+          ) [ConDeclMore2]
+        ) [ConDecList]
+      ) [ConVarDecList1]
+      ConDecList(
+        Type(
+         char
+        ) [Type]
+        ConDecl(
+         a
+          ConstantC(
+           a
+          ) [ConstantC]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       char
+      ) [Type]
+      VarDeclVar(
+       h
+      ) [VarDeclVar]
+      VarDeclMoreCOMMA(
+        VarDeclArray(
+         j
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclMoreCOMMA]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecE(
+        ) [VarDeclListRecE]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDeclVar(
+           a
+          ) [VarDeclVar]
+          VarDeclMoreCOMMA(
+            VarDeclArray(
+             b
+            ) [VarDeclArray]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclMoreCOMMA]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  23:04:25,174 - ===================================
+ERROR 23:04:25,181 - Dvostruka definicija promenljive: h na liniji 8
+ERROR 23:04:25,181 - Dvostruka definicija promenljive: j na liniji 8
+ERROR 23:04:25,181 - Dvostruka definicija promenljive: a na liniji 10
+ERROR 23:04:25,181 - Dvostruka definicija promenljive: b na liniji 10
+INFO  23:04:25,182 - ===================================
+INFO  23:04:25,184 - Parsiranje NIJE uspesno zavrseno

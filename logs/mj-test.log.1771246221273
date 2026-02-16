@@ -1,0 +1,209 @@
+INFO  13:48:10,901 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj2.mj
+INFO  13:48:11,007 - #30 program
+INFO  13:48:11,008 - #38 TestLength
+INFO  13:48:11,008 - #31 const
+INFO  13:48:11,011 - #38 int
+INFO  13:48:11,011 - #38 pi
+INFO  13:48:11,013 - #33 =
+INFO  13:48:11,013 - #36 3
+INFO  13:48:11,013 - #32 ;
+INFO  13:48:11,017 - #38 int
+INFO  13:48:11,019 - #38 x
+INFO  13:48:11,019 - #6 ,
+INFO  13:48:11,020 - #38 y
+INFO  13:48:11,020 - #16 [
+INFO  13:48:11,020 - #17 ]
+INFO  13:48:11,020 - #32 ;
+INFO  13:48:11,021 - #34 {
+INFO  13:48:11,024 - #14 void
+INFO  13:48:11,024 - #38 main
+INFO  13:48:11,024 - #15 (
+INFO  13:48:11,025 - #5 )
+INFO  13:48:11,025 - #38 int
+INFO  13:48:11,027 - #38 a
+INFO  13:48:11,027 - #6 ,
+INFO  13:48:11,027 - #38 b
+INFO  13:48:11,027 - #6 ,
+INFO  13:48:11,027 - #38 c
+INFO  13:48:11,027 - #16 [
+INFO  13:48:11,027 - #17 ]
+INFO  13:48:11,027 - #32 ;
+INFO  13:48:11,027 - #38 char
+INFO  13:48:11,027 - #38 carr
+INFO  13:48:11,027 - #16 [
+INFO  13:48:11,027 - #17 ]
+INFO  13:48:11,027 - #32 ;
+INFO  13:48:11,027 - #34 {
+INFO  13:48:11,027 - #38 c
+INFO  13:48:11,029 - #33 =
+INFO  13:48:11,029 - #8 new
+INFO  13:48:11,032 - #38 int
+INFO  13:48:11,032 - #16 [
+INFO  13:48:11,032 - #36 5
+INFO  13:48:11,032 - #17 ]
+INFO  13:48:11,034 - #32 ;
+INFO  13:48:11,034 - #38 len
+INFO  13:48:11,035 - #15 (
+INFO  13:48:11,035 - #38 c
+INFO  13:48:11,035 - #5 )
+INFO  13:48:11,035 - #32 ;
+INFO  13:48:11,035 - #35 }
+INFO  13:48:11,035 - #35 }
+INFO  13:48:11,038 - Program(
+  ProgramName(
+   TestLength
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList4(
+      ) [ConVarDecList4]
+      ConDecList(
+        Type(
+         int
+        ) [Type]
+        ConDecl(
+         pi
+          ConstantN(
+           3
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDeclVar(
+       x
+      ) [VarDeclVar]
+      VarDeclMoreCOMMA(
+        VarDeclArray(
+         y
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclMoreCOMMA]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecE(
+          ) [VarDeclListRecE]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDeclVar(
+             a
+            ) [VarDeclVar]
+            VarDeclMoreCOMMA(
+              VarDeclVar(
+               b
+              ) [VarDeclVar]
+              VarDeclMoreCOMMA(
+                VarDeclArray(
+                 c
+                ) [VarDeclArray]
+                VarDeclMoreE(
+                ) [VarDeclMoreE]
+              ) [VarDeclMoreCOMMA]
+            ) [VarDeclMoreCOMMA]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDeclArray(
+           carr
+          ) [VarDeclArray]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListR(
+          StatementListE(
+          ) [StatementListE]
+          StatementDS(
+            DesignatorStatementASS(
+              DesignatorVar(
+               c
+              ) [DesignatorVar]
+              Assignop(
+              ) [Assignop]
+              AddExpr(
+                FactorTerm(
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorIdent(
+                      Type(
+                       int
+                      ) [Type]
+                      AddExpr(
+                        FactorTerm(
+                          Factor(
+                            NoMinus(
+                            ) [NoMinus]
+                            FactorNum(
+                             5
+                            ) [FactorNum]
+                          ) [Factor]
+                        ) [FactorTerm]
+                        AddopTermListE(
+                        ) [AddopTermListE]
+                      ) [AddExpr]
+                    ) [FactorIdent]
+                  ) [Factor]
+                ) [FactorTerm]
+                AddopTermListE(
+                ) [AddopTermListE]
+              ) [AddExpr]
+            ) [DesignatorStatementASS]
+          ) [StatementDS]
+        ) [StatementListR]
+        StatementDS(
+          DesignatorStatementACTP(
+            DesignatorVar(
+             len
+            ) [DesignatorVar]
+            ActParsL(
+              ActListExpr(
+                AddExpr(
+                  FactorTerm(
+                    Factor(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorD(
+                        DesignatorVar(
+                         c
+                        ) [DesignatorVar]
+                      ) [FactorD]
+                    ) [Factor]
+                  ) [FactorTerm]
+                  AddopTermListE(
+                  ) [AddopTermListE]
+                ) [AddExpr]
+              ) [ActListExpr]
+            ) [ActParsL]
+          ) [DesignatorStatementACTP]
+        ) [StatementDS]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  13:48:11,038 - ===================================
+INFO  13:48:11,046 - Upotreba lokalne promenljive c, Obj node: [kind=Var, name=c, type=Arr of int, adr=2, level=1] na liniji 10
+INFO  13:48:11,047 - Poziv metode len, Obj node: [kind=Meth, name=len, type=int, adr=0, level=1] na liniji 12
+INFO  13:48:11,047 - Upotreba lokalne promenljive c, Obj node: [kind=Var, name=c, type=Arr of int, adr=2, level=1] na liniji 12
+INFO  13:48:11,047 - Poziv funkcije kao statement: len na liniji 12
+INFO  13:48:11,048 - ===================================
+INFO  13:48:11,052 - Parsiranje i Generisanje uspesno zavrseno

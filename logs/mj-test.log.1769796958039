@@ -1,0 +1,6 @@
+INFO  17:17:41,913 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\test301.mj
+INFO  17:17:41,956 - #2 program
+INFO  17:17:41,956 - #29 test301
+INFO  17:17:41,956 - #30 enum
+ERROR 17:17:41,956 - Sintaksna greska na liniji 5
+ERROR 17:17:41,956 - Fatalna greska, parsiranje prekinuto na liniji 5

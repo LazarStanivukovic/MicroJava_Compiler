@@ -1,0 +1,108 @@
+INFO  19:49:08,463 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  19:49:08,498 - #30 program
+INFO  19:49:08,498 - #38 Keske
+INFO  19:49:08,498 - #38 int
+INFO  19:49:08,499 - #38 x
+INFO  19:49:08,500 - #32 ;
+INFO  19:49:08,500 - #34 {
+INFO  19:49:08,501 - #14 void
+INFO  19:49:08,501 - #38 main
+INFO  19:49:08,501 - #15 (
+INFO  19:49:08,502 - #5 )
+INFO  19:49:08,502 - #34 {
+INFO  19:49:08,503 - #38 a
+INFO  19:49:08,504 - #24 ++
+INFO  19:49:08,504 - #32 ;
+INFO  19:49:08,504 - #38 b
+INFO  19:49:08,504 - #33 =
+INFO  19:49:08,504 - #36 3
+INFO  19:49:08,505 - #32 ;
+INFO  19:49:08,508 - #26 print
+INFO  19:49:08,508 - #15 (
+INFO  19:49:08,508 - #39 x
+INFO  19:49:08,508 - #5 )
+INFO  19:49:08,509 - #32 ;
+INFO  19:49:08,510 - #35 }
+INFO  19:49:08,510 - #35 }
+INFO  19:49:08,512 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDeclVar(
+       x
+      ) [VarDeclVar]
+      VarDeclMoreE(
+      ) [VarDeclMoreE]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListR(
+        StatementListR(
+          StatementListR(
+            StatementListE(
+            ) [StatementListE]
+            StatementDS(
+              DesignatorStatementINC(
+                DesignatorVar(
+                 a
+                ) [DesignatorVar]
+              ) [DesignatorStatementINC]
+            ) [StatementDS]
+          ) [StatementListR]
+          StatementDS(
+            DesignatorStatementASS(
+              DesignatorVar(
+               b
+              ) [DesignatorVar]
+              Assignop(
+              ) [Assignop]
+              AddExpr(
+                FactorTerm(
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorNum(
+                     3
+                    ) [FactorNum]
+                  ) [Factor]
+                ) [FactorTerm]
+                AddopTermListE(
+                ) [AddopTermListE]
+              ) [AddExpr]
+            ) [DesignatorStatementASS]
+          ) [StatementDS]
+        ) [StatementListR]
+        StatementP1(
+          AddExpr(
+            FactorTerm(
+              Factor(
+                NoMinus(
+                ) [NoMinus]
+                FactorChar(
+                 x
+                ) [FactorChar]
+              ) [Factor]
+            ) [FactorTerm]
+            AddopTermListE(
+            ) [AddopTermListE]
+          ) [AddExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  19:49:08,513 - ===================================
+INFO  19:49:08,513 - Parsiranje uspesno zavrseno

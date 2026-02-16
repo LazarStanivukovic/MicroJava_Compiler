@@ -1,0 +1,240 @@
+INFO  22:27:28,094 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  22:27:28,205 - #30 program
+INFO  22:27:28,206 - #38 Keske
+INFO  22:27:28,206 - #31 const
+INFO  22:27:28,208 - #38 int
+INFO  22:27:28,209 - #38 pi
+INFO  22:27:28,211 - #33 =
+INFO  22:27:28,212 - #36 3
+INFO  22:27:28,212 - #6 ,
+INFO  22:27:28,214 - #38 g
+INFO  22:27:28,214 - #33 =
+INFO  22:27:28,214 - #36 11
+INFO  22:27:28,215 - #32 ;
+INFO  22:27:28,218 - #38 char
+INFO  22:27:28,221 - #38 x
+INFO  22:27:28,221 - #6 ,
+INFO  22:27:28,221 - #38 y
+INFO  22:27:28,222 - #16 [
+INFO  22:27:28,222 - #17 ]
+INFO  22:27:28,222 - #32 ;
+INFO  22:27:28,225 - #31 const
+INFO  22:27:28,227 - #38 bool
+INFO  22:27:28,230 - #38 t
+INFO  22:27:28,230 - #33 =
+INFO  22:27:28,230 - #37 1
+INFO  22:27:28,230 - #32 ;
+INFO  22:27:28,230 - #34 {
+INFO  22:27:28,230 - #14 void
+INFO  22:27:28,231 - #38 main
+INFO  22:27:28,231 - #15 (
+INFO  22:27:28,231 - #5 )
+INFO  22:27:28,231 - #38 int
+INFO  22:27:28,234 - #38 a
+INFO  22:27:28,234 - #6 ,
+INFO  22:27:28,234 - #38 b
+INFO  22:27:28,234 - #16 [
+INFO  22:27:28,234 - #17 ]
+INFO  22:27:28,234 - #32 ;
+INFO  22:27:28,234 - #38 int
+INFO  22:27:28,234 - #38 x
+INFO  22:27:28,234 - #16 [
+INFO  22:27:28,234 - #17 ]
+INFO  22:27:28,234 - #6 ,
+INFO  22:27:28,235 - #38 y
+INFO  22:27:28,235 - #32 ;
+INFO  22:27:28,235 - #38 char
+INFO  22:27:28,235 - #38 eol
+INFO  22:27:28,235 - #32 ;
+INFO  22:27:28,235 - #34 {
+INFO  22:27:28,235 - #26 print
+INFO  22:27:28,236 - #15 (
+INFO  22:27:28,237 - #38 x
+INFO  22:27:28,238 - #5 )
+INFO  22:27:28,241 - #32 ;
+INFO  22:27:28,241 - #26 print
+INFO  22:27:28,242 - #15 (
+INFO  22:27:28,242 - #38 x
+INFO  22:27:28,242 - #16 [
+INFO  22:27:28,243 - #36 2
+INFO  22:27:28,243 - #17 ]
+INFO  22:27:28,243 - #5 )
+INFO  22:27:28,244 - #32 ;
+INFO  22:27:28,244 - #35 }
+INFO  22:27:28,244 - #35 }
+INFO  22:27:28,249 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList2(
+      ConVarDecList1(
+        ConVarDecList4(
+        ) [ConVarDecList4]
+        ConDecList(
+          Type(
+           int
+          ) [Type]
+          ConDecl(
+           pi
+            ConstantN(
+             3
+            ) [ConstantN]
+          ) [ConDecl]
+          ConDeclMore1(
+            ConDecl(
+             g
+              ConstantN(
+               11
+              ) [ConstantN]
+            ) [ConDecl]
+            ConDeclMore2(
+            ) [ConDeclMore2]
+          ) [ConDeclMore1]
+        ) [ConDecList]
+      ) [ConVarDecList1]
+      VarDeclList(
+        Type(
+         char
+        ) [Type]
+        VarDeclVar(
+         x
+        ) [VarDeclVar]
+        VarDeclMoreCOMMA(
+          VarDeclArray(
+           y
+          ) [VarDeclArray]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclMoreCOMMA]
+      ) [VarDeclList]
+    ) [ConVarDecList2]
+    ConDecList(
+      Type(
+       bool
+      ) [Type]
+      ConDecl(
+       t
+        ConstantB(
+         1
+        ) [ConstantB]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecR(
+            VarDeclListRecE(
+            ) [VarDeclListRecE]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDeclVar(
+               a
+              ) [VarDeclVar]
+              VarDeclMoreCOMMA(
+                VarDeclArray(
+                 b
+                ) [VarDeclArray]
+                VarDeclMoreE(
+                ) [VarDeclMoreE]
+              ) [VarDeclMoreCOMMA]
+            ) [VarDeclList]
+          ) [VarDeclListRecR]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDeclArray(
+             x
+            ) [VarDeclArray]
+            VarDeclMoreCOMMA(
+              VarDeclVar(
+               y
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclMoreCOMMA]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDeclVar(
+           eol
+          ) [VarDeclVar]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListR(
+          StatementListE(
+          ) [StatementListE]
+          StatementP1(
+            AddExpr(
+              FactorTerm(
+                Factor(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorD(
+                    DesignatorVar(
+                     x
+                    ) [DesignatorVar]
+                  ) [FactorD]
+                ) [Factor]
+              ) [FactorTerm]
+              AddopTermListE(
+              ) [AddopTermListE]
+            ) [AddExpr]
+          ) [StatementP1]
+        ) [StatementListR]
+        StatementP1(
+          AddExpr(
+            FactorTerm(
+              Factor(
+                NoMinus(
+                ) [NoMinus]
+                FactorD(
+                  DesignatorElem(
+                    DesignatorName(
+                     x
+                    ) [DesignatorName]
+                    AddExpr(
+                      FactorTerm(
+                        Factor(
+                          NoMinus(
+                          ) [NoMinus]
+                          FactorNum(
+                           2
+                          ) [FactorNum]
+                        ) [Factor]
+                      ) [FactorTerm]
+                      AddopTermListE(
+                      ) [AddopTermListE]
+                    ) [AddExpr]
+                  ) [DesignatorElem]
+                ) [FactorD]
+              ) [Factor]
+            ) [FactorTerm]
+            AddopTermListE(
+            ) [AddopTermListE]
+          ) [AddExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  22:27:28,249 - ===================================
+ERROR 22:27:28,260 - Print operacija ne int/char/bool izraza:  na liniji 7
+INFO  22:27:28,260 - ===================================
+INFO  22:27:28,262 - Parsiranje NIJE uspesno zavrseno

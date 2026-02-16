@@ -1,0 +1,141 @@
+INFO  23:13:46,280 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj2.mj
+INFO  23:13:46,365 - #30 program
+INFO  23:13:46,366 - #38 TestLength
+INFO  23:13:46,366 - #31 const
+INFO  23:13:46,369 - #38 int
+INFO  23:13:46,369 - #38 pi
+INFO  23:13:46,370 - #33 =
+INFO  23:13:46,370 - #36 3
+INFO  23:13:46,371 - #32 ;
+INFO  23:13:46,373 - #38 int
+INFO  23:13:46,375 - #38 x
+INFO  23:13:46,375 - #6 ,
+INFO  23:13:46,375 - #38 y
+INFO  23:13:46,375 - #16 [
+INFO  23:13:46,375 - #17 ]
+INFO  23:13:46,375 - #32 ;
+INFO  23:13:46,378 - #34 {
+INFO  23:13:46,380 - #14 void
+INFO  23:13:46,381 - #38 main
+INFO  23:13:46,381 - #15 (
+INFO  23:13:46,383 - #5 )
+INFO  23:13:46,383 - #38 int
+INFO  23:13:46,386 - #38 a
+INFO  23:13:46,387 - #6 ,
+INFO  23:13:46,387 - #38 b
+INFO  23:13:46,387 - #32 ;
+INFO  23:13:46,387 - #38 char
+INFO  23:13:46,387 - #38 carr
+INFO  23:13:46,387 - #16 [
+INFO  23:13:46,387 - #17 ]
+INFO  23:13:46,388 - #32 ;
+INFO  23:13:46,388 - #34 {
+INFO  23:13:46,388 - #26 print
+INFO  23:13:46,389 - #15 (
+INFO  23:13:46,389 - #38 pi
+INFO  23:13:46,392 - #5 )
+INFO  23:13:46,395 - #32 ;
+INFO  23:13:46,396 - #35 }
+INFO  23:13:46,396 - #35 }
+INFO  23:13:46,402 - Program(
+  ProgramName(
+   TestLength
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList4(
+      ) [ConVarDecList4]
+      ConDecList(
+        Type(
+         int
+        ) [Type]
+        ConDecl(
+         pi
+          ConstantN(
+           3
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDeclVar(
+       x
+      ) [VarDeclVar]
+      VarDeclMoreCOMMA(
+        VarDeclArray(
+         y
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclMoreCOMMA]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecE(
+          ) [VarDeclListRecE]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDeclVar(
+             a
+            ) [VarDeclVar]
+            VarDeclMoreCOMMA(
+              VarDeclVar(
+               b
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclMoreCOMMA]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDeclArray(
+           carr
+          ) [VarDeclArray]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListE(
+        ) [StatementListE]
+        StatementP1(
+          AddExpr(
+            FactorTerm(
+              Factor(
+                NoMinus(
+                ) [NoMinus]
+                FactorD(
+                  DesignatorVar(
+                   pi
+                  ) [DesignatorVar]
+                ) [FactorD]
+              ) [Factor]
+            ) [FactorTerm]
+            AddopTermListE(
+            ) [AddopTermListE]
+          ) [AddExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  23:13:46,402 - ===================================
+INFO  23:13:46,419 - Upotreba simbolicke konstante pi, Obj node: [kind=Con, name=pi, type=int, adr=3, level=0] na liniji 16
+INFO  23:13:46,420 - ===================================
+INFO  23:13:46,431 - Parsiranje i Generisanje uspesno zavrseno

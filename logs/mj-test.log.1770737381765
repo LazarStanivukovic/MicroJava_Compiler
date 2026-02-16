@@ -1,0 +1,92 @@
+INFO  16:18:41,619 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  16:18:41,707 - #30 program
+INFO  16:18:41,707 - #38 Keske
+INFO  16:18:41,707 - #31 const
+INFO  16:18:41,709 - #38 int
+INFO  16:18:41,709 - #38 pi
+INFO  16:18:41,710 - #33 =
+INFO  16:18:41,710 - #36 3
+INFO  16:18:41,710 - #32 ;
+INFO  16:18:41,713 - #31 const
+INFO  16:18:41,714 - #38 char
+INFO  16:18:41,714 - #38 c
+INFO  16:18:41,714 - #33 =
+INFO  16:18:41,714 - #39 c
+INFO  16:18:41,714 - #32 ;
+INFO  16:18:41,715 - #31 const
+INFO  16:18:41,715 - #38 bool
+INFO  16:18:41,715 - #38 b
+INFO  16:18:41,715 - #33 =
+INFO  16:18:41,715 - #37 1
+INFO  16:18:41,715 - #32 ;
+INFO  16:18:41,715 - #34 {
+INFO  16:18:41,717 - #14 void
+INFO  16:18:41,717 - #38 main
+INFO  16:18:41,717 - #15 (
+INFO  16:18:41,719 - #5 )
+INFO  16:18:41,719 - #34 {
+INFO  16:18:41,720 - #35 }
+INFO  16:18:41,721 - #35 }
+INFO  16:18:41,724 - Program(
+ Keske
+  ConVarDecList1(
+    ConVarDecList1(
+      ConVarDecList1(
+        ConVarDecList4(
+        ) [ConVarDecList4]
+        ConDecList(
+          Type(
+           int
+          ) [Type]
+          ConDecl(
+           pi
+            ConstantN(
+             3
+            ) [ConstantN]
+          ) [ConDecl]
+          ConDeclMore2(
+          ) [ConDeclMore2]
+        ) [ConDecList]
+      ) [ConVarDecList1]
+      ConDecList(
+        Type(
+         char
+        ) [Type]
+        ConDecl(
+         c
+          ConstantC(
+           c
+          ) [ConstantC]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    ConDecList(
+      Type(
+       bool
+      ) [Type]
+      ConDecl(
+       b
+        ConstantB(
+         1
+        ) [ConstantB]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  16:18:41,724 - ===================================
+INFO  16:18:41,724 - Parsiranje uspesno zavrseno

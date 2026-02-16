@@ -1,0 +1,54 @@
+INFO  22:22:18,120 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  22:22:18,152 - #30 program
+INFO  22:22:18,152 - #38 Keske
+INFO  22:22:18,152 - #31 const
+INFO  22:22:18,152 - #38 int
+INFO  22:22:18,153 - #38 pi
+INFO  22:22:18,153 - #33 =
+INFO  22:22:18,153 - #36 3
+INFO  22:22:18,153 - #32 ;
+INFO  22:22:18,155 - #34 {
+INFO  22:22:18,156 - #14 void
+INFO  22:22:18,156 - #38 main
+INFO  22:22:18,156 - #15 (
+INFO  22:22:18,156 - #5 )
+INFO  22:22:18,156 - #34 {
+INFO  22:22:18,157 - #35 }
+INFO  22:22:18,158 - #35 }
+INFO  22:22:18,159 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    ConDecList(
+      Type(
+       int
+      ) [Type]
+      ConDecl(
+       pi
+        ConstantN(
+         3
+        ) [ConstantN]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  22:22:18,160 - ===================================
+ERROR 22:22:18,165 - Dvostruka definicija konstante: pi na liniji 3
+INFO  22:22:18,165 - ===================================
+INFO  22:22:18,165 - Parsiranje NIJE uspesno zavrseno

@@ -1,0 +1,116 @@
+// generated with ast extension for cup
+// version 0.8
+// 16/1/2026 15:39:15
+
+
+package rs.ac.bg.etf.pp1.ast;
+
+public interface Visitor { 
+
+    public void visit(Mulop Mulop);
+    public void visit(Constant Constant);
+    public void visit(Relop Relop);
+    public void visit(EnumElemList EnumElemList);
+    public void visit(OptMinus OptMinus);
+    public void visit(StatementList StatementList);
+    public void visit(FactorList FactorList);
+    public void visit(Addop Addop);
+    public void visit(ConVarDecList ConVarDecList);
+    public void visit(Designator Designator);
+    public void visit(Term Term);
+    public void visit(VarDeclListRec VarDeclListRec);
+    public void visit(Expr Expr);
+    public void visit(ActPars ActPars);
+    public void visit(DesignatorStatement DesignatorStatement);
+    public void visit(ConDeclMore ConDeclMore);
+    public void visit(ActList ActList);
+    public void visit(Statement Statement);
+    public void visit(VarDecl VarDecl);
+    public void visit(VarDeclMore VarDeclMore);
+    public void visit(CondFact CondFact);
+    public void visit(EnumElem EnumElem);
+    public void visit(AddopTermList AddopTermList);
+    public void visit(RelopLT RelopLT);
+    public void visit(RelopGT RelopGT);
+    public void visit(RelopLE RelopLE);
+    public void visit(RelopGE RelopGE);
+    public void visit(RelopNE RelopNE);
+    public void visit(RelopEQ RelopEQ);
+    public void visit(AddopMINUS AddopMINUS);
+    public void visit(AddopADD AddopADD);
+    public void visit(MulopMOD MulopMOD);
+    public void visit(MulopDIV MulopDIV);
+    public void visit(MulopMUL MulopMUL);
+    public void visit(Assignop Assignop);
+    public void visit(DesignatorName DesignatorName);
+    public void visit(DesignatorLength DesignatorLength);
+    public void visit(DesignatorField DesignatorField);
+    public void visit(DesignatorElem DesignatorElem);
+    public void visit(DesignatorVar DesignatorVar);
+    public void visit(FactorExpr FactorExpr);
+    public void visit(FactorIdent FactorIdent);
+    public void visit(FactorBool FactorBool);
+    public void visit(FactorChar FactorChar);
+    public void visit(FactorNum FactorNum);
+    public void visit(FactorDA FactorDA);
+    public void visit(FactorD FactorD);
+    public void visit(Factor Factor);
+    public void visit(FactorTerm FactorTerm);
+    public void visit(MulTerm MulTerm);
+    public void visit(AddopTermListE AddopTermListE);
+    public void visit(AddopTermList1 AddopTermList1);
+    public void visit(NoMinus NoMinus);
+    public void visit(NegativeExpr NegativeExpr);
+    public void visit(TernaryMarker TernaryMarker);
+    public void visit(AddExpr AddExpr);
+    public void visit(TernaryExpr TernaryExpr);
+    public void visit(CondFactBez CondFactBez);
+    public void visit(CondFactRelop CondFactRelop);
+    public void visit(ActListExpr ActListExpr);
+    public void visit(ActListComma ActListComma);
+    public void visit(ActParsE ActParsE);
+    public void visit(ActParsL ActParsL);
+    public void visit(DesignatorStatementACTP DesignatorStatementACTP);
+    public void visit(DesignatorStatementDEC DesignatorStatementDEC);
+    public void visit(DesignatorStatementINC DesignatorStatementINC);
+    public void visit(DesignatorStatementError DesignatorStatementError);
+    public void visit(DesignatorStatementASS DesignatorStatementASS);
+    public void visit(StatementP2 StatementP2);
+    public void visit(StatementP1 StatementP1);
+    public void visit(StatementREAD StatementREAD);
+    public void visit(StatementRET StatementRET);
+    public void visit(StatementDS StatementDS);
+    public void visit(StatementListE StatementListE);
+    public void visit(StatementListR StatementListR);
+    public void visit(VarDeclListRecE VarDeclListRecE);
+    public void visit(VarDeclListRecR VarDeclListRecR);
+    public void visit(MethodName MethodName);
+    public void visit(MethodDecl MethodDecl);
+    public void visit(MethodDeclList MethodDeclList);
+    public void visit(VarDeclMoreE VarDeclMoreE);
+    public void visit(VarDeclMoreCOMMA VarDeclMoreCOMMA);
+    public void visit(VarDeclArray VarDeclArray);
+    public void visit(VarDeclVar VarDeclVar);
+    public void visit(VarDeclList VarDeclList);
+    public void visit(Type Type);
+    public void visit(ConDeclMore2 ConDeclMore2);
+    public void visit(ConDeclMore1 ConDeclMore1);
+    public void visit(ConstantB ConstantB);
+    public void visit(ConstantC ConstantC);
+    public void visit(ConstantN ConstantN);
+    public void visit(ConDecl ConDecl);
+    public void visit(ConDecList ConDecList);
+    public void visit(EnumElemWithValue EnumElemWithValue);
+    public void visit(EnumElemNoValue EnumElemNoValue);
+    public void visit(EnumElemSingle EnumElemSingle);
+    public void visit(EnumElemListMore EnumElemListMore);
+    public void visit(EnumName EnumName);
+    public void visit(EnumDeclList EnumDeclList);
+    public void visit(ConVarDecList4 ConVarDecList4);
+    public void visit(ConVarDecList3 ConVarDecList3);
+    public void visit(ConVarDecList2 ConVarDecList2);
+    public void visit(ConVarDecList1 ConVarDecList1);
+    public void visit(ProgramName ProgramName);
+    public void visit(Program Program);
+
+}

@@ -1,0 +1,233 @@
+INFO  14:31:20,674 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj2.mj
+INFO  14:31:20,740 - #30 program
+INFO  14:31:20,741 - #38 TestLength
+INFO  14:31:20,741 - #31 const
+INFO  14:31:20,743 - #38 int
+INFO  14:31:20,743 - #38 pi
+INFO  14:31:20,744 - #33 =
+INFO  14:31:20,744 - #36 3
+INFO  14:31:20,744 - #32 ;
+INFO  14:31:20,746 - #19 enum
+INFO  14:31:20,747 - #38 Broj
+INFO  14:31:20,747 - #34 {
+INFO  14:31:20,749 - #38 NULA
+INFO  14:31:20,749 - #6 ,
+INFO  14:31:20,749 - #38 JEDAN
+INFO  14:31:20,749 - #6 ,
+INFO  14:31:20,749 - #38 PET
+INFO  14:31:20,749 - #33 =
+INFO  14:31:20,749 - #36 5
+INFO  14:31:20,750 - #6 ,
+INFO  14:31:20,750 - #38 DESET
+INFO  14:31:20,750 - #33 =
+INFO  14:31:20,751 - #36 10
+INFO  14:31:20,751 - #35 }
+INFO  14:31:20,751 - #38 int
+INFO  14:31:20,752 - #38 x
+INFO  14:31:20,752 - #6 ,
+INFO  14:31:20,753 - #38 y
+INFO  14:31:20,753 - #16 [
+INFO  14:31:20,753 - #17 ]
+INFO  14:31:20,753 - #32 ;
+INFO  14:31:20,753 - #34 {
+INFO  14:31:20,754 - #14 void
+INFO  14:31:20,754 - #38 main
+INFO  14:31:20,754 - #15 (
+INFO  14:31:20,755 - #5 )
+INFO  14:31:20,755 - #38 int
+INFO  14:31:20,755 - #38 a
+INFO  14:31:20,755 - #6 ,
+INFO  14:31:20,756 - #38 b
+INFO  14:31:20,756 - #6 ,
+INFO  14:31:20,756 - #38 c
+INFO  14:31:20,756 - #16 [
+INFO  14:31:20,756 - #17 ]
+INFO  14:31:20,756 - #32 ;
+INFO  14:31:20,756 - #38 char
+INFO  14:31:20,757 - #38 carr
+INFO  14:31:20,757 - #16 [
+INFO  14:31:20,757 - #17 ]
+INFO  14:31:20,757 - #32 ;
+INFO  14:31:20,757 - #38 Broj
+INFO  14:31:20,757 - #38 nula
+INFO  14:31:20,757 - #6 ,
+INFO  14:31:20,758 - #38 jedan
+INFO  14:31:20,758 - #32 ;
+INFO  14:31:20,758 - #34 {
+INFO  14:31:20,758 - #38 nula
+INFO  14:31:20,759 - #33 =
+INFO  14:31:20,759 - #38 Broj
+INFO  14:31:20,761 - #10 .
+INFO  14:31:20,762 - #38 NULA
+INFO  14:31:20,762 - #32 ;
+INFO  14:31:20,764 - #35 }
+INFO  14:31:20,764 - #35 }
+INFO  14:31:20,766 - Program(
+  ProgramName(
+   TestLength
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList3(
+      ConVarDecList1(
+        ConVarDecList4(
+        ) [ConVarDecList4]
+        ConDecList(
+          Type(
+           int
+          ) [Type]
+          ConDecl(
+           pi
+            ConstantN(
+             3
+            ) [ConstantN]
+          ) [ConDecl]
+          ConDeclMore2(
+          ) [ConDeclMore2]
+        ) [ConDecList]
+      ) [ConVarDecList1]
+      EnumDeclList(
+        EnumName(
+         Broj
+        ) [EnumName]
+        EnumElemListMore(
+          EnumElemListMore(
+            EnumElemListMore(
+              EnumElemSingle(
+                EnumElemNoValue(
+                 NULA
+                ) [EnumElemNoValue]
+              ) [EnumElemSingle]
+              EnumElemNoValue(
+               JEDAN
+              ) [EnumElemNoValue]
+            ) [EnumElemListMore]
+            EnumElemWithValue(
+             PET
+             5
+            ) [EnumElemWithValue]
+          ) [EnumElemListMore]
+          EnumElemWithValue(
+           DESET
+           10
+          ) [EnumElemWithValue]
+        ) [EnumElemListMore]
+      ) [EnumDeclList]
+    ) [ConVarDecList3]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDeclVar(
+       x
+      ) [VarDeclVar]
+      VarDeclMoreCOMMA(
+        VarDeclArray(
+         y
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclMoreCOMMA]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecR(
+            VarDeclListRecE(
+            ) [VarDeclListRecE]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDeclVar(
+               a
+              ) [VarDeclVar]
+              VarDeclMoreCOMMA(
+                VarDeclVar(
+                 b
+                ) [VarDeclVar]
+                VarDeclMoreCOMMA(
+                  VarDeclArray(
+                   c
+                  ) [VarDeclArray]
+                  VarDeclMoreE(
+                  ) [VarDeclMoreE]
+                ) [VarDeclMoreCOMMA]
+              ) [VarDeclMoreCOMMA]
+            ) [VarDeclList]
+          ) [VarDeclListRecR]
+          VarDeclList(
+            Type(
+             char
+            ) [Type]
+            VarDeclArray(
+             carr
+            ) [VarDeclArray]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           Broj
+          ) [Type]
+          VarDeclVar(
+           nula
+          ) [VarDeclVar]
+          VarDeclMoreCOMMA(
+            VarDeclVar(
+             jedan
+            ) [VarDeclVar]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclMoreCOMMA]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListE(
+        ) [StatementListE]
+        StatementDS(
+          DesignatorStatementASS(
+            DesignatorVar(
+             nula
+            ) [DesignatorVar]
+            Assignop(
+            ) [Assignop]
+            AddExpr(
+              FactorTerm(
+                Factor(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorD(
+                    DesignatorField(
+                      DesignatorName(
+                       Broj
+                      ) [DesignatorName]
+                     NULA
+                    ) [DesignatorField]
+                  ) [FactorD]
+                ) [Factor]
+              ) [FactorTerm]
+              AddopTermListE(
+              ) [AddopTermListE]
+            ) [AddExpr]
+          ) [DesignatorStatementASS]
+        ) [StatementDS]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  14:31:20,768 - ===================================
+INFO  14:31:20,780 - Definisana enum konstanta Broj.NULA = 0 na liniji 5
+INFO  14:31:20,780 - Definisana enum konstanta Broj.JEDAN = 1 na liniji 5
+INFO  14:31:20,780 - Definisana enum konstanta Broj.PET = 5 na liniji 5
+INFO  14:31:20,783 - Definisana enum konstanta Broj.DESET = 10 na liniji 5
+INFO  14:31:20,783 - Upotreba lokalne promenljive nula, Obj node: [kind=Var, name=nula, type=Enum, adr=4, level=1] na liniji 12
+INFO  14:31:20,783 - Pristup enum konstanti: Broj.NULA na liniji 12
+INFO  14:31:20,783 - Upotreba simbolicke konstante NULA, Obj node: [kind=Con, name=NULA, type=int, adr=0, level=-1] na liniji 12
+INFO  14:31:20,784 - ===================================
+INFO  14:31:20,793 - Parsiranje i Generisanje uspesno zavrseno

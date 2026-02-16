@@ -1,0 +1,53 @@
+INFO  22:18:49,217 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  22:18:49,252 - #30 program
+INFO  22:18:49,252 - #38 Keske
+INFO  22:18:49,252 - #31 const
+INFO  22:18:49,253 - #38 int
+INFO  22:18:49,254 - #38 pi
+INFO  22:18:49,254 - #33 =
+INFO  22:18:49,254 - #36 3
+INFO  22:18:49,254 - #32 ;
+INFO  22:18:49,256 - #34 {
+INFO  22:18:49,257 - #14 void
+INFO  22:18:49,257 - #38 main
+INFO  22:18:49,257 - #15 (
+INFO  22:18:49,258 - #5 )
+INFO  22:18:49,258 - #34 {
+INFO  22:18:49,259 - #35 }
+INFO  22:18:49,260 - #35 }
+INFO  22:18:49,262 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    ConDecList(
+      Type(
+       int
+      ) [Type]
+      ConDecl(
+       pi
+        ConstantN(
+         3
+        ) [ConstantN]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  22:18:49,264 - ===================================
+INFO  22:18:49,269 - ===================================
+INFO  22:18:49,269 - Parsiranje uspesno zavrseno

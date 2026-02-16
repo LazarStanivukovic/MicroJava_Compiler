@@ -1,0 +1,1929 @@
+INFO  20:44:06,097 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\test301.mj
+INFO  20:44:06,137 - #2 program
+INFO  20:44:06,137 - #29 test301
+INFO  20:44:06,137 - #30 enum
+INFO  20:44:06,138 - #29 Broj
+INFO  20:44:06,138 - #19 {
+INFO  20:44:06,138 - #29 NULA
+INFO  20:44:06,138 - #22 ,
+INFO  20:44:06,138 - #29 JEDAN
+INFO  20:44:06,138 - #22 ,
+INFO  20:44:06,138 - #29 PET
+INFO  20:44:06,138 - #14 =
+INFO  20:44:06,138 - #26 5
+INFO  20:44:06,138 - #22 ,
+INFO  20:44:06,139 - #29 DESET
+INFO  20:44:06,139 - #14 =
+INFO  20:44:06,139 - #26 10
+INFO  20:44:06,139 - #20 }
+INFO  20:44:06,139 - #31 const
+INFO  20:44:06,140 - #29 int
+INFO  20:44:06,140 - #29 nula
+INFO  20:44:06,140 - #14 =
+INFO  20:44:06,141 - #26 0
+INFO  20:44:06,141 - #21 ;
+INFO  20:44:06,141 - #31 const
+INFO  20:44:06,142 - #29 int
+INFO  20:44:06,142 - #29 jedan
+INFO  20:44:06,142 - #14 =
+INFO  20:44:06,142 - #26 1
+INFO  20:44:06,143 - #21 ;
+INFO  20:44:06,143 - #31 const
+INFO  20:44:06,143 - #29 int
+INFO  20:44:06,143 - #29 pet
+INFO  20:44:06,143 - #14 =
+INFO  20:44:06,143 - #26 5
+INFO  20:44:06,143 - #21 ;
+INFO  20:44:06,143 - #29 int
+INFO  20:44:06,143 - #29 niz
+INFO  20:44:06,143 - #17 [
+INFO  20:44:06,143 - #18 ]
+INFO  20:44:06,143 - #21 ;
+INFO  20:44:06,145 - #29 char
+INFO  20:44:06,146 - #29 nizch
+INFO  20:44:06,146 - #17 [
+INFO  20:44:06,146 - #18 ]
+INFO  20:44:06,146 - #21 ;
+INFO  20:44:06,146 - #29 int
+INFO  20:44:06,146 - #29 a
+INFO  20:44:06,146 - #21 ;
+INFO  20:44:06,146 - #19 {
+INFO  20:44:06,147 - #32 void
+INFO  20:44:06,147 - #29 main
+INFO  20:44:06,148 - #15 (
+INFO  20:44:06,148 - #16 )
+INFO  20:44:06,149 - #29 int
+INFO  20:44:06,149 - #29 bodovi
+INFO  20:44:06,149 - #21 ;
+INFO  20:44:06,149 - #29 int
+INFO  20:44:06,149 - #29 temp
+INFO  20:44:06,149 - #21 ;
+INFO  20:44:06,149 - #29 Broj
+INFO  20:44:06,150 - #29 nula
+INFO  20:44:06,150 - #22 ,
+INFO  20:44:06,150 - #29 jedan
+INFO  20:44:06,150 - #21 ;
+INFO  20:44:06,150 - #29 bool
+INFO  20:44:06,150 - #29 bt
+INFO  20:44:06,150 - #21 ;
+INFO  20:44:06,150 - #19 {
+INFO  20:44:06,150 - #29 nula
+INFO  20:44:06,151 - #14 =
+INFO  20:44:06,153 - #29 Broj
+INFO  20:44:06,154 - #23 .
+INFO  20:44:06,154 - #29 NULA
+INFO  20:44:06,155 - #21 ;
+INFO  20:44:06,155 - #29 jedan
+INFO  20:44:06,156 - #14 =
+INFO  20:44:06,156 - #29 Broj
+INFO  20:44:06,156 - #23 .
+INFO  20:44:06,156 - #29 JEDAN
+INFO  20:44:06,156 - #21 ;
+INFO  20:44:06,156 - #29 bodovi
+INFO  20:44:06,156 - #14 =
+INFO  20:44:06,156 - #26 0
+INFO  20:44:06,156 - #21 ;
+INFO  20:44:06,156 - #29 bodovi
+INFO  20:44:06,156 - #12 ++
+INFO  20:44:06,156 - #21 ;
+INFO  20:44:06,156 - #29 bodovi
+INFO  20:44:06,156 - #14 =
+INFO  20:44:06,156 - #29 bodovi
+INFO  20:44:06,156 - #7 +
+INFO  20:44:06,156 - #29 jedan
+INFO  20:44:06,158 - #21 ;
+INFO  20:44:06,158 - #29 bodovi
+INFO  20:44:06,158 - #14 =
+INFO  20:44:06,158 - #29 bodovi
+INFO  20:44:06,158 - #9 *
+INFO  20:44:06,158 - #29 pet
+INFO  20:44:06,160 - #21 ;
+INFO  20:44:06,160 - #29 bodovi
+INFO  20:44:06,160 - #13 --
+INFO  20:44:06,160 - #21 ;
+INFO  20:44:06,160 - #4 print
+INFO  20:44:06,160 - #15 (
+INFO  20:44:06,160 - #29 bodovi
+INFO  20:44:06,160 - #16 )
+INFO  20:44:06,160 - #21 ;
+INFO  20:44:06,160 - #4 print
+INFO  20:44:06,160 - #15 (
+INFO  20:44:06,160 - #29 eol
+INFO  20:44:06,161 - #16 )
+INFO  20:44:06,161 - #21 ;
+INFO  20:44:06,161 - #29 niz
+INFO  20:44:06,161 - #14 =
+INFO  20:44:06,161 - #6 new
+INFO  20:44:06,161 - #29 int
+INFO  20:44:06,161 - #17 [
+INFO  20:44:06,161 - #26 3
+INFO  20:44:06,161 - #18 ]
+INFO  20:44:06,161 - #21 ;
+INFO  20:44:06,161 - #29 niz
+INFO  20:44:06,161 - #17 [
+INFO  20:44:06,161 - #29 nula
+INFO  20:44:06,161 - #18 ]
+INFO  20:44:06,161 - #14 =
+INFO  20:44:06,161 - #26 2
+INFO  20:44:06,162 - #21 ;
+INFO  20:44:06,162 - #29 niz
+INFO  20:44:06,162 - #17 [
+INFO  20:44:06,162 - #29 jedan
+INFO  20:44:06,162 - #18 ]
+INFO  20:44:06,162 - #14 =
+INFO  20:44:06,162 - #26 3
+INFO  20:44:06,162 - #21 ;
+INFO  20:44:06,162 - #29 niz
+INFO  20:44:06,162 - #17 [
+INFO  20:44:06,162 - #29 niz
+INFO  20:44:06,162 - #17 [
+INFO  20:44:06,162 - #29 nula
+INFO  20:44:06,162 - #18 ]
+INFO  20:44:06,162 - #18 ]
+INFO  20:44:06,162 - #14 =
+INFO  20:44:06,163 - #29 niz
+INFO  20:44:06,163 - #17 [
+INFO  20:44:06,163 - #26 1
+INFO  20:44:06,163 - #18 ]
+INFO  20:44:06,163 - #9 *
+INFO  20:44:06,163 - #26 4
+INFO  20:44:06,163 - #21 ;
+INFO  20:44:06,163 - #29 bodovi
+INFO  20:44:06,163 - #14 =
+INFO  20:44:06,163 - #29 niz
+INFO  20:44:06,163 - #17 [
+INFO  20:44:06,163 - #26 2
+INFO  20:44:06,163 - #18 ]
+INFO  20:44:06,163 - #10 /
+INFO  20:44:06,163 - #29 niz
+INFO  20:44:06,164 - #17 [
+INFO  20:44:06,164 - #26 0
+INFO  20:44:06,164 - #18 ]
+INFO  20:44:06,164 - #21 ;
+INFO  20:44:06,164 - #4 print
+INFO  20:44:06,164 - #15 (
+INFO  20:44:06,164 - #29 bodovi
+INFO  20:44:06,164 - #16 )
+INFO  20:44:06,164 - #21 ;
+INFO  20:44:06,164 - #4 print
+INFO  20:44:06,164 - #15 (
+INFO  20:44:06,164 - #29 eol
+INFO  20:44:06,164 - #16 )
+INFO  20:44:06,164 - #21 ;
+INFO  20:44:06,164 - #4 print
+INFO  20:44:06,164 - #15 (
+INFO  20:44:06,164 - #29 niz
+INFO  20:44:06,164 - #17 [
+INFO  20:44:06,164 - #26 2
+INFO  20:44:06,164 - #18 ]
+INFO  20:44:06,165 - #16 )
+INFO  20:44:06,165 - #21 ;
+INFO  20:44:06,165 - #4 print
+INFO  20:44:06,165 - #15 (
+INFO  20:44:06,165 - #29 eol
+INFO  20:44:06,165 - #16 )
+INFO  20:44:06,165 - #21 ;
+INFO  20:44:06,165 - #29 nizch
+INFO  20:44:06,165 - #14 =
+INFO  20:44:06,165 - #6 new
+INFO  20:44:06,165 - #29 char
+INFO  20:44:06,165 - #17 [
+INFO  20:44:06,165 - #26 3
+INFO  20:44:06,165 - #18 ]
+INFO  20:44:06,165 - #21 ;
+INFO  20:44:06,165 - #29 nizch
+INFO  20:44:06,165 - #17 [
+INFO  20:44:06,165 - #26 0
+INFO  20:44:06,165 - #18 ]
+INFO  20:44:06,166 - #14 =
+INFO  20:44:06,166 - #27 a
+INFO  20:44:06,166 - #21 ;
+INFO  20:44:06,166 - #29 nizch
+INFO  20:44:06,166 - #17 [
+INFO  20:44:06,166 - #29 jedan
+INFO  20:44:06,166 - #18 ]
+INFO  20:44:06,166 - #14 =
+INFO  20:44:06,166 - #27 b
+INFO  20:44:06,166 - #21 ;
+INFO  20:44:06,166 - #29 nizch
+INFO  20:44:06,166 - #17 [
+INFO  20:44:06,166 - #29 pet
+INFO  20:44:06,166 - #8 -
+INFO  20:44:06,166 - #26 3
+INFO  20:44:06,167 - #18 ]
+INFO  20:44:06,167 - #14 =
+INFO  20:44:06,167 - #27 c
+INFO  20:44:06,167 - #21 ;
+INFO  20:44:06,167 - #4 print
+INFO  20:44:06,167 - #15 (
+INFO  20:44:06,167 - #29 nizch
+INFO  20:44:06,168 - #17 [
+INFO  20:44:06,168 - #26 1
+INFO  20:44:06,168 - #18 ]
+INFO  20:44:06,168 - #16 )
+INFO  20:44:06,168 - #21 ;
+INFO  20:44:06,168 - #4 print
+INFO  20:44:06,168 - #15 (
+INFO  20:44:06,168 - #29 eol
+INFO  20:44:06,168 - #16 )
+INFO  20:44:06,168 - #21 ;
+INFO  20:44:06,168 - #4 print
+INFO  20:44:06,168 - #15 (
+INFO  20:44:06,168 - #29 nizch
+INFO  20:44:06,168 - #17 [
+INFO  20:44:06,168 - #29 jedan
+INFO  20:44:06,168 - #9 *
+INFO  20:44:06,168 - #26 2
+INFO  20:44:06,168 - #18 ]
+INFO  20:44:06,168 - #16 )
+INFO  20:44:06,168 - #21 ;
+INFO  20:44:06,168 - #4 print
+INFO  20:44:06,168 - #15 (
+INFO  20:44:06,168 - #29 eol
+INFO  20:44:06,168 - #16 )
+INFO  20:44:06,168 - #21 ;
+INFO  20:44:06,168 - #4 print
+INFO  20:44:06,168 - #15 (
+INFO  20:44:06,168 - #29 ord
+INFO  20:44:06,168 - #15 (
+INFO  20:44:06,168 - #29 nizch
+INFO  20:44:06,168 - #17 [
+INFO  20:44:06,168 - #26 0
+INFO  20:44:06,168 - #18 ]
+INFO  20:44:06,168 - #16 )
+INFO  20:44:06,168 - #16 )
+INFO  20:44:06,169 - #21 ;
+INFO  20:44:06,169 - #4 print
+INFO  20:44:06,169 - #15 (
+INFO  20:44:06,169 - #29 nizch
+INFO  20:44:06,169 - #23 .
+INFO  20:44:06,169 - #39 length
+INFO  20:44:06,169 - #16 )
+INFO  20:44:06,170 - #21 ;
+INFO  20:44:06,170 - #4 print
+INFO  20:44:06,170 - #15 (
+INFO  20:44:06,170 - #29 niz
+INFO  20:44:06,170 - #23 .
+INFO  20:44:06,170 - #39 length
+INFO  20:44:06,170 - #16 )
+INFO  20:44:06,170 - #21 ;
+INFO  20:44:06,170 - #29 a
+INFO  20:44:06,170 - #14 =
+INFO  20:44:06,170 - #26 1
+INFO  20:44:06,170 - #21 ;
+INFO  20:44:06,170 - #5 read
+INFO  20:44:06,170 - #15 (
+INFO  20:44:06,170 - #29 bodovi
+INFO  20:44:06,170 - #16 )
+INFO  20:44:06,170 - #21 ;
+INFO  20:44:06,170 - #29 bodovi
+INFO  20:44:06,170 - #14 =
+INFO  20:44:06,170 - #8 -
+INFO  20:44:06,170 - #29 bodovi
+INFO  20:44:06,171 - #7 +
+INFO  20:44:06,171 - #15 (
+INFO  20:44:06,171 - #29 pet
+INFO  20:44:06,171 - #9 *
+INFO  20:44:06,171 - #29 a
+INFO  20:44:06,171 - #10 /
+INFO  20:44:06,171 - #26 2
+INFO  20:44:06,171 - #8 -
+INFO  20:44:06,171 - #29 nula
+INFO  20:44:06,171 - #16 )
+INFO  20:44:06,171 - #9 *
+INFO  20:44:06,171 - #29 bodovi
+INFO  20:44:06,171 - #8 -
+INFO  20:44:06,171 - #15 (
+INFO  20:44:06,171 - #26 3
+INFO  20:44:06,171 - #11 %
+INFO  20:44:06,171 - #26 2
+INFO  20:44:06,172 - #7 +
+INFO  20:44:06,172 - #26 3
+INFO  20:44:06,172 - #9 *
+INFO  20:44:06,172 - #26 2
+INFO  20:44:06,172 - #8 -
+INFO  20:44:06,172 - #26 7
+INFO  20:44:06,172 - #16 )
+INFO  20:44:06,172 - #21 ;
+INFO  20:44:06,172 - #4 print
+INFO  20:44:06,172 - #15 (
+INFO  20:44:06,172 - #29 bodovi
+INFO  20:44:06,172 - #16 )
+INFO  20:44:06,172 - #21 ;
+INFO  20:44:06,172 - #5 read
+INFO  20:44:06,172 - #15 (
+INFO  20:44:06,172 - #29 bodovi
+INFO  20:44:06,172 - #16 )
+INFO  20:44:06,172 - #21 ;
+INFO  20:44:06,172 - #29 bt
+INFO  20:44:06,172 - #14 =
+INFO  20:44:06,172 - #28 1
+INFO  20:44:06,172 - #21 ;
+INFO  20:44:06,172 - #4 print
+INFO  20:44:06,172 - #15 (
+INFO  20:44:06,172 - #29 bt
+INFO  20:44:06,172 - #24 ?
+INFO  20:44:06,172 - #29 bodovi
+INFO  20:44:06,172 - #25 :
+INFO  20:44:06,172 - #29 bodovi
+INFO  20:44:06,172 - #7 +
+INFO  20:44:06,172 - #26 10
+INFO  20:44:06,172 - #16 )
+INFO  20:44:06,172 - #21 ;
+INFO  20:44:06,172 - #4 print
+INFO  20:44:06,172 - #15 (
+INFO  20:44:06,172 - #28 0
+INFO  20:44:06,172 - #24 ?
+INFO  20:44:06,172 - #29 bodovi
+INFO  20:44:06,172 - #7 +
+INFO  20:44:06,172 - #26 20
+INFO  20:44:06,172 - #25 :
+INFO  20:44:06,172 - #29 bodovi
+INFO  20:44:06,172 - #7 +
+INFO  20:44:06,172 - #26 30
+INFO  20:44:06,172 - #16 )
+INFO  20:44:06,172 - #21 ;
+INFO  20:44:06,172 - #4 print
+INFO  20:44:06,172 - #15 (
+INFO  20:44:06,172 - #29 bodovi
+INFO  20:44:06,172 - #36 >
+INFO  20:44:06,172 - #26 10
+INFO  20:44:06,174 - #24 ?
+INFO  20:44:06,174 - #27 +
+INFO  20:44:06,174 - #25 :
+INFO  20:44:06,174 - #27 -
+INFO  20:44:06,174 - #16 )
+INFO  20:44:06,174 - #21 ;
+INFO  20:44:06,174 - #20 }
+INFO  20:44:06,174 - #20 }
+INFO  20:44:06,186 - Program(
+ test301
+  DeclListMore(
+    DeclListMore(
+      DeclListMore(
+        DeclListMore(
+          DeclListMore(
+            DeclListMore(
+              DeclListMore(
+                NoDeclList(
+                ) [NoDeclList]
+                EnumDeclPart(
+                  EnumDecl(
+                   Broj
+                    EnumElemListMore(
+                      EnumElemListMore(
+                        EnumElemListMore(
+                          EnumElemSingle(
+                            EnumElemNoValue(
+                             NULA
+                            ) [EnumElemNoValue]
+                          ) [EnumElemSingle]
+                          EnumElemNoValue(
+                           JEDAN
+                          ) [EnumElemNoValue]
+                        ) [EnumElemListMore]
+                        EnumElemWithValue(
+                         PET
+                         5
+                        ) [EnumElemWithValue]
+                      ) [EnumElemListMore]
+                      EnumElemWithValue(
+                       DESET
+                       10
+                      ) [EnumElemWithValue]
+                    ) [EnumElemListMore]
+                  ) [EnumDecl]
+                ) [EnumDeclPart]
+              ) [DeclListMore]
+              ConstDeclPart(
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                 nula
+                  NumConstValue(
+                   0
+                  ) [NumConstValue]
+                  NoConstDeclList(
+                  ) [NoConstDeclList]
+                ) [ConstDecl]
+              ) [ConstDeclPart]
+            ) [DeclListMore]
+            ConstDeclPart(
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+               jedan
+                NumConstValue(
+                 1
+                ) [NumConstValue]
+                NoConstDeclList(
+                ) [NoConstDeclList]
+              ) [ConstDecl]
+            ) [ConstDeclPart]
+          ) [DeclListMore]
+          ConstDeclPart(
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+             pet
+              NumConstValue(
+               5
+              ) [NumConstValue]
+              NoConstDeclList(
+              ) [NoConstDeclList]
+            ) [ConstDecl]
+          ) [ConstDeclPart]
+        ) [DeclListMore]
+        VarDeclPart(
+          VarDeclOk(
+            Type(
+             int
+            ) [Type]
+            VarDeclItem(
+             niz
+              ArrayBrackets(
+              ) [ArrayBrackets]
+            ) [VarDeclItem]
+            NoVarDeclItemList(
+            ) [NoVarDeclItemList]
+          ) [VarDeclOk]
+        ) [VarDeclPart]
+      ) [DeclListMore]
+      VarDeclPart(
+        VarDeclOk(
+          Type(
+           char
+          ) [Type]
+          VarDeclItem(
+           nizch
+            ArrayBrackets(
+            ) [ArrayBrackets]
+          ) [VarDeclItem]
+          NoVarDeclItemList(
+          ) [NoVarDeclItemList]
+        ) [VarDeclOk]
+      ) [VarDeclPart]
+    ) [DeclListMore]
+    VarDeclPart(
+      VarDeclOk(
+        Type(
+         int
+        ) [Type]
+        VarDeclItem(
+         a
+          NoBrackets(
+          ) [NoBrackets]
+        ) [VarDeclItem]
+        NoVarDeclItemList(
+        ) [NoVarDeclItemList]
+      ) [VarDeclOk]
+    ) [VarDeclPart]
+  ) [DeclListMore]
+  MethodDeclListMore(
+    NoMethodDeclList(
+    ) [NoMethodDeclList]
+    MethodDecl(
+      ReturnTypeVoid(
+      ) [ReturnTypeVoid]
+     main
+      NoFormPars(
+      ) [NoFormPars]
+      VarDeclListMore(
+        VarDeclListMore(
+          VarDeclListMore(
+            VarDeclListMore(
+              NoVarDeclList(
+              ) [NoVarDeclList]
+              VarDeclOk(
+                Type(
+                 int
+                ) [Type]
+                VarDeclItem(
+                 bodovi
+                  NoBrackets(
+                  ) [NoBrackets]
+                ) [VarDeclItem]
+                NoVarDeclItemList(
+                ) [NoVarDeclItemList]
+              ) [VarDeclOk]
+            ) [VarDeclListMore]
+            VarDeclOk(
+              Type(
+               int
+              ) [Type]
+              VarDeclItem(
+               temp
+                NoBrackets(
+                ) [NoBrackets]
+              ) [VarDeclItem]
+              NoVarDeclItemList(
+              ) [NoVarDeclItemList]
+            ) [VarDeclOk]
+          ) [VarDeclListMore]
+          VarDeclOk(
+            Type(
+             Broj
+            ) [Type]
+            VarDeclItem(
+             nula
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VarDeclItem]
+            VarDeclItemListMore(
+              NoVarDeclItemList(
+              ) [NoVarDeclItemList]
+              VarDeclItem(
+               jedan
+                NoBrackets(
+                ) [NoBrackets]
+              ) [VarDeclItem]
+            ) [VarDeclItemListMore]
+          ) [VarDeclOk]
+        ) [VarDeclListMore]
+        VarDeclOk(
+          Type(
+           bool
+          ) [Type]
+          VarDeclItem(
+           bt
+            NoBrackets(
+            ) [NoBrackets]
+          ) [VarDeclItem]
+          NoVarDeclItemList(
+          ) [NoVarDeclItemList]
+        ) [VarDeclOk]
+      ) [VarDeclListMore]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              Statements(
+                                Statements(
+                                  Statements(
+                                    Statements(
+                                      Statements(
+                                        Statements(
+                                          Statements(
+                                            Statements(
+                                              Statements(
+                                                Statements(
+                                                  Statements(
+                                                    Statements(
+                                                      Statements(
+                                                        Statements(
+                                                          Statements(
+                                                            Statements(
+                                                              Statements(
+                                                                Statements(
+                                                                  Statements(
+                                                                    Statements(
+                                                                      Statements(
+                                                                        Statements(
+                                                                          Statements(
+                                                                            Statements(
+                                                                              Statements(
+                                                                                Statements(
+                                                                                  NoStatements(
+                                                                                  ) [NoStatements]
+                                                                                  DesignatorStmt(
+                                                                                    AssignStmt(
+                                                                                      Designator(
+                                                                                       nula
+                                                                                        NoDesignatorAccess(
+                                                                                        ) [NoDesignatorAccess]
+                                                                                      ) [Designator]
+                                                                                      AddExpr(
+                                                                                        NoMinus(
+                                                                                        ) [NoMinus]
+                                                                                        FactorTerm(
+                                                                                          DesignatorFactor(
+                                                                                            Designator(
+                                                                                             Broj
+                                                                                              DesignatorAccessMore(
+                                                                                                NoDesignatorAccess(
+                                                                                                ) [NoDesignatorAccess]
+                                                                                                DesignatorFieldAccess(
+                                                                                                 NULA
+                                                                                                ) [DesignatorFieldAccess]
+                                                                                              ) [DesignatorAccessMore]
+                                                                                            ) [Designator]
+                                                                                          ) [DesignatorFactor]
+                                                                                        ) [FactorTerm]
+                                                                                        NoTermList(
+                                                                                        ) [NoTermList]
+                                                                                      ) [AddExpr]
+                                                                                    ) [AssignStmt]
+                                                                                  ) [DesignatorStmt]
+                                                                                ) [Statements]
+                                                                                DesignatorStmt(
+                                                                                  AssignStmt(
+                                                                                    Designator(
+                                                                                     jedan
+                                                                                      NoDesignatorAccess(
+                                                                                      ) [NoDesignatorAccess]
+                                                                                    ) [Designator]
+                                                                                    AddExpr(
+                                                                                      NoMinus(
+                                                                                      ) [NoMinus]
+                                                                                      FactorTerm(
+                                                                                        DesignatorFactor(
+                                                                                          Designator(
+                                                                                           Broj
+                                                                                            DesignatorAccessMore(
+                                                                                              NoDesignatorAccess(
+                                                                                              ) [NoDesignatorAccess]
+                                                                                              DesignatorFieldAccess(
+                                                                                               JEDAN
+                                                                                              ) [DesignatorFieldAccess]
+                                                                                            ) [DesignatorAccessMore]
+                                                                                          ) [Designator]
+                                                                                        ) [DesignatorFactor]
+                                                                                      ) [FactorTerm]
+                                                                                      NoTermList(
+                                                                                      ) [NoTermList]
+                                                                                    ) [AddExpr]
+                                                                                  ) [AssignStmt]
+                                                                                ) [DesignatorStmt]
+                                                                              ) [Statements]
+                                                                              DesignatorStmt(
+                                                                                AssignStmt(
+                                                                                  Designator(
+                                                                                   bodovi
+                                                                                    NoDesignatorAccess(
+                                                                                    ) [NoDesignatorAccess]
+                                                                                  ) [Designator]
+                                                                                  AddExpr(
+                                                                                    NoMinus(
+                                                                                    ) [NoMinus]
+                                                                                    FactorTerm(
+                                                                                      NumConst(
+                                                                                       0
+                                                                                      ) [NumConst]
+                                                                                    ) [FactorTerm]
+                                                                                    NoTermList(
+                                                                                    ) [NoTermList]
+                                                                                  ) [AddExpr]
+                                                                                ) [AssignStmt]
+                                                                              ) [DesignatorStmt]
+                                                                            ) [Statements]
+                                                                            DesignatorStmt(
+                                                                              IncStmt(
+                                                                                Designator(
+                                                                                 bodovi
+                                                                                  NoDesignatorAccess(
+                                                                                  ) [NoDesignatorAccess]
+                                                                                ) [Designator]
+                                                                              ) [IncStmt]
+                                                                            ) [DesignatorStmt]
+                                                                          ) [Statements]
+                                                                          DesignatorStmt(
+                                                                            AssignStmt(
+                                                                              Designator(
+                                                                               bodovi
+                                                                                NoDesignatorAccess(
+                                                                                ) [NoDesignatorAccess]
+                                                                              ) [Designator]
+                                                                              AddExpr(
+                                                                                NoMinus(
+                                                                                ) [NoMinus]
+                                                                                FactorTerm(
+                                                                                  DesignatorFactor(
+                                                                                    Designator(
+                                                                                     bodovi
+                                                                                      NoDesignatorAccess(
+                                                                                      ) [NoDesignatorAccess]
+                                                                                    ) [Designator]
+                                                                                  ) [DesignatorFactor]
+                                                                                ) [FactorTerm]
+                                                                                TermListAdd(
+                                                                                  NoTermList(
+                                                                                  ) [NoTermList]
+                                                                                  PlusOp(
+                                                                                  ) [PlusOp]
+                                                                                  FactorTerm(
+                                                                                    DesignatorFactor(
+                                                                                      Designator(
+                                                                                       jedan
+                                                                                        NoDesignatorAccess(
+                                                                                        ) [NoDesignatorAccess]
+                                                                                      ) [Designator]
+                                                                                    ) [DesignatorFactor]
+                                                                                  ) [FactorTerm]
+                                                                                ) [TermListAdd]
+                                                                              ) [AddExpr]
+                                                                            ) [AssignStmt]
+                                                                          ) [DesignatorStmt]
+                                                                        ) [Statements]
+                                                                        DesignatorStmt(
+                                                                          AssignStmt(
+                                                                            Designator(
+                                                                             bodovi
+                                                                              NoDesignatorAccess(
+                                                                              ) [NoDesignatorAccess]
+                                                                            ) [Designator]
+                                                                            AddExpr(
+                                                                              NoMinus(
+                                                                              ) [NoMinus]
+                                                                              MulTerm(
+                                                                                FactorTerm(
+                                                                                  DesignatorFactor(
+                                                                                    Designator(
+                                                                                     bodovi
+                                                                                      NoDesignatorAccess(
+                                                                                      ) [NoDesignatorAccess]
+                                                                                    ) [Designator]
+                                                                                  ) [DesignatorFactor]
+                                                                                ) [FactorTerm]
+                                                                                MulOp1(
+                                                                                ) [MulOp1]
+                                                                                DesignatorFactor(
+                                                                                  Designator(
+                                                                                   pet
+                                                                                    NoDesignatorAccess(
+                                                                                    ) [NoDesignatorAccess]
+                                                                                  ) [Designator]
+                                                                                ) [DesignatorFactor]
+                                                                              ) [MulTerm]
+                                                                              NoTermList(
+                                                                              ) [NoTermList]
+                                                                            ) [AddExpr]
+                                                                          ) [AssignStmt]
+                                                                        ) [DesignatorStmt]
+                                                                      ) [Statements]
+                                                                      DesignatorStmt(
+                                                                        DecStmt(
+                                                                          Designator(
+                                                                           bodovi
+                                                                            NoDesignatorAccess(
+                                                                            ) [NoDesignatorAccess]
+                                                                          ) [Designator]
+                                                                        ) [DecStmt]
+                                                                      ) [DesignatorStmt]
+                                                                    ) [Statements]
+                                                                    PrintStmt(
+                                                                      AddExpr(
+                                                                        NoMinus(
+                                                                        ) [NoMinus]
+                                                                        FactorTerm(
+                                                                          DesignatorFactor(
+                                                                            Designator(
+                                                                             bodovi
+                                                                              NoDesignatorAccess(
+                                                                              ) [NoDesignatorAccess]
+                                                                            ) [Designator]
+                                                                          ) [DesignatorFactor]
+                                                                        ) [FactorTerm]
+                                                                        NoTermList(
+                                                                        ) [NoTermList]
+                                                                      ) [AddExpr]
+                                                                    ) [PrintStmt]
+                                                                  ) [Statements]
+                                                                  PrintStmt(
+                                                                    AddExpr(
+                                                                      NoMinus(
+                                                                      ) [NoMinus]
+                                                                      FactorTerm(
+                                                                        DesignatorFactor(
+                                                                          Designator(
+                                                                           eol
+                                                                            NoDesignatorAccess(
+                                                                            ) [NoDesignatorAccess]
+                                                                          ) [Designator]
+                                                                        ) [DesignatorFactor]
+                                                                      ) [FactorTerm]
+                                                                      NoTermList(
+                                                                      ) [NoTermList]
+                                                                    ) [AddExpr]
+                                                                  ) [PrintStmt]
+                                                                ) [Statements]
+                                                                DesignatorStmt(
+                                                                  AssignStmt(
+                                                                    Designator(
+                                                                     niz
+                                                                      NoDesignatorAccess(
+                                                                      ) [NoDesignatorAccess]
+                                                                    ) [Designator]
+                                                                    AddExpr(
+                                                                      NoMinus(
+                                                                      ) [NoMinus]
+                                                                      FactorTerm(
+                                                                        NewArray(
+                                                                          Type(
+                                                                           int
+                                                                          ) [Type]
+                                                                          AddExpr(
+                                                                            NoMinus(
+                                                                            ) [NoMinus]
+                                                                            FactorTerm(
+                                                                              NumConst(
+                                                                               3
+                                                                              ) [NumConst]
+                                                                            ) [FactorTerm]
+                                                                            NoTermList(
+                                                                            ) [NoTermList]
+                                                                          ) [AddExpr]
+                                                                        ) [NewArray]
+                                                                      ) [FactorTerm]
+                                                                      NoTermList(
+                                                                      ) [NoTermList]
+                                                                    ) [AddExpr]
+                                                                  ) [AssignStmt]
+                                                                ) [DesignatorStmt]
+                                                              ) [Statements]
+                                                              DesignatorStmt(
+                                                                AssignStmt(
+                                                                  Designator(
+                                                                   niz
+                                                                    DesignatorAccessMore(
+                                                                      NoDesignatorAccess(
+                                                                      ) [NoDesignatorAccess]
+                                                                      DesignatorArrayAccess(
+                                                                        AddExpr(
+                                                                          NoMinus(
+                                                                          ) [NoMinus]
+                                                                          FactorTerm(
+                                                                            DesignatorFactor(
+                                                                              Designator(
+                                                                               nula
+                                                                                NoDesignatorAccess(
+                                                                                ) [NoDesignatorAccess]
+                                                                              ) [Designator]
+                                                                            ) [DesignatorFactor]
+                                                                          ) [FactorTerm]
+                                                                          NoTermList(
+                                                                          ) [NoTermList]
+                                                                        ) [AddExpr]
+                                                                      ) [DesignatorArrayAccess]
+                                                                    ) [DesignatorAccessMore]
+                                                                  ) [Designator]
+                                                                  AddExpr(
+                                                                    NoMinus(
+                                                                    ) [NoMinus]
+                                                                    FactorTerm(
+                                                                      NumConst(
+                                                                       2
+                                                                      ) [NumConst]
+                                                                    ) [FactorTerm]
+                                                                    NoTermList(
+                                                                    ) [NoTermList]
+                                                                  ) [AddExpr]
+                                                                ) [AssignStmt]
+                                                              ) [DesignatorStmt]
+                                                            ) [Statements]
+                                                            DesignatorStmt(
+                                                              AssignStmt(
+                                                                Designator(
+                                                                 niz
+                                                                  DesignatorAccessMore(
+                                                                    NoDesignatorAccess(
+                                                                    ) [NoDesignatorAccess]
+                                                                    DesignatorArrayAccess(
+                                                                      AddExpr(
+                                                                        NoMinus(
+                                                                        ) [NoMinus]
+                                                                        FactorTerm(
+                                                                          DesignatorFactor(
+                                                                            Designator(
+                                                                             jedan
+                                                                              NoDesignatorAccess(
+                                                                              ) [NoDesignatorAccess]
+                                                                            ) [Designator]
+                                                                          ) [DesignatorFactor]
+                                                                        ) [FactorTerm]
+                                                                        NoTermList(
+                                                                        ) [NoTermList]
+                                                                      ) [AddExpr]
+                                                                    ) [DesignatorArrayAccess]
+                                                                  ) [DesignatorAccessMore]
+                                                                ) [Designator]
+                                                                AddExpr(
+                                                                  NoMinus(
+                                                                  ) [NoMinus]
+                                                                  FactorTerm(
+                                                                    NumConst(
+                                                                     3
+                                                                    ) [NumConst]
+                                                                  ) [FactorTerm]
+                                                                  NoTermList(
+                                                                  ) [NoTermList]
+                                                                ) [AddExpr]
+                                                              ) [AssignStmt]
+                                                            ) [DesignatorStmt]
+                                                          ) [Statements]
+                                                          DesignatorStmt(
+                                                            AssignStmt(
+                                                              Designator(
+                                                               niz
+                                                                DesignatorAccessMore(
+                                                                  NoDesignatorAccess(
+                                                                  ) [NoDesignatorAccess]
+                                                                  DesignatorArrayAccess(
+                                                                    AddExpr(
+                                                                      NoMinus(
+                                                                      ) [NoMinus]
+                                                                      FactorTerm(
+                                                                        DesignatorFactor(
+                                                                          Designator(
+                                                                           niz
+                                                                            DesignatorAccessMore(
+                                                                              NoDesignatorAccess(
+                                                                              ) [NoDesignatorAccess]
+                                                                              DesignatorArrayAccess(
+                                                                                AddExpr(
+                                                                                  NoMinus(
+                                                                                  ) [NoMinus]
+                                                                                  FactorTerm(
+                                                                                    DesignatorFactor(
+                                                                                      Designator(
+                                                                                       nula
+                                                                                        NoDesignatorAccess(
+                                                                                        ) [NoDesignatorAccess]
+                                                                                      ) [Designator]
+                                                                                    ) [DesignatorFactor]
+                                                                                  ) [FactorTerm]
+                                                                                  NoTermList(
+                                                                                  ) [NoTermList]
+                                                                                ) [AddExpr]
+                                                                              ) [DesignatorArrayAccess]
+                                                                            ) [DesignatorAccessMore]
+                                                                          ) [Designator]
+                                                                        ) [DesignatorFactor]
+                                                                      ) [FactorTerm]
+                                                                      NoTermList(
+                                                                      ) [NoTermList]
+                                                                    ) [AddExpr]
+                                                                  ) [DesignatorArrayAccess]
+                                                                ) [DesignatorAccessMore]
+                                                              ) [Designator]
+                                                              AddExpr(
+                                                                NoMinus(
+                                                                ) [NoMinus]
+                                                                MulTerm(
+                                                                  FactorTerm(
+                                                                    DesignatorFactor(
+                                                                      Designator(
+                                                                       niz
+                                                                        DesignatorAccessMore(
+                                                                          NoDesignatorAccess(
+                                                                          ) [NoDesignatorAccess]
+                                                                          DesignatorArrayAccess(
+                                                                            AddExpr(
+                                                                              NoMinus(
+                                                                              ) [NoMinus]
+                                                                              FactorTerm(
+                                                                                NumConst(
+                                                                                 1
+                                                                                ) [NumConst]
+                                                                              ) [FactorTerm]
+                                                                              NoTermList(
+                                                                              ) [NoTermList]
+                                                                            ) [AddExpr]
+                                                                          ) [DesignatorArrayAccess]
+                                                                        ) [DesignatorAccessMore]
+                                                                      ) [Designator]
+                                                                    ) [DesignatorFactor]
+                                                                  ) [FactorTerm]
+                                                                  MulOp1(
+                                                                  ) [MulOp1]
+                                                                  NumConst(
+                                                                   4
+                                                                  ) [NumConst]
+                                                                ) [MulTerm]
+                                                                NoTermList(
+                                                                ) [NoTermList]
+                                                              ) [AddExpr]
+                                                            ) [AssignStmt]
+                                                          ) [DesignatorStmt]
+                                                        ) [Statements]
+                                                        DesignatorStmt(
+                                                          AssignStmt(
+                                                            Designator(
+                                                             bodovi
+                                                              NoDesignatorAccess(
+                                                              ) [NoDesignatorAccess]
+                                                            ) [Designator]
+                                                            AddExpr(
+                                                              NoMinus(
+                                                              ) [NoMinus]
+                                                              MulTerm(
+                                                                FactorTerm(
+                                                                  DesignatorFactor(
+                                                                    Designator(
+                                                                     niz
+                                                                      DesignatorAccessMore(
+                                                                        NoDesignatorAccess(
+                                                                        ) [NoDesignatorAccess]
+                                                                        DesignatorArrayAccess(
+                                                                          AddExpr(
+                                                                            NoMinus(
+                                                                            ) [NoMinus]
+                                                                            FactorTerm(
+                                                                              NumConst(
+                                                                               2
+                                                                              ) [NumConst]
+                                                                            ) [FactorTerm]
+                                                                            NoTermList(
+                                                                            ) [NoTermList]
+                                                                          ) [AddExpr]
+                                                                        ) [DesignatorArrayAccess]
+                                                                      ) [DesignatorAccessMore]
+                                                                    ) [Designator]
+                                                                  ) [DesignatorFactor]
+                                                                ) [FactorTerm]
+                                                                DivOp(
+                                                                ) [DivOp]
+                                                                DesignatorFactor(
+                                                                  Designator(
+                                                                   niz
+                                                                    DesignatorAccessMore(
+                                                                      NoDesignatorAccess(
+                                                                      ) [NoDesignatorAccess]
+                                                                      DesignatorArrayAccess(
+                                                                        AddExpr(
+                                                                          NoMinus(
+                                                                          ) [NoMinus]
+                                                                          FactorTerm(
+                                                                            NumConst(
+                                                                             0
+                                                                            ) [NumConst]
+                                                                          ) [FactorTerm]
+                                                                          NoTermList(
+                                                                          ) [NoTermList]
+                                                                        ) [AddExpr]
+                                                                      ) [DesignatorArrayAccess]
+                                                                    ) [DesignatorAccessMore]
+                                                                  ) [Designator]
+                                                                ) [DesignatorFactor]
+                                                              ) [MulTerm]
+                                                              NoTermList(
+                                                              ) [NoTermList]
+                                                            ) [AddExpr]
+                                                          ) [AssignStmt]
+                                                        ) [DesignatorStmt]
+                                                      ) [Statements]
+                                                      PrintStmt(
+                                                        AddExpr(
+                                                          NoMinus(
+                                                          ) [NoMinus]
+                                                          FactorTerm(
+                                                            DesignatorFactor(
+                                                              Designator(
+                                                               bodovi
+                                                                NoDesignatorAccess(
+                                                                ) [NoDesignatorAccess]
+                                                              ) [Designator]
+                                                            ) [DesignatorFactor]
+                                                          ) [FactorTerm]
+                                                          NoTermList(
+                                                          ) [NoTermList]
+                                                        ) [AddExpr]
+                                                      ) [PrintStmt]
+                                                    ) [Statements]
+                                                    PrintStmt(
+                                                      AddExpr(
+                                                        NoMinus(
+                                                        ) [NoMinus]
+                                                        FactorTerm(
+                                                          DesignatorFactor(
+                                                            Designator(
+                                                             eol
+                                                              NoDesignatorAccess(
+                                                              ) [NoDesignatorAccess]
+                                                            ) [Designator]
+                                                          ) [DesignatorFactor]
+                                                        ) [FactorTerm]
+                                                        NoTermList(
+                                                        ) [NoTermList]
+                                                      ) [AddExpr]
+                                                    ) [PrintStmt]
+                                                  ) [Statements]
+                                                  PrintStmt(
+                                                    AddExpr(
+                                                      NoMinus(
+                                                      ) [NoMinus]
+                                                      FactorTerm(
+                                                        DesignatorFactor(
+                                                          Designator(
+                                                           niz
+                                                            DesignatorAccessMore(
+                                                              NoDesignatorAccess(
+                                                              ) [NoDesignatorAccess]
+                                                              DesignatorArrayAccess(
+                                                                AddExpr(
+                                                                  NoMinus(
+                                                                  ) [NoMinus]
+                                                                  FactorTerm(
+                                                                    NumConst(
+                                                                     2
+                                                                    ) [NumConst]
+                                                                  ) [FactorTerm]
+                                                                  NoTermList(
+                                                                  ) [NoTermList]
+                                                                ) [AddExpr]
+                                                              ) [DesignatorArrayAccess]
+                                                            ) [DesignatorAccessMore]
+                                                          ) [Designator]
+                                                        ) [DesignatorFactor]
+                                                      ) [FactorTerm]
+                                                      NoTermList(
+                                                      ) [NoTermList]
+                                                    ) [AddExpr]
+                                                  ) [PrintStmt]
+                                                ) [Statements]
+                                                PrintStmt(
+                                                  AddExpr(
+                                                    NoMinus(
+                                                    ) [NoMinus]
+                                                    FactorTerm(
+                                                      DesignatorFactor(
+                                                        Designator(
+                                                         eol
+                                                          NoDesignatorAccess(
+                                                          ) [NoDesignatorAccess]
+                                                        ) [Designator]
+                                                      ) [DesignatorFactor]
+                                                    ) [FactorTerm]
+                                                    NoTermList(
+                                                    ) [NoTermList]
+                                                  ) [AddExpr]
+                                                ) [PrintStmt]
+                                              ) [Statements]
+                                              DesignatorStmt(
+                                                AssignStmt(
+                                                  Designator(
+                                                   nizch
+                                                    NoDesignatorAccess(
+                                                    ) [NoDesignatorAccess]
+                                                  ) [Designator]
+                                                  AddExpr(
+                                                    NoMinus(
+                                                    ) [NoMinus]
+                                                    FactorTerm(
+                                                      NewArray(
+                                                        Type(
+                                                         char
+                                                        ) [Type]
+                                                        AddExpr(
+                                                          NoMinus(
+                                                          ) [NoMinus]
+                                                          FactorTerm(
+                                                            NumConst(
+                                                             3
+                                                            ) [NumConst]
+                                                          ) [FactorTerm]
+                                                          NoTermList(
+                                                          ) [NoTermList]
+                                                        ) [AddExpr]
+                                                      ) [NewArray]
+                                                    ) [FactorTerm]
+                                                    NoTermList(
+                                                    ) [NoTermList]
+                                                  ) [AddExpr]
+                                                ) [AssignStmt]
+                                              ) [DesignatorStmt]
+                                            ) [Statements]
+                                            DesignatorStmt(
+                                              AssignStmt(
+                                                Designator(
+                                                 nizch
+                                                  DesignatorAccessMore(
+                                                    NoDesignatorAccess(
+                                                    ) [NoDesignatorAccess]
+                                                    DesignatorArrayAccess(
+                                                      AddExpr(
+                                                        NoMinus(
+                                                        ) [NoMinus]
+                                                        FactorTerm(
+                                                          NumConst(
+                                                           0
+                                                          ) [NumConst]
+                                                        ) [FactorTerm]
+                                                        NoTermList(
+                                                        ) [NoTermList]
+                                                      ) [AddExpr]
+                                                    ) [DesignatorArrayAccess]
+                                                  ) [DesignatorAccessMore]
+                                                ) [Designator]
+                                                AddExpr(
+                                                  NoMinus(
+                                                  ) [NoMinus]
+                                                  FactorTerm(
+                                                    CharConst(
+                                                     a
+                                                    ) [CharConst]
+                                                  ) [FactorTerm]
+                                                  NoTermList(
+                                                  ) [NoTermList]
+                                                ) [AddExpr]
+                                              ) [AssignStmt]
+                                            ) [DesignatorStmt]
+                                          ) [Statements]
+                                          DesignatorStmt(
+                                            AssignStmt(
+                                              Designator(
+                                               nizch
+                                                DesignatorAccessMore(
+                                                  NoDesignatorAccess(
+                                                  ) [NoDesignatorAccess]
+                                                  DesignatorArrayAccess(
+                                                    AddExpr(
+                                                      NoMinus(
+                                                      ) [NoMinus]
+                                                      FactorTerm(
+                                                        DesignatorFactor(
+                                                          Designator(
+                                                           jedan
+                                                            NoDesignatorAccess(
+                                                            ) [NoDesignatorAccess]
+                                                          ) [Designator]
+                                                        ) [DesignatorFactor]
+                                                      ) [FactorTerm]
+                                                      NoTermList(
+                                                      ) [NoTermList]
+                                                    ) [AddExpr]
+                                                  ) [DesignatorArrayAccess]
+                                                ) [DesignatorAccessMore]
+                                              ) [Designator]
+                                              AddExpr(
+                                                NoMinus(
+                                                ) [NoMinus]
+                                                FactorTerm(
+                                                  CharConst(
+                                                   b
+                                                  ) [CharConst]
+                                                ) [FactorTerm]
+                                                NoTermList(
+                                                ) [NoTermList]
+                                              ) [AddExpr]
+                                            ) [AssignStmt]
+                                          ) [DesignatorStmt]
+                                        ) [Statements]
+                                        DesignatorStmt(
+                                          AssignStmt(
+                                            Designator(
+                                             nizch
+                                              DesignatorAccessMore(
+                                                NoDesignatorAccess(
+                                                ) [NoDesignatorAccess]
+                                                DesignatorArrayAccess(
+                                                  AddExpr(
+                                                    NoMinus(
+                                                    ) [NoMinus]
+                                                    FactorTerm(
+                                                      DesignatorFactor(
+                                                        Designator(
+                                                         pet
+                                                          NoDesignatorAccess(
+                                                          ) [NoDesignatorAccess]
+                                                        ) [Designator]
+                                                      ) [DesignatorFactor]
+                                                    ) [FactorTerm]
+                                                    TermListAdd(
+                                                      NoTermList(
+                                                      ) [NoTermList]
+                                                      MinusOp(
+                                                      ) [MinusOp]
+                                                      FactorTerm(
+                                                        NumConst(
+                                                         3
+                                                        ) [NumConst]
+                                                      ) [FactorTerm]
+                                                    ) [TermListAdd]
+                                                  ) [AddExpr]
+                                                ) [DesignatorArrayAccess]
+                                              ) [DesignatorAccessMore]
+                                            ) [Designator]
+                                            AddExpr(
+                                              NoMinus(
+                                              ) [NoMinus]
+                                              FactorTerm(
+                                                CharConst(
+                                                 c
+                                                ) [CharConst]
+                                              ) [FactorTerm]
+                                              NoTermList(
+                                              ) [NoTermList]
+                                            ) [AddExpr]
+                                          ) [AssignStmt]
+                                        ) [DesignatorStmt]
+                                      ) [Statements]
+                                      PrintStmt(
+                                        AddExpr(
+                                          NoMinus(
+                                          ) [NoMinus]
+                                          FactorTerm(
+                                            DesignatorFactor(
+                                              Designator(
+                                               nizch
+                                                DesignatorAccessMore(
+                                                  NoDesignatorAccess(
+                                                  ) [NoDesignatorAccess]
+                                                  DesignatorArrayAccess(
+                                                    AddExpr(
+                                                      NoMinus(
+                                                      ) [NoMinus]
+                                                      FactorTerm(
+                                                        NumConst(
+                                                         1
+                                                        ) [NumConst]
+                                                      ) [FactorTerm]
+                                                      NoTermList(
+                                                      ) [NoTermList]
+                                                    ) [AddExpr]
+                                                  ) [DesignatorArrayAccess]
+                                                ) [DesignatorAccessMore]
+                                              ) [Designator]
+                                            ) [DesignatorFactor]
+                                          ) [FactorTerm]
+                                          NoTermList(
+                                          ) [NoTermList]
+                                        ) [AddExpr]
+                                      ) [PrintStmt]
+                                    ) [Statements]
+                                    PrintStmt(
+                                      AddExpr(
+                                        NoMinus(
+                                        ) [NoMinus]
+                                        FactorTerm(
+                                          DesignatorFactor(
+                                            Designator(
+                                             eol
+                                              NoDesignatorAccess(
+                                              ) [NoDesignatorAccess]
+                                            ) [Designator]
+                                          ) [DesignatorFactor]
+                                        ) [FactorTerm]
+                                        NoTermList(
+                                        ) [NoTermList]
+                                      ) [AddExpr]
+                                    ) [PrintStmt]
+                                  ) [Statements]
+                                  PrintStmt(
+                                    AddExpr(
+                                      NoMinus(
+                                      ) [NoMinus]
+                                      FactorTerm(
+                                        DesignatorFactor(
+                                          Designator(
+                                           nizch
+                                            DesignatorAccessMore(
+                                              NoDesignatorAccess(
+                                              ) [NoDesignatorAccess]
+                                              DesignatorArrayAccess(
+                                                AddExpr(
+                                                  NoMinus(
+                                                  ) [NoMinus]
+                                                  MulTerm(
+                                                    FactorTerm(
+                                                      DesignatorFactor(
+                                                        Designator(
+                                                         jedan
+                                                          NoDesignatorAccess(
+                                                          ) [NoDesignatorAccess]
+                                                        ) [Designator]
+                                                      ) [DesignatorFactor]
+                                                    ) [FactorTerm]
+                                                    MulOp1(
+                                                    ) [MulOp1]
+                                                    NumConst(
+                                                     2
+                                                    ) [NumConst]
+                                                  ) [MulTerm]
+                                                  NoTermList(
+                                                  ) [NoTermList]
+                                                ) [AddExpr]
+                                              ) [DesignatorArrayAccess]
+                                            ) [DesignatorAccessMore]
+                                          ) [Designator]
+                                        ) [DesignatorFactor]
+                                      ) [FactorTerm]
+                                      NoTermList(
+                                      ) [NoTermList]
+                                    ) [AddExpr]
+                                  ) [PrintStmt]
+                                ) [Statements]
+                                PrintStmt(
+                                  AddExpr(
+                                    NoMinus(
+                                    ) [NoMinus]
+                                    FactorTerm(
+                                      DesignatorFactor(
+                                        Designator(
+                                         eol
+                                          NoDesignatorAccess(
+                                          ) [NoDesignatorAccess]
+                                        ) [Designator]
+                                      ) [DesignatorFactor]
+                                    ) [FactorTerm]
+                                    NoTermList(
+                                    ) [NoTermList]
+                                  ) [AddExpr]
+                                ) [PrintStmt]
+                              ) [Statements]
+                              PrintStmt(
+                                AddExpr(
+                                  NoMinus(
+                                  ) [NoMinus]
+                                  FactorTerm(
+                                    DesignatorCallFactor(
+                                      Designator(
+                                       ord
+                                        NoDesignatorAccess(
+                                        ) [NoDesignatorAccess]
+                                      ) [Designator]
+                                      Actuals(
+                                        ActualParam(
+                                          AddExpr(
+                                            NoMinus(
+                                            ) [NoMinus]
+                                            FactorTerm(
+                                              DesignatorFactor(
+                                                Designator(
+                                                 nizch
+                                                  DesignatorAccessMore(
+                                                    NoDesignatorAccess(
+                                                    ) [NoDesignatorAccess]
+                                                    DesignatorArrayAccess(
+                                                      AddExpr(
+                                                        NoMinus(
+                                                        ) [NoMinus]
+                                                        FactorTerm(
+                                                          NumConst(
+                                                           0
+                                                          ) [NumConst]
+                                                        ) [FactorTerm]
+                                                        NoTermList(
+                                                        ) [NoTermList]
+                                                      ) [AddExpr]
+                                                    ) [DesignatorArrayAccess]
+                                                  ) [DesignatorAccessMore]
+                                                ) [Designator]
+                                              ) [DesignatorFactor]
+                                            ) [FactorTerm]
+                                            NoTermList(
+                                            ) [NoTermList]
+                                          ) [AddExpr]
+                                        ) [ActualParam]
+                                      ) [Actuals]
+                                    ) [DesignatorCallFactor]
+                                  ) [FactorTerm]
+                                  NoTermList(
+                                  ) [NoTermList]
+                                ) [AddExpr]
+                              ) [PrintStmt]
+                            ) [Statements]
+                            PrintStmt(
+                              AddExpr(
+                                NoMinus(
+                                ) [NoMinus]
+                                FactorTerm(
+                                  DesignatorFactor(
+                                    Designator(
+                                     nizch
+                                      DesignatorAccessMore(
+                                        NoDesignatorAccess(
+                                        ) [NoDesignatorAccess]
+                                        DesignatorLengthAccess(
+                                        ) [DesignatorLengthAccess]
+                                      ) [DesignatorAccessMore]
+                                    ) [Designator]
+                                  ) [DesignatorFactor]
+                                ) [FactorTerm]
+                                NoTermList(
+                                ) [NoTermList]
+                              ) [AddExpr]
+                            ) [PrintStmt]
+                          ) [Statements]
+                          PrintStmt(
+                            AddExpr(
+                              NoMinus(
+                              ) [NoMinus]
+                              FactorTerm(
+                                DesignatorFactor(
+                                  Designator(
+                                   niz
+                                    DesignatorAccessMore(
+                                      NoDesignatorAccess(
+                                      ) [NoDesignatorAccess]
+                                      DesignatorLengthAccess(
+                                      ) [DesignatorLengthAccess]
+                                    ) [DesignatorAccessMore]
+                                  ) [Designator]
+                                ) [DesignatorFactor]
+                              ) [FactorTerm]
+                              NoTermList(
+                              ) [NoTermList]
+                            ) [AddExpr]
+                          ) [PrintStmt]
+                        ) [Statements]
+                        DesignatorStmt(
+                          AssignStmt(
+                            Designator(
+                             a
+                              NoDesignatorAccess(
+                              ) [NoDesignatorAccess]
+                            ) [Designator]
+                            AddExpr(
+                              NoMinus(
+                              ) [NoMinus]
+                              FactorTerm(
+                                NumConst(
+                                 1
+                                ) [NumConst]
+                              ) [FactorTerm]
+                              NoTermList(
+                              ) [NoTermList]
+                            ) [AddExpr]
+                          ) [AssignStmt]
+                        ) [DesignatorStmt]
+                      ) [Statements]
+                      ReadStmt(
+                        Designator(
+                         bodovi
+                          NoDesignatorAccess(
+                          ) [NoDesignatorAccess]
+                        ) [Designator]
+                      ) [ReadStmt]
+                    ) [Statements]
+                    DesignatorStmt(
+                      AssignStmt(
+                        Designator(
+                         bodovi
+                          NoDesignatorAccess(
+                          ) [NoDesignatorAccess]
+                        ) [Designator]
+                        AddExpr(
+                          NegativeExpr(
+                          ) [NegativeExpr]
+                          FactorTerm(
+                            DesignatorFactor(
+                              Designator(
+                               bodovi
+                                NoDesignatorAccess(
+                                ) [NoDesignatorAccess]
+                              ) [Designator]
+                            ) [DesignatorFactor]
+                          ) [FactorTerm]
+                          TermListAdd(
+                            TermListAdd(
+                              NoTermList(
+                              ) [NoTermList]
+                              PlusOp(
+                              ) [PlusOp]
+                              MulTerm(
+                                FactorTerm(
+                                  ParenExpr(
+                                    AddExpr(
+                                      NoMinus(
+                                      ) [NoMinus]
+                                      MulTerm(
+                                        MulTerm(
+                                          FactorTerm(
+                                            DesignatorFactor(
+                                              Designator(
+                                               pet
+                                                NoDesignatorAccess(
+                                                ) [NoDesignatorAccess]
+                                              ) [Designator]
+                                            ) [DesignatorFactor]
+                                          ) [FactorTerm]
+                                          MulOp1(
+                                          ) [MulOp1]
+                                          DesignatorFactor(
+                                            Designator(
+                                             a
+                                              NoDesignatorAccess(
+                                              ) [NoDesignatorAccess]
+                                            ) [Designator]
+                                          ) [DesignatorFactor]
+                                        ) [MulTerm]
+                                        DivOp(
+                                        ) [DivOp]
+                                        NumConst(
+                                         2
+                                        ) [NumConst]
+                                      ) [MulTerm]
+                                      TermListAdd(
+                                        NoTermList(
+                                        ) [NoTermList]
+                                        MinusOp(
+                                        ) [MinusOp]
+                                        FactorTerm(
+                                          DesignatorFactor(
+                                            Designator(
+                                             nula
+                                              NoDesignatorAccess(
+                                              ) [NoDesignatorAccess]
+                                            ) [Designator]
+                                          ) [DesignatorFactor]
+                                        ) [FactorTerm]
+                                      ) [TermListAdd]
+                                    ) [AddExpr]
+                                  ) [ParenExpr]
+                                ) [FactorTerm]
+                                MulOp1(
+                                ) [MulOp1]
+                                DesignatorFactor(
+                                  Designator(
+                                   bodovi
+                                    NoDesignatorAccess(
+                                    ) [NoDesignatorAccess]
+                                  ) [Designator]
+                                ) [DesignatorFactor]
+                              ) [MulTerm]
+                            ) [TermListAdd]
+                            MinusOp(
+                            ) [MinusOp]
+                            FactorTerm(
+                              ParenExpr(
+                                AddExpr(
+                                  NoMinus(
+                                  ) [NoMinus]
+                                  MulTerm(
+                                    FactorTerm(
+                                      NumConst(
+                                       3
+                                      ) [NumConst]
+                                    ) [FactorTerm]
+                                    ModOp(
+                                    ) [ModOp]
+                                    NumConst(
+                                     2
+                                    ) [NumConst]
+                                  ) [MulTerm]
+                                  TermListAdd(
+                                    TermListAdd(
+                                      NoTermList(
+                                      ) [NoTermList]
+                                      PlusOp(
+                                      ) [PlusOp]
+                                      MulTerm(
+                                        FactorTerm(
+                                          NumConst(
+                                           3
+                                          ) [NumConst]
+                                        ) [FactorTerm]
+                                        MulOp1(
+                                        ) [MulOp1]
+                                        NumConst(
+                                         2
+                                        ) [NumConst]
+                                      ) [MulTerm]
+                                    ) [TermListAdd]
+                                    MinusOp(
+                                    ) [MinusOp]
+                                    FactorTerm(
+                                      NumConst(
+                                       7
+                                      ) [NumConst]
+                                    ) [FactorTerm]
+                                  ) [TermListAdd]
+                                ) [AddExpr]
+                              ) [ParenExpr]
+                            ) [FactorTerm]
+                          ) [TermListAdd]
+                        ) [AddExpr]
+                      ) [AssignStmt]
+                    ) [DesignatorStmt]
+                  ) [Statements]
+                  PrintStmt(
+                    AddExpr(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorTerm(
+                        DesignatorFactor(
+                          Designator(
+                           bodovi
+                            NoDesignatorAccess(
+                            ) [NoDesignatorAccess]
+                          ) [Designator]
+                        ) [DesignatorFactor]
+                      ) [FactorTerm]
+                      NoTermList(
+                      ) [NoTermList]
+                    ) [AddExpr]
+                  ) [PrintStmt]
+                ) [Statements]
+                ReadStmt(
+                  Designator(
+                   bodovi
+                    NoDesignatorAccess(
+                    ) [NoDesignatorAccess]
+                  ) [Designator]
+                ) [ReadStmt]
+              ) [Statements]
+              DesignatorStmt(
+                AssignStmt(
+                  Designator(
+                   bt
+                    NoDesignatorAccess(
+                    ) [NoDesignatorAccess]
+                  ) [Designator]
+                  AddExpr(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorTerm(
+                      BoolConst(
+                       1
+                      ) [BoolConst]
+                    ) [FactorTerm]
+                    NoTermList(
+                    ) [NoTermList]
+                  ) [AddExpr]
+                ) [AssignStmt]
+              ) [DesignatorStmt]
+            ) [Statements]
+            PrintStmt(
+              TernaryExpr(
+                CondFactSingle(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorTerm(
+                    DesignatorFactor(
+                      Designator(
+                       bt
+                        NoDesignatorAccess(
+                        ) [NoDesignatorAccess]
+                      ) [Designator]
+                    ) [DesignatorFactor]
+                  ) [FactorTerm]
+                  NoTermList(
+                  ) [NoTermList]
+                ) [CondFactSingle]
+                AddExpr(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorTerm(
+                    DesignatorFactor(
+                      Designator(
+                       bodovi
+                        NoDesignatorAccess(
+                        ) [NoDesignatorAccess]
+                      ) [Designator]
+                    ) [DesignatorFactor]
+                  ) [FactorTerm]
+                  NoTermList(
+                  ) [NoTermList]
+                ) [AddExpr]
+                AddExpr(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorTerm(
+                    DesignatorFactor(
+                      Designator(
+                       bodovi
+                        NoDesignatorAccess(
+                        ) [NoDesignatorAccess]
+                      ) [Designator]
+                    ) [DesignatorFactor]
+                  ) [FactorTerm]
+                  TermListAdd(
+                    NoTermList(
+                    ) [NoTermList]
+                    PlusOp(
+                    ) [PlusOp]
+                    FactorTerm(
+                      NumConst(
+                       10
+                      ) [NumConst]
+                    ) [FactorTerm]
+                  ) [TermListAdd]
+                ) [AddExpr]
+              ) [TernaryExpr]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmt(
+            TernaryExpr(
+              CondFactSingle(
+                NoMinus(
+                ) [NoMinus]
+                FactorTerm(
+                  BoolConst(
+                   0
+                  ) [BoolConst]
+                ) [FactorTerm]
+                NoTermList(
+                ) [NoTermList]
+              ) [CondFactSingle]
+              AddExpr(
+                NoMinus(
+                ) [NoMinus]
+                FactorTerm(
+                  DesignatorFactor(
+                    Designator(
+                     bodovi
+                      NoDesignatorAccess(
+                      ) [NoDesignatorAccess]
+                    ) [Designator]
+                  ) [DesignatorFactor]
+                ) [FactorTerm]
+                TermListAdd(
+                  NoTermList(
+                  ) [NoTermList]
+                  PlusOp(
+                  ) [PlusOp]
+                  FactorTerm(
+                    NumConst(
+                     20
+                    ) [NumConst]
+                  ) [FactorTerm]
+                ) [TermListAdd]
+              ) [AddExpr]
+              AddExpr(
+                NoMinus(
+                ) [NoMinus]
+                FactorTerm(
+                  DesignatorFactor(
+                    Designator(
+                     bodovi
+                      NoDesignatorAccess(
+                      ) [NoDesignatorAccess]
+                    ) [Designator]
+                  ) [DesignatorFactor]
+                ) [FactorTerm]
+                TermListAdd(
+                  NoTermList(
+                  ) [NoTermList]
+                  PlusOp(
+                  ) [PlusOp]
+                  FactorTerm(
+                    NumConst(
+                     30
+                    ) [NumConst]
+                  ) [FactorTerm]
+                ) [TermListAdd]
+              ) [AddExpr]
+            ) [TernaryExpr]
+          ) [PrintStmt]
+        ) [Statements]
+        PrintStmt(
+          TernaryExpr(
+            CondFactRelop(
+              NoMinus(
+              ) [NoMinus]
+              FactorTerm(
+                DesignatorFactor(
+                  Designator(
+                   bodovi
+                    NoDesignatorAccess(
+                    ) [NoDesignatorAccess]
+                  ) [Designator]
+                ) [DesignatorFactor]
+              ) [FactorTerm]
+              NoTermList(
+              ) [NoTermList]
+              GtOp(
+              ) [GtOp]
+              NoMinus(
+              ) [NoMinus]
+              FactorTerm(
+                NumConst(
+                 10
+                ) [NumConst]
+              ) [FactorTerm]
+              NoTermList(
+              ) [NoTermList]
+            ) [CondFactRelop]
+            AddExpr(
+              NoMinus(
+              ) [NoMinus]
+              FactorTerm(
+                CharConst(
+                 +
+                ) [CharConst]
+              ) [FactorTerm]
+              NoTermList(
+              ) [NoTermList]
+            ) [AddExpr]
+            AddExpr(
+              NoMinus(
+              ) [NoMinus]
+              FactorTerm(
+                CharConst(
+                 -
+                ) [CharConst]
+              ) [FactorTerm]
+              NoTermList(
+              ) [NoTermList]
+            ) [AddExpr]
+          ) [TernaryExpr]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclListMore]
+) [Program]
+INFO  20:44:06,188 - ===================================
+INFO  20:44:06,193 -  Print count calls = 17
+INFO  20:44:06,193 -  Deklarisanih promenljivih ima = 0
+INFO  20:44:06,193 - ===================================

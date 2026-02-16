@@ -1,0 +1,82 @@
+INFO  20:12:08,613 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  20:12:08,709 - #30 program
+INFO  20:12:08,710 - #38 Keske
+INFO  20:12:08,710 - #31 const
+INFO  20:12:08,712 - #38 int
+INFO  20:12:08,713 - #38 pi
+INFO  20:12:08,713 - #33 =
+INFO  20:12:08,714 - #36 3
+INFO  20:12:08,714 - #32 ;
+INFO  20:12:08,716 - #38 char
+INFO  20:12:08,719 - #38 carr
+INFO  20:12:08,719 - #16 [
+INFO  20:12:08,719 - #17 ]
+INFO  20:12:08,719 - #32 ;
+INFO  20:12:08,720 - #34 {
+INFO  20:12:08,723 - #14 void
+INFO  20:12:08,723 - #38 main
+INFO  20:12:08,724 - #15 (
+INFO  20:12:08,724 - #5 )
+INFO  20:12:08,724 - #34 {
+INFO  20:12:08,726 - #38 a
+INFO  20:12:08,727 - #20 *
+ERROR 20:12:08,730 - 
+Sintaksna greska na liniji 11
+INFO  20:12:08,730 - #20 *
+INFO  20:12:08,731 - #32 ;
+INFO  20:12:08,731 - #35 }
+INFO  20:12:08,731 - #35 }
+ERROR 20:12:08,732 - Oporavak od greske u DS. Linija: 13
+INFO  20:12:08,737 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList4(
+      ) [ConVarDecList4]
+      ConDecList(
+        Type(
+         int
+        ) [Type]
+        ConDecl(
+         pi
+          ConstantN(
+           3
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       char
+      ) [Type]
+      VarDeclArray(
+       carr
+      ) [VarDeclArray]
+      VarDeclMoreE(
+      ) [VarDeclMoreE]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListR(
+        StatementListE(
+        ) [StatementListE]
+        StatementDS(
+          DesignatorStatementError(
+          ) [DesignatorStatementError]
+        ) [StatementDS]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  20:12:08,737 - ===================================
+INFO  20:12:08,737 - Parsiranje NIJE uspesno zavrseno

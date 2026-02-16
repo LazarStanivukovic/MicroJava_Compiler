@@ -1,0 +1,74 @@
+INFO  20:55:12,130 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  20:55:12,170 - #2 program
+INFO  20:55:12,170 - #29 testErrors
+INFO  20:55:12,170 - #30 enum
+INFO  20:55:12,171 - #29 Broj
+INFO  20:55:12,171 - #19 {
+INFO  20:55:12,171 - #29 NULA
+INFO  20:55:12,171 - #22 ,
+INFO  20:55:12,171 - #29 JEDAN
+INFO  20:55:12,171 - #22 ,
+INFO  20:55:12,171 - #29 DVA
+INFO  20:55:12,171 - #20 }
+INFO  20:55:12,171 - #29 int
+INFO  20:55:12,172 - #29 a
+INFO  20:55:12,172 - #21 ;
+INFO  20:55:12,175 - #29 int
+INFO  20:55:12,175 - #29 int
+INFO  20:55:12,175 - #29 int
+ERROR 20:55:12,175 - Sintaksna greska na liniji 10
+INFO  20:55:12,175 - #29 badVar1
+INFO  20:55:12,175 - #21 ;
+INFO  20:55:12,178 - #29 int
+INFO  20:55:12,178 - #29 b
+INFO  20:55:12,178 - #21 ;
+INFO  20:55:12,178 - Oporavak od greske pri definiciji globalne promenljive do ;
+INFO  20:55:12,179 - #29 int
+INFO  20:55:12,179 - #29 c
+INFO  20:55:12,179 - #22 ,
+INFO  20:55:12,179 - #29 int
+INFO  20:55:12,179 - #22 ,
+INFO  20:55:12,179 - #29 e
+INFO  20:55:12,179 - #21 ;
+INFO  20:55:12,179 - #29 char
+INFO  20:55:12,179 - #29 ch
+INFO  20:55:12,180 - #21 ;
+INFO  20:55:12,180 - #29 int
+INFO  20:55:12,180 - #17 [
+ERROR 20:55:12,180 - Sintaksna greska na liniji 18
+INFO  20:55:12,180 - #18 ]
+INFO  20:55:12,180 - #29 f
+INFO  20:55:12,180 - #21 ;
+INFO  20:55:12,180 - #29 int
+INFO  20:55:12,180 - #29 niz
+INFO  20:55:12,180 - #17 [
+INFO  20:55:12,180 - Oporavak od greske pri definiciji globalne promenljive do ;
+INFO  20:55:12,180 - #18 ]
+INFO  20:55:12,180 - #21 ;
+INFO  20:55:12,181 - #19 {
+INFO  20:55:12,181 - #32 void
+INFO  20:55:12,182 - #29 main
+INFO  20:55:12,182 - #15 (
+INFO  20:55:12,182 - #16 )
+INFO  20:55:12,183 - #29 int
+INFO  20:55:12,184 - #29 x
+INFO  20:55:12,184 - #21 ;
+INFO  20:55:12,184 - #29 int
+INFO  20:55:12,184 - #29 y
+INFO  20:55:12,184 - #21 ;
+INFO  20:55:12,184 - #29 int
+INFO  20:55:12,184 - #29 z
+INFO  20:55:12,184 - #21 ;
+INFO  20:55:12,184 - #19 {
+INFO  20:55:12,184 - #29 x
+INFO  20:55:12,185 - #14 =
+INFO  20:55:12,186 - #26 5
+INFO  20:55:12,187 - #21 ;
+INFO  20:55:12,188 - #29 y
+INFO  20:55:12,188 - #14 =
+INFO  20:55:12,188 - #7 +
+ERROR 20:55:12,189 - Sintaksna greska na liniji 31
+INFO  20:55:12,189 - #21 ;
+INFO  20:55:12,190 - #29 a
+INFO  20:55:12,190 - #14 =
+INFO  20:55:12,190 - #26 10

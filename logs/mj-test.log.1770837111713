@@ -1,0 +1,234 @@
+INFO  20:11:11,324 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  20:11:11,399 - #30 program
+INFO  20:11:11,399 - #38 Keske
+INFO  20:11:11,399 - #31 const
+INFO  20:11:11,400 - #38 int
+INFO  20:11:11,400 - #38 pi
+INFO  20:11:11,401 - #33 =
+INFO  20:11:11,401 - #36 3
+INFO  20:11:11,401 - #6 ,
+INFO  20:11:11,401 - #38 g
+INFO  20:11:11,401 - #33 =
+INFO  20:11:11,401 - #36 11
+INFO  20:11:11,401 - #32 ;
+INFO  20:11:11,403 - #38 char
+INFO  20:11:11,404 - #38 x
+INFO  20:11:11,404 - #6 ,
+INFO  20:11:11,404 - #38 y
+INFO  20:11:11,404 - #16 [
+INFO  20:11:11,404 - #17 ]
+INFO  20:11:11,404 - #32 ;
+INFO  20:11:11,405 - #31 const
+INFO  20:11:11,406 - #38 bool
+INFO  20:11:11,407 - #38 t
+INFO  20:11:11,407 - #33 =
+INFO  20:11:11,407 - #37 1
+INFO  20:11:11,407 - #32 ;
+INFO  20:11:11,407 - #34 {
+INFO  20:11:11,407 - #14 void
+INFO  20:11:11,407 - #38 main
+INFO  20:11:11,407 - #15 (
+INFO  20:11:11,409 - #5 )
+INFO  20:11:11,409 - #38 int
+INFO  20:11:11,410 - #38 a
+INFO  20:11:11,410 - #6 ,
+INFO  20:11:11,410 - #38 b
+INFO  20:11:11,410 - #16 [
+INFO  20:11:11,410 - #17 ]
+INFO  20:11:11,410 - #32 ;
+INFO  20:11:11,410 - #38 int
+INFO  20:11:11,410 - #38 x
+INFO  20:11:11,410 - #16 [
+INFO  20:11:11,410 - #17 ]
+INFO  20:11:11,410 - #6 ,
+INFO  20:11:11,410 - #38 y
+INFO  20:11:11,411 - #32 ;
+INFO  20:11:11,411 - #38 char
+INFO  20:11:11,411 - #38 eol
+INFO  20:11:11,411 - #32 ;
+INFO  20:11:11,411 - #34 {
+INFO  20:11:11,411 - #38 a
+INFO  20:11:11,411 - #33 =
+INFO  20:11:11,411 - #36 3
+INFO  20:11:11,413 - #3 +
+INFO  20:11:11,414 - #38 b
+INFO  20:11:11,416 - #20 *
+INFO  20:11:11,416 - #36 2
+INFO  20:11:11,418 - #32 ;
+INFO  20:11:11,418 - #35 }
+INFO  20:11:11,418 - #35 }
+INFO  20:11:11,421 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList2(
+      ConVarDecList1(
+        ConVarDecList4(
+        ) [ConVarDecList4]
+        ConDecList(
+          Type(
+           int
+          ) [Type]
+          ConDecl(
+           pi
+            ConstantN(
+             3
+            ) [ConstantN]
+          ) [ConDecl]
+          ConDeclMore1(
+            ConDecl(
+             g
+              ConstantN(
+               11
+              ) [ConstantN]
+            ) [ConDecl]
+            ConDeclMore2(
+            ) [ConDeclMore2]
+          ) [ConDeclMore1]
+        ) [ConDecList]
+      ) [ConVarDecList1]
+      VarDeclList(
+        Type(
+         char
+        ) [Type]
+        VarDeclVar(
+         x
+        ) [VarDeclVar]
+        VarDeclMoreCOMMA(
+          VarDeclArray(
+           y
+          ) [VarDeclArray]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclMoreCOMMA]
+      ) [VarDeclList]
+    ) [ConVarDecList2]
+    ConDecList(
+      Type(
+       bool
+      ) [Type]
+      ConDecl(
+       t
+        ConstantB(
+         1
+        ) [ConstantB]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecR(
+            VarDeclListRecE(
+            ) [VarDeclListRecE]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDeclVar(
+               a
+              ) [VarDeclVar]
+              VarDeclMoreCOMMA(
+                VarDeclArray(
+                 b
+                ) [VarDeclArray]
+                VarDeclMoreE(
+                ) [VarDeclMoreE]
+              ) [VarDeclMoreCOMMA]
+            ) [VarDeclList]
+          ) [VarDeclListRecR]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDeclArray(
+             x
+            ) [VarDeclArray]
+            VarDeclMoreCOMMA(
+              VarDeclVar(
+               y
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclMoreCOMMA]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDeclVar(
+           eol
+          ) [VarDeclVar]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListE(
+        ) [StatementListE]
+        StatementDS(
+          DesignatorStatementASS(
+            DesignatorVar(
+             a
+            ) [DesignatorVar]
+            Assignop(
+            ) [Assignop]
+            AddExpr(
+              FactorTerm(
+                Factor(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorNum(
+                   3
+                  ) [FactorNum]
+                ) [Factor]
+              ) [FactorTerm]
+              AddopTermList1(
+                AddopTermListE(
+                ) [AddopTermListE]
+                AddopADD(
+                ) [AddopADD]
+                MulTerm(
+                  FactorTerm(
+                    Factor(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorD(
+                        DesignatorVar(
+                         b
+                        ) [DesignatorVar]
+                      ) [FactorD]
+                    ) [Factor]
+                  ) [FactorTerm]
+                  MulopMUL(
+                  ) [MulopMUL]
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorNum(
+                     2
+                    ) [FactorNum]
+                  ) [Factor]
+                ) [MulTerm]
+              ) [AddopTermList1]
+            ) [AddExpr]
+          ) [DesignatorStatementASS]
+        ) [StatementDS]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  20:11:11,421 - ===================================
+ERROR 20:11:11,429 - Mulop operacija ne int vrednosti na liniji 8
+ERROR 20:11:11,429 - Addop operacija ne int vrednosti [AddopTermList1] na liniji 6
+ERROR 20:11:11,429 - operacija ne int vrednosti [AddExpr] na liniji 4
+INFO  20:11:11,429 - ===================================
+INFO  20:11:11,430 - Parsiranje NIJE uspesno zavrseno

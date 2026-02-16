@@ -1,0 +1,37 @@
+// generated with ast extension for cup
+// version 0.8
+// 16/1/2026 15:39:15
+
+
+package rs.ac.bg.etf.pp1.ast;
+
+public class ConVarDecList4 extends ConVarDecList {
+
+    public ConVarDecList4 () {
+    }
+
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
+
+    public void childrenAccept(Visitor visitor) {
+    }
+
+    public void traverseTopDown(Visitor visitor) {
+        accept(visitor);
+    }
+
+    public void traverseBottomUp(Visitor visitor) {
+        accept(visitor);
+    }
+
+    public String toString(String tab) {
+        StringBuffer buffer=new StringBuffer();
+        buffer.append(tab);
+        buffer.append("ConVarDecList4(\n");
+
+        buffer.append(tab);
+        buffer.append(") [ConVarDecList4]");
+        return buffer.toString();
+    }
+}

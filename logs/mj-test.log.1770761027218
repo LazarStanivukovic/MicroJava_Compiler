@@ -1,0 +1,155 @@
+INFO  22:59:11,754 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  22:59:11,847 - #30 program
+INFO  22:59:11,847 - #38 Keske
+INFO  22:59:11,847 - #31 const
+INFO  22:59:11,848 - #38 int
+INFO  22:59:11,849 - #38 pi
+INFO  22:59:11,849 - #33 =
+INFO  22:59:11,849 - #36 13
+INFO  22:59:11,849 - #6 ,
+INFO  22:59:11,850 - #38 g
+INFO  22:59:11,850 - #33 =
+INFO  22:59:11,850 - #36 9
+INFO  22:59:11,850 - #32 ;
+INFO  22:59:11,853 - #31 const
+INFO  22:59:11,854 - #38 bool
+INFO  22:59:11,855 - #38 b
+INFO  22:59:11,855 - #33 =
+INFO  22:59:11,855 - #37 1
+INFO  22:59:11,855 - #32 ;
+INFO  22:59:11,855 - #31 const
+INFO  22:59:11,855 - #38 char
+INFO  22:59:11,855 - #38 a
+INFO  22:59:11,857 - #33 =
+INFO  22:59:11,857 - #39 a
+INFO  22:59:11,857 - #32 ;
+INFO  22:59:11,857 - #38 char
+INFO  22:59:11,858 - #38 h
+INFO  22:59:11,858 - #6 ,
+INFO  22:59:11,858 - #38 j
+INFO  22:59:11,858 - #16 [
+INFO  22:59:11,858 - #17 ]
+INFO  22:59:11,858 - #32 ;
+INFO  22:59:11,859 - #34 {
+INFO  22:59:11,859 - #14 void
+INFO  22:59:11,859 - #38 main
+INFO  22:59:11,860 - #15 (
+INFO  22:59:11,860 - #5 )
+INFO  22:59:11,860 - #38 int
+INFO  22:59:11,861 - #38 a1
+INFO  22:59:11,861 - #6 ,
+INFO  22:59:11,861 - #38 b1
+INFO  22:59:11,861 - #16 [
+INFO  22:59:11,861 - #17 ]
+INFO  22:59:11,861 - #32 ;
+INFO  22:59:11,861 - #34 {
+INFO  22:59:11,861 - #35 }
+INFO  22:59:11,862 - #35 }
+INFO  22:59:11,864 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList1(
+        ConVarDecList1(
+          ConVarDecList4(
+          ) [ConVarDecList4]
+          ConDecList(
+            Type(
+             int
+            ) [Type]
+            ConDecl(
+             pi
+              ConstantN(
+               13
+              ) [ConstantN]
+            ) [ConDecl]
+            ConDeclMore1(
+              ConDecl(
+               g
+                ConstantN(
+                 9
+                ) [ConstantN]
+              ) [ConDecl]
+              ConDeclMore2(
+              ) [ConDeclMore2]
+            ) [ConDeclMore1]
+          ) [ConDecList]
+        ) [ConVarDecList1]
+        ConDecList(
+          Type(
+           bool
+          ) [Type]
+          ConDecl(
+           b
+            ConstantB(
+             1
+            ) [ConstantB]
+          ) [ConDecl]
+          ConDeclMore2(
+          ) [ConDeclMore2]
+        ) [ConDecList]
+      ) [ConVarDecList1]
+      ConDecList(
+        Type(
+         char
+        ) [Type]
+        ConDecl(
+         a
+          ConstantC(
+           a
+          ) [ConstantC]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       char
+      ) [Type]
+      VarDeclVar(
+       h
+      ) [VarDeclVar]
+      VarDeclMoreCOMMA(
+        VarDeclArray(
+         j
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclMoreCOMMA]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecE(
+        ) [VarDeclListRecE]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDeclVar(
+           a1
+          ) [VarDeclVar]
+          VarDeclMoreCOMMA(
+            VarDeclArray(
+             b1
+            ) [VarDeclArray]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclMoreCOMMA]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  22:59:11,864 - ===================================
+INFO  22:59:11,871 - ===================================
+INFO  22:59:11,872 - Parsiranje uspesno zavrseno

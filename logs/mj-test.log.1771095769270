@@ -1,0 +1,38 @@
+INFO  20:01:22,940 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj2.mj
+INFO  20:01:23,023 - #30 program
+INFO  20:01:23,023 - #38 TestLength
+INFO  20:01:23,023 - #38 int
+INFO  20:01:23,026 - #38 x
+INFO  20:01:23,028 - #16 [
+INFO  20:01:23,028 - #17 ]
+INFO  20:01:23,028 - #6 ,
+INFO  20:01:23,028 - #38 y
+INFO  20:01:23,028 - #16 [
+INFO  20:01:23,029 - #17 ]
+INFO  20:01:23,029 - #32 ;
+INFO  20:01:23,030 - #38 char
+INFO  20:01:23,033 - #38 c
+INFO  20:01:23,033 - #16 [
+INFO  20:01:23,033 - #17 ]
+INFO  20:01:23,033 - #32 ;
+INFO  20:01:23,033 - #19 enum
+INFO  20:01:23,033 - #38 Broj
+INFO  20:01:23,033 - #34 {
+INFO  20:01:23,036 - #38 NULA
+INFO  20:01:23,036 - #6 ,
+INFO  20:01:23,070 - #38 JEDAN
+INFO  20:01:23,070 - #6 ,
+INFO  20:01:23,071 - #38 PET
+INFO  20:01:23,071 - #33 =
+INFO  20:01:23,071 - #36 5
+INFO  20:01:23,071 - #6 ,
+INFO  20:01:23,071 - #38 DESET
+INFO  20:01:23,071 - #33 =
+INFO  20:01:23,072 - #36 10
+INFO  20:01:23,072 - #35 }
+INFO  20:01:23,072 - #38 Enum
+INFO  20:01:23,074 - #38 el
+INFO  20:01:23,074 - #33 =
+ERROR 20:01:23,074 - 
+Sintaksna greska na liniji 6
+ERROR 20:01:23,074 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6

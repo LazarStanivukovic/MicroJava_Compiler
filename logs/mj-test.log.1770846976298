@@ -1,0 +1,234 @@
+INFO  22:55:13,339 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  22:55:13,434 - #30 program
+INFO  22:55:13,434 - #38 Keske
+INFO  22:55:13,435 - #31 const
+INFO  22:55:13,437 - #38 int
+INFO  22:55:13,437 - #38 pi
+INFO  22:55:13,438 - #33 =
+INFO  22:55:13,438 - #36 3
+INFO  22:55:13,438 - #6 ,
+INFO  22:55:13,440 - #38 g
+INFO  22:55:13,440 - #33 =
+INFO  22:55:13,440 - #36 11
+INFO  22:55:13,440 - #32 ;
+INFO  22:55:13,442 - #38 char
+INFO  22:55:13,444 - #38 x
+INFO  22:55:13,445 - #6 ,
+INFO  22:55:13,445 - #38 y
+INFO  22:55:13,445 - #16 [
+INFO  22:55:13,445 - #17 ]
+INFO  22:55:13,445 - #32 ;
+INFO  22:55:13,448 - #19 enum
+INFO  22:55:13,451 - #38 Broj
+INFO  22:55:13,454 - #34 {
+INFO  22:55:13,455 - #38 NULA
+INFO  22:55:13,456 - #6 ,
+INFO  22:55:13,456 - #38 JEDAN
+INFO  22:55:13,456 - #6 ,
+INFO  22:55:13,456 - #38 PET
+INFO  22:55:13,457 - #33 =
+INFO  22:55:13,457 - #36 5
+INFO  22:55:13,457 - #6 ,
+INFO  22:55:13,457 - #38 DESET
+INFO  22:55:13,457 - #33 =
+INFO  22:55:13,457 - #36 10
+INFO  22:55:13,458 - #35 }
+INFO  22:55:13,458 - #31 const
+INFO  22:55:13,460 - #38 bool
+INFO  22:55:13,460 - #38 t
+INFO  22:55:13,460 - #33 =
+INFO  22:55:13,460 - #37 1
+INFO  22:55:13,460 - #32 ;
+INFO  22:55:13,460 - #34 {
+INFO  22:55:13,460 - #14 void
+INFO  22:55:13,461 - #38 main
+INFO  22:55:13,461 - #15 (
+INFO  22:55:13,462 - #5 )
+INFO  22:55:13,462 - #38 int
+INFO  22:55:13,464 - #38 a
+INFO  22:55:13,464 - #6 ,
+INFO  22:55:13,464 - #38 b
+INFO  22:55:13,464 - #16 [
+INFO  22:55:13,464 - #17 ]
+INFO  22:55:13,464 - #32 ;
+INFO  22:55:13,465 - #38 int
+INFO  22:55:13,465 - #38 x
+INFO  22:55:13,465 - #16 [
+INFO  22:55:13,465 - #17 ]
+INFO  22:55:13,465 - #6 ,
+INFO  22:55:13,466 - #38 y
+INFO  22:55:13,466 - #32 ;
+INFO  22:55:13,467 - #38 char
+INFO  22:55:13,470 - #38 eol
+INFO  22:55:13,470 - #32 ;
+INFO  22:55:13,470 - #34 {
+INFO  22:55:13,470 - #38 Broj
+INFO  22:55:13,472 - #10 .
+INFO  22:55:13,473 - #38 nula
+INFO  22:55:13,473 - #32 ;
+ERROR 22:55:13,473 - 
+Sintaksna greska na liniji 12
+INFO  22:55:13,474 - #35 }
+INFO  22:55:13,474 - #35 }
+ERROR 22:55:13,478 - Oporavak od greske u DS. Linija: 46
+INFO  22:55:13,484 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList3(
+      ConVarDecList2(
+        ConVarDecList1(
+          ConVarDecList4(
+          ) [ConVarDecList4]
+          ConDecList(
+            Type(
+             int
+            ) [Type]
+            ConDecl(
+             pi
+              ConstantN(
+               3
+              ) [ConstantN]
+            ) [ConDecl]
+            ConDeclMore1(
+              ConDecl(
+               g
+                ConstantN(
+                 11
+                ) [ConstantN]
+              ) [ConDecl]
+              ConDeclMore2(
+              ) [ConDeclMore2]
+            ) [ConDeclMore1]
+          ) [ConDecList]
+        ) [ConVarDecList1]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDeclVar(
+           x
+          ) [VarDeclVar]
+          VarDeclMoreCOMMA(
+            VarDeclArray(
+             y
+            ) [VarDeclArray]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclMoreCOMMA]
+        ) [VarDeclList]
+      ) [ConVarDecList2]
+      EnumDeclList(
+        EnumName(
+         Broj
+        ) [EnumName]
+        EnumElemListMore(
+          EnumElemListMore(
+            EnumElemListMore(
+              EnumElemSingle(
+                EnumElemNoValue(
+                 NULA
+                ) [EnumElemNoValue]
+              ) [EnumElemSingle]
+              EnumElemNoValue(
+               JEDAN
+              ) [EnumElemNoValue]
+            ) [EnumElemListMore]
+            EnumElemWithValue(
+             PET
+             5
+            ) [EnumElemWithValue]
+          ) [EnumElemListMore]
+          EnumElemWithValue(
+           DESET
+           10
+          ) [EnumElemWithValue]
+        ) [EnumElemListMore]
+      ) [EnumDeclList]
+    ) [ConVarDecList3]
+    ConDecList(
+      Type(
+       bool
+      ) [Type]
+      ConDecl(
+       t
+        ConstantB(
+         1
+        ) [ConstantB]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecR(
+            VarDeclListRecE(
+            ) [VarDeclListRecE]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDeclVar(
+               a
+              ) [VarDeclVar]
+              VarDeclMoreCOMMA(
+                VarDeclArray(
+                 b
+                ) [VarDeclArray]
+                VarDeclMoreE(
+                ) [VarDeclMoreE]
+              ) [VarDeclMoreCOMMA]
+            ) [VarDeclList]
+          ) [VarDeclListRecR]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDeclArray(
+             x
+            ) [VarDeclArray]
+            VarDeclMoreCOMMA(
+              VarDeclVar(
+               y
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclMoreCOMMA]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDeclVar(
+           eol
+          ) [VarDeclVar]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListE(
+        ) [StatementListE]
+        StatementDS(
+          DesignatorStatementError(
+          ) [DesignatorStatementError]
+        ) [StatementDS]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  22:55:13,485 - ===================================
+INFO  22:55:13,502 - Definisana enum konstanta Broj.NULA = 0 na liniji 7
+INFO  22:55:13,502 - Definisana enum konstanta Broj.JEDAN = 1 na liniji 7
+INFO  22:55:13,502 - Definisana enum konstanta Broj.PET = 5 na liniji 7
+INFO  22:55:13,502 - Definisana enum konstanta Broj.DESET = 10 na liniji 7
+INFO  22:55:13,502 - ===================================
+INFO  22:55:13,504 - Parsiranje NIJE uspesno zavrseno

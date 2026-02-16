@@ -1,0 +1,725 @@
+INFO  21:36:49,486 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj2.mj
+INFO  21:36:49,586 - #30 program
+INFO  21:36:49,586 - #38 TestLength
+INFO  21:36:49,586 - #38 int
+INFO  21:36:49,588 - #38 x
+INFO  21:36:49,590 - #16 [
+INFO  21:36:49,590 - #17 ]
+INFO  21:36:49,591 - #6 ,
+INFO  21:36:49,591 - #38 y
+INFO  21:36:49,591 - #16 [
+INFO  21:36:49,591 - #17 ]
+INFO  21:36:49,591 - #32 ;
+INFO  21:36:49,594 - #38 char
+INFO  21:36:49,597 - #38 c
+INFO  21:36:49,597 - #16 [
+INFO  21:36:49,597 - #17 ]
+INFO  21:36:49,597 - #32 ;
+INFO  21:36:49,597 - #19 enum
+INFO  21:36:49,597 - #38 Broj
+INFO  21:36:49,597 - #34 {
+INFO  21:36:49,601 - #38 NULA
+INFO  21:36:49,601 - #6 ,
+INFO  21:36:49,604 - #38 JEDAN
+INFO  21:36:49,604 - #6 ,
+INFO  21:36:49,605 - #38 PET
+INFO  21:36:49,605 - #33 =
+INFO  21:36:49,605 - #36 5
+INFO  21:36:49,605 - #6 ,
+INFO  21:36:49,606 - #38 DESET
+INFO  21:36:49,606 - #33 =
+INFO  21:36:49,606 - #36 10
+INFO  21:36:49,606 - #35 }
+INFO  21:36:49,606 - #31 const
+INFO  21:36:49,608 - #38 bool
+INFO  21:36:49,608 - #38 t
+INFO  21:36:49,608 - #33 =
+INFO  21:36:49,608 - #37 1
+INFO  21:36:49,609 - #32 ;
+INFO  21:36:49,611 - #31 const
+INFO  21:36:49,612 - #38 int
+INFO  21:36:49,612 - #38 pi
+INFO  21:36:49,612 - #33 =
+INFO  21:36:49,612 - #36 3
+INFO  21:36:49,612 - #32 ;
+INFO  21:36:49,612 - #34 {
+INFO  21:36:49,612 - #14 void
+INFO  21:36:49,612 - #38 main
+INFO  21:36:49,612 - #15 (
+INFO  21:36:49,614 - #5 )
+INFO  21:36:49,615 - #38 char
+INFO  21:36:49,617 - #38 x
+INFO  21:36:49,618 - #16 [
+INFO  21:36:49,618 - #17 ]
+INFO  21:36:49,618 - #32 ;
+INFO  21:36:49,618 - #38 int
+INFO  21:36:49,618 - #38 a
+INFO  21:36:49,619 - #6 ,
+INFO  21:36:49,620 - #38 b
+INFO  21:36:49,620 - #16 [
+INFO  21:36:49,620 - #17 ]
+INFO  21:36:49,620 - #32 ;
+INFO  21:36:49,620 - #38 int
+INFO  21:36:49,621 - #38 z
+INFO  21:36:49,621 - #16 [
+INFO  21:36:49,621 - #17 ]
+INFO  21:36:49,621 - #32 ;
+INFO  21:36:49,621 - #38 char
+INFO  21:36:49,621 - #38 eol
+INFO  21:36:49,621 - #32 ;
+INFO  21:36:49,621 - #38 char
+INFO  21:36:49,621 - #38 c
+INFO  21:36:49,624 - #32 ;
+INFO  21:36:49,624 - #38 Broj
+INFO  21:36:49,624 - #38 nula
+INFO  21:36:49,624 - #6 ,
+INFO  21:36:49,624 - #38 jedan
+INFO  21:36:49,624 - #32 ;
+INFO  21:36:49,624 - #34 {
+INFO  21:36:49,624 - #38 x
+INFO  21:36:49,625 - #33 =
+INFO  21:36:49,625 - #8 new
+INFO  21:36:49,628 - #38 char
+INFO  21:36:49,629 - #16 [
+INFO  21:36:49,629 - #36 5
+INFO  21:36:49,629 - #17 ]
+INFO  21:36:49,633 - #32 ;
+INFO  21:36:49,633 - #38 b
+INFO  21:36:49,634 - #33 =
+INFO  21:36:49,634 - #8 new
+INFO  21:36:49,634 - #38 int
+INFO  21:36:49,634 - #16 [
+INFO  21:36:49,634 - #36 10
+INFO  21:36:49,634 - #17 ]
+INFO  21:36:49,634 - #32 ;
+INFO  21:36:49,635 - #38 a
+INFO  21:36:49,635 - #33 =
+INFO  21:36:49,635 - #36 2
+INFO  21:36:49,635 - #3 +
+INFO  21:36:49,635 - #38 Broj
+INFO  21:36:49,639 - #10 .
+INFO  21:36:49,640 - #38 NULA
+INFO  21:36:49,641 - #32 ;
+INFO  21:36:49,642 - #38 a
+INFO  21:36:49,642 - #33 =
+INFO  21:36:49,642 - #38 ord
+INFO  21:36:49,642 - #15 (
+INFO  21:36:49,642 - #39 a
+INFO  21:36:49,642 - #5 )
+INFO  21:36:49,643 - #32 ;
+INFO  21:36:49,643 - #38 c
+INFO  21:36:49,643 - #33 =
+INFO  21:36:49,643 - #38 chr
+INFO  21:36:49,643 - #15 (
+INFO  21:36:49,643 - #36 65
+INFO  21:36:49,643 - #5 )
+INFO  21:36:49,644 - #32 ;
+INFO  21:36:49,644 - #38 a
+INFO  21:36:49,644 - #33 =
+INFO  21:36:49,644 - #38 len
+INFO  21:36:49,644 - #15 (
+INFO  21:36:49,644 - #38 x
+INFO  21:36:49,645 - #5 )
+INFO  21:36:49,645 - #32 ;
+INFO  21:36:49,645 - #26 print
+INFO  21:36:49,645 - #15 (
+INFO  21:36:49,649 - #38 ord
+INFO  21:36:49,650 - #15 (
+INFO  21:36:49,650 - #38 x
+INFO  21:36:49,651 - #16 [
+INFO  21:36:49,651 - #36 0
+INFO  21:36:49,651 - #17 ]
+INFO  21:36:49,651 - #5 )
+INFO  21:36:49,651 - #5 )
+INFO  21:36:49,651 - #32 ;
+INFO  21:36:49,651 - #38 ord
+INFO  21:36:49,651 - #15 (
+INFO  21:36:49,651 - #39 g
+INFO  21:36:49,651 - #5 )
+INFO  21:36:49,651 - #32 ;
+INFO  21:36:49,651 - #38 a
+INFO  21:36:49,651 - #33 =
+INFO  21:36:49,651 - #38 len
+INFO  21:36:49,651 - #15 (
+INFO  21:36:49,651 - #38 x
+INFO  21:36:49,651 - #5 )
+INFO  21:36:49,651 - #32 ;
+INFO  21:36:49,652 - #35 }
+INFO  21:36:49,653 - #35 }
+INFO  21:36:49,658 - Program(
+  ProgramName(
+   TestLength
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList1(
+      ConVarDecList3(
+        ConVarDecList2(
+          ConVarDecList2(
+            ConVarDecList4(
+            ) [ConVarDecList4]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDeclArray(
+               x
+              ) [VarDeclArray]
+              VarDeclMoreCOMMA(
+                VarDeclArray(
+                 y
+                ) [VarDeclArray]
+                VarDeclMoreE(
+                ) [VarDeclMoreE]
+              ) [VarDeclMoreCOMMA]
+            ) [VarDeclList]
+          ) [ConVarDecList2]
+          VarDeclList(
+            Type(
+             char
+            ) [Type]
+            VarDeclArray(
+             c
+            ) [VarDeclArray]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclList]
+        ) [ConVarDecList2]
+        EnumDeclList(
+          EnumName(
+           Broj
+          ) [EnumName]
+          EnumElemListMore(
+            EnumElemListMore(
+              EnumElemListMore(
+                EnumElemSingle(
+                  EnumElemNoValue(
+                   NULA
+                  ) [EnumElemNoValue]
+                ) [EnumElemSingle]
+                EnumElemNoValue(
+                 JEDAN
+                ) [EnumElemNoValue]
+              ) [EnumElemListMore]
+              EnumElemWithValue(
+               PET
+               5
+              ) [EnumElemWithValue]
+            ) [EnumElemListMore]
+            EnumElemWithValue(
+             DESET
+             10
+            ) [EnumElemWithValue]
+          ) [EnumElemListMore]
+        ) [EnumDeclList]
+      ) [ConVarDecList3]
+      ConDecList(
+        Type(
+         bool
+        ) [Type]
+        ConDecl(
+         t
+          ConstantB(
+           1
+          ) [ConstantB]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    ConDecList(
+      Type(
+       int
+      ) [Type]
+      ConDecl(
+       pi
+        ConstantN(
+         3
+        ) [ConstantN]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecR(
+            VarDeclListRecR(
+              VarDeclListRecR(
+                VarDeclListRecR(
+                  VarDeclListRecE(
+                  ) [VarDeclListRecE]
+                  VarDeclList(
+                    Type(
+                     char
+                    ) [Type]
+                    VarDeclArray(
+                     x
+                    ) [VarDeclArray]
+                    VarDeclMoreE(
+                    ) [VarDeclMoreE]
+                  ) [VarDeclList]
+                ) [VarDeclListRecR]
+                VarDeclList(
+                  Type(
+                   int
+                  ) [Type]
+                  VarDeclVar(
+                   a
+                  ) [VarDeclVar]
+                  VarDeclMoreCOMMA(
+                    VarDeclArray(
+                     b
+                    ) [VarDeclArray]
+                    VarDeclMoreE(
+                    ) [VarDeclMoreE]
+                  ) [VarDeclMoreCOMMA]
+                ) [VarDeclList]
+              ) [VarDeclListRecR]
+              VarDeclList(
+                Type(
+                 int
+                ) [Type]
+                VarDeclArray(
+                 z
+                ) [VarDeclArray]
+                VarDeclMoreE(
+                ) [VarDeclMoreE]
+              ) [VarDeclList]
+            ) [VarDeclListRecR]
+            VarDeclList(
+              Type(
+               char
+              ) [Type]
+              VarDeclVar(
+               eol
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclList]
+          ) [VarDeclListRecR]
+          VarDeclList(
+            Type(
+             char
+            ) [Type]
+            VarDeclVar(
+             c
+            ) [VarDeclVar]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           Broj
+          ) [Type]
+          VarDeclVar(
+           nula
+          ) [VarDeclVar]
+          VarDeclMoreCOMMA(
+            VarDeclVar(
+             jedan
+            ) [VarDeclVar]
+            VarDeclMoreE(
+            ) [VarDeclMoreE]
+          ) [VarDeclMoreCOMMA]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListR(
+          StatementListR(
+            StatementListR(
+              StatementListR(
+                StatementListR(
+                  StatementListR(
+                    StatementListR(
+                      StatementListR(
+                        StatementListE(
+                        ) [StatementListE]
+                        StatementDS(
+                          DesignatorStatementASS(
+                            DesignatorVar(
+                             x
+                            ) [DesignatorVar]
+                            Assignop(
+                            ) [Assignop]
+                            AddExpr(
+                              FactorTerm(
+                                Factor(
+                                  NoMinus(
+                                  ) [NoMinus]
+                                  FactorIdent(
+                                    Type(
+                                     char
+                                    ) [Type]
+                                    AddExpr(
+                                      FactorTerm(
+                                        Factor(
+                                          NoMinus(
+                                          ) [NoMinus]
+                                          FactorNum(
+                                           5
+                                          ) [FactorNum]
+                                        ) [Factor]
+                                      ) [FactorTerm]
+                                      AddopTermListE(
+                                      ) [AddopTermListE]
+                                    ) [AddExpr]
+                                  ) [FactorIdent]
+                                ) [Factor]
+                              ) [FactorTerm]
+                              AddopTermListE(
+                              ) [AddopTermListE]
+                            ) [AddExpr]
+                          ) [DesignatorStatementASS]
+                        ) [StatementDS]
+                      ) [StatementListR]
+                      StatementDS(
+                        DesignatorStatementASS(
+                          DesignatorVar(
+                           b
+                          ) [DesignatorVar]
+                          Assignop(
+                          ) [Assignop]
+                          AddExpr(
+                            FactorTerm(
+                              Factor(
+                                NoMinus(
+                                ) [NoMinus]
+                                FactorIdent(
+                                  Type(
+                                   int
+                                  ) [Type]
+                                  AddExpr(
+                                    FactorTerm(
+                                      Factor(
+                                        NoMinus(
+                                        ) [NoMinus]
+                                        FactorNum(
+                                         10
+                                        ) [FactorNum]
+                                      ) [Factor]
+                                    ) [FactorTerm]
+                                    AddopTermListE(
+                                    ) [AddopTermListE]
+                                  ) [AddExpr]
+                                ) [FactorIdent]
+                              ) [Factor]
+                            ) [FactorTerm]
+                            AddopTermListE(
+                            ) [AddopTermListE]
+                          ) [AddExpr]
+                        ) [DesignatorStatementASS]
+                      ) [StatementDS]
+                    ) [StatementListR]
+                    StatementDS(
+                      DesignatorStatementASS(
+                        DesignatorVar(
+                         a
+                        ) [DesignatorVar]
+                        Assignop(
+                        ) [Assignop]
+                        AddExpr(
+                          FactorTerm(
+                            Factor(
+                              NoMinus(
+                              ) [NoMinus]
+                              FactorNum(
+                               2
+                              ) [FactorNum]
+                            ) [Factor]
+                          ) [FactorTerm]
+                          AddopTermList1(
+                            AddopTermListE(
+                            ) [AddopTermListE]
+                            AddopADD(
+                            ) [AddopADD]
+                            FactorTerm(
+                              Factor(
+                                NoMinus(
+                                ) [NoMinus]
+                                FactorD(
+                                  DesignatorField(
+                                    DesignatorName(
+                                     Broj
+                                    ) [DesignatorName]
+                                   NULA
+                                  ) [DesignatorField]
+                                ) [FactorD]
+                              ) [Factor]
+                            ) [FactorTerm]
+                          ) [AddopTermList1]
+                        ) [AddExpr]
+                      ) [DesignatorStatementASS]
+                    ) [StatementDS]
+                  ) [StatementListR]
+                  StatementDS(
+                    DesignatorStatementASS(
+                      DesignatorVar(
+                       a
+                      ) [DesignatorVar]
+                      Assignop(
+                      ) [Assignop]
+                      AddExpr(
+                        FactorTerm(
+                          Factor(
+                            NoMinus(
+                            ) [NoMinus]
+                            FactorDA(
+                              DesignatorVar(
+                               ord
+                              ) [DesignatorVar]
+                              ActParsL(
+                                ActListExpr(
+                                  AddExpr(
+                                    FactorTerm(
+                                      Factor(
+                                        NoMinus(
+                                        ) [NoMinus]
+                                        FactorChar(
+                                         a
+                                        ) [FactorChar]
+                                      ) [Factor]
+                                    ) [FactorTerm]
+                                    AddopTermListE(
+                                    ) [AddopTermListE]
+                                  ) [AddExpr]
+                                ) [ActListExpr]
+                              ) [ActParsL]
+                            ) [FactorDA]
+                          ) [Factor]
+                        ) [FactorTerm]
+                        AddopTermListE(
+                        ) [AddopTermListE]
+                      ) [AddExpr]
+                    ) [DesignatorStatementASS]
+                  ) [StatementDS]
+                ) [StatementListR]
+                StatementDS(
+                  DesignatorStatementASS(
+                    DesignatorVar(
+                     c
+                    ) [DesignatorVar]
+                    Assignop(
+                    ) [Assignop]
+                    AddExpr(
+                      FactorTerm(
+                        Factor(
+                          NoMinus(
+                          ) [NoMinus]
+                          FactorDA(
+                            DesignatorVar(
+                             chr
+                            ) [DesignatorVar]
+                            ActParsL(
+                              ActListExpr(
+                                AddExpr(
+                                  FactorTerm(
+                                    Factor(
+                                      NoMinus(
+                                      ) [NoMinus]
+                                      FactorNum(
+                                       65
+                                      ) [FactorNum]
+                                    ) [Factor]
+                                  ) [FactorTerm]
+                                  AddopTermListE(
+                                  ) [AddopTermListE]
+                                ) [AddExpr]
+                              ) [ActListExpr]
+                            ) [ActParsL]
+                          ) [FactorDA]
+                        ) [Factor]
+                      ) [FactorTerm]
+                      AddopTermListE(
+                      ) [AddopTermListE]
+                    ) [AddExpr]
+                  ) [DesignatorStatementASS]
+                ) [StatementDS]
+              ) [StatementListR]
+              StatementDS(
+                DesignatorStatementASS(
+                  DesignatorVar(
+                   a
+                  ) [DesignatorVar]
+                  Assignop(
+                  ) [Assignop]
+                  AddExpr(
+                    FactorTerm(
+                      Factor(
+                        NoMinus(
+                        ) [NoMinus]
+                        FactorDA(
+                          DesignatorVar(
+                           len
+                          ) [DesignatorVar]
+                          ActParsL(
+                            ActListExpr(
+                              AddExpr(
+                                FactorTerm(
+                                  Factor(
+                                    NoMinus(
+                                    ) [NoMinus]
+                                    FactorD(
+                                      DesignatorVar(
+                                       x
+                                      ) [DesignatorVar]
+                                    ) [FactorD]
+                                  ) [Factor]
+                                ) [FactorTerm]
+                                AddopTermListE(
+                                ) [AddopTermListE]
+                              ) [AddExpr]
+                            ) [ActListExpr]
+                          ) [ActParsL]
+                        ) [FactorDA]
+                      ) [Factor]
+                    ) [FactorTerm]
+                    AddopTermListE(
+                    ) [AddopTermListE]
+                  ) [AddExpr]
+                ) [DesignatorStatementASS]
+              ) [StatementDS]
+            ) [StatementListR]
+            StatementP1(
+              AddExpr(
+                FactorTerm(
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorDA(
+                      DesignatorVar(
+                       ord
+                      ) [DesignatorVar]
+                      ActParsL(
+                        ActListExpr(
+                          AddExpr(
+                            FactorTerm(
+                              Factor(
+                                NoMinus(
+                                ) [NoMinus]
+                                FactorD(
+                                  DesignatorElem(
+                                    DesignatorName(
+                                     x
+                                    ) [DesignatorName]
+                                    AddExpr(
+                                      FactorTerm(
+                                        Factor(
+                                          NoMinus(
+                                          ) [NoMinus]
+                                          FactorNum(
+                                           0
+                                          ) [FactorNum]
+                                        ) [Factor]
+                                      ) [FactorTerm]
+                                      AddopTermListE(
+                                      ) [AddopTermListE]
+                                    ) [AddExpr]
+                                  ) [DesignatorElem]
+                                ) [FactorD]
+                              ) [Factor]
+                            ) [FactorTerm]
+                            AddopTermListE(
+                            ) [AddopTermListE]
+                          ) [AddExpr]
+                        ) [ActListExpr]
+                      ) [ActParsL]
+                    ) [FactorDA]
+                  ) [Factor]
+                ) [FactorTerm]
+                AddopTermListE(
+                ) [AddopTermListE]
+              ) [AddExpr]
+            ) [StatementP1]
+          ) [StatementListR]
+          StatementDS(
+            DesignatorStatementACTP(
+              DesignatorVar(
+               ord
+              ) [DesignatorVar]
+              ActParsL(
+                ActListExpr(
+                  AddExpr(
+                    FactorTerm(
+                      Factor(
+                        NoMinus(
+                        ) [NoMinus]
+                        FactorChar(
+                         g
+                        ) [FactorChar]
+                      ) [Factor]
+                    ) [FactorTerm]
+                    AddopTermListE(
+                    ) [AddopTermListE]
+                  ) [AddExpr]
+                ) [ActListExpr]
+              ) [ActParsL]
+            ) [DesignatorStatementACTP]
+          ) [StatementDS]
+        ) [StatementListR]
+        StatementDS(
+          DesignatorStatementASS(
+            DesignatorVar(
+             a
+            ) [DesignatorVar]
+            Assignop(
+            ) [Assignop]
+            AddExpr(
+              FactorTerm(
+                Factor(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorDA(
+                    DesignatorVar(
+                     len
+                    ) [DesignatorVar]
+                    ActParsL(
+                      ActListExpr(
+                        AddExpr(
+                          FactorTerm(
+                            Factor(
+                              NoMinus(
+                              ) [NoMinus]
+                              FactorD(
+                                DesignatorVar(
+                                 x
+                                ) [DesignatorVar]
+                              ) [FactorD]
+                            ) [Factor]
+                          ) [FactorTerm]
+                          AddopTermListE(
+                          ) [AddopTermListE]
+                        ) [AddExpr]
+                      ) [ActListExpr]
+                    ) [ActParsL]
+                  ) [FactorDA]
+                ) [Factor]
+              ) [FactorTerm]
+              AddopTermListE(
+              ) [AddopTermListE]
+            ) [AddExpr]
+          ) [DesignatorStatementASS]
+        ) [StatementDS]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  21:36:49,659 - ===================================
+INFO  21:36:49,670 - Definisana enum konstanta Broj.NULA = 0 na liniji 4
+INFO  21:36:49,670 - Definisana enum konstanta Broj.JEDAN = 1 na liniji 4
+INFO  21:36:49,671 - Definisana enum konstanta Broj.PET = 5 na liniji 4
+INFO  21:36:49,671 - Definisana enum konstanta Broj.DESET = 10 na liniji 4
+INFO  21:36:49,672 - Pristup enum konstanti: Broj.NULA na liniji 24
+INFO  21:36:49,672 - Poziv funkcije: ord na liniji 29
+INFO  21:36:49,673 - Poziv funkcije: chr na liniji 30
+INFO  21:36:49,674 - Poziv funkcije: len na liniji 31
+INFO  21:36:49,674 - Poziv funkcije: ord na liniji 44
+INFO  21:36:49,674 - Poziv funkcije kao statement: ord na liniji 46
+INFO  21:36:49,674 - Poziv funkcije: len na liniji 52
+INFO  21:36:49,674 - ===================================
+INFO  21:36:49,674 - Parsiranje uspesno zavrseno

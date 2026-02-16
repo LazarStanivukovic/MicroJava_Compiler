@@ -1,0 +1,138 @@
+INFO  23:01:24,477 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj2.mj
+INFO  23:01:24,556 - #30 program
+INFO  23:01:24,557 - #38 TestLength
+INFO  23:01:24,557 - #31 const
+INFO  23:01:24,559 - #38 int
+INFO  23:01:24,559 - #38 pi
+INFO  23:01:24,559 - #33 =
+INFO  23:01:24,560 - #36 3
+INFO  23:01:24,560 - #32 ;
+INFO  23:01:24,562 - #38 int
+INFO  23:01:24,563 - #38 x
+INFO  23:01:24,564 - #6 ,
+INFO  23:01:24,564 - #38 y
+INFO  23:01:24,564 - #16 [
+INFO  23:01:24,564 - #17 ]
+INFO  23:01:24,564 - #32 ;
+INFO  23:01:24,566 - #34 {
+INFO  23:01:24,567 - #14 void
+INFO  23:01:24,567 - #38 main
+INFO  23:01:24,567 - #15 (
+INFO  23:01:24,568 - #5 )
+INFO  23:01:24,569 - #38 int
+INFO  23:01:24,572 - #38 a
+INFO  23:01:24,572 - #6 ,
+INFO  23:01:24,572 - #38 b
+INFO  23:01:24,572 - #32 ;
+INFO  23:01:24,572 - #38 char
+INFO  23:01:24,572 - #38 carr
+INFO  23:01:24,573 - #16 [
+INFO  23:01:24,573 - #17 ]
+INFO  23:01:24,573 - #32 ;
+INFO  23:01:24,573 - #34 {
+INFO  23:01:24,573 - #26 print
+INFO  23:01:24,574 - #15 (
+INFO  23:01:24,574 - #39 a
+INFO  23:01:24,576 - #5 )
+INFO  23:01:24,577 - #32 ;
+INFO  23:01:24,578 - #35 }
+INFO  23:01:24,578 - #35 }
+INFO  23:01:24,582 - Program(
+  ProgramName(
+   TestLength
+  ) [ProgramName]
+  ConVarDecList2(
+    ConVarDecList1(
+      ConVarDecList4(
+      ) [ConVarDecList4]
+      ConDecList(
+        Type(
+         int
+        ) [Type]
+        ConDecl(
+         pi
+          ConstantN(
+           3
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDecList]
+    ) [ConVarDecList1]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDeclVar(
+       x
+      ) [VarDeclVar]
+      VarDeclMoreCOMMA(
+        VarDeclArray(
+         y
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclMoreCOMMA]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecE(
+          ) [VarDeclListRecE]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDeclVar(
+             a
+            ) [VarDeclVar]
+            VarDeclMoreCOMMA(
+              VarDeclVar(
+               b
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclMoreCOMMA]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDeclArray(
+           carr
+          ) [VarDeclArray]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListE(
+        ) [StatementListE]
+        StatementP1(
+          AddExpr(
+            FactorTerm(
+              Factor(
+                NoMinus(
+                ) [NoMinus]
+                FactorChar(
+                 a
+                ) [FactorChar]
+              ) [Factor]
+            ) [FactorTerm]
+            AddopTermListE(
+            ) [AddopTermListE]
+          ) [AddExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  23:01:24,582 - ===================================
+INFO  23:01:24,593 - ===================================
+INFO  23:01:24,601 - Parsiranje i Generisanje uspesno zavrseno

@@ -1,0 +1,66 @@
+INFO  22:23:02,887 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  22:23:02,978 - #30 program
+INFO  22:23:02,978 - #38 Keske
+INFO  22:23:02,978 - #31 const
+INFO  22:23:02,980 - #38 int
+INFO  22:23:02,980 - #38 pi
+INFO  22:23:02,980 - #33 =
+INFO  22:23:02,981 - #36 3
+INFO  22:23:02,981 - #6 ,
+INFO  22:23:02,982 - #38 pi
+INFO  22:23:02,982 - #33 =
+INFO  22:23:02,982 - #36 33
+INFO  22:23:02,982 - #32 ;
+INFO  22:23:02,983 - #34 {
+INFO  22:23:02,984 - #14 void
+INFO  22:23:02,984 - #38 main
+INFO  22:23:02,984 - #15 (
+INFO  22:23:02,985 - #5 )
+INFO  22:23:02,985 - #34 {
+INFO  22:23:02,986 - #35 }
+INFO  22:23:02,987 - #35 }
+INFO  22:23:02,990 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    ConDecList(
+      Type(
+       int
+      ) [Type]
+      ConDecl(
+       pi
+        ConstantN(
+         3
+        ) [ConstantN]
+      ) [ConDecl]
+      ConDeclMore1(
+        ConDecl(
+         pi
+          ConstantN(
+           33
+          ) [ConstantN]
+        ) [ConDecl]
+        ConDeclMore2(
+        ) [ConDeclMore2]
+      ) [ConDeclMore1]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  22:23:02,994 - ===================================
+ERROR 22:23:03,002 - Dvostruka definicija konstante: pi na liniji 3
+INFO  22:23:03,002 - ===================================
+INFO  22:23:03,003 - Parsiranje NIJE uspesno zavrseno

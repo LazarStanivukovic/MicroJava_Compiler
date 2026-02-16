@@ -1,0 +1,21 @@
+INFO  19:15:58,042 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\test301.mj
+INFO  19:15:58,067 - #2 program
+INFO  19:15:58,067 - #29 test301
+INFO  19:15:58,067 - #30 enum
+INFO  19:15:58,068 - #29 Broj
+INFO  19:15:58,068 - #19 {
+INFO  19:15:58,068 - #29 NULA
+INFO  19:15:58,068 - #22 ,
+INFO  19:15:58,068 - #29 JEDAN
+INFO  19:15:58,068 - #22 ,
+INFO  19:15:58,068 - #29 PET
+INFO  19:15:58,068 - #14 =
+INFO  19:15:58,068 - #26 5
+INFO  19:15:58,068 - #22 ,
+INFO  19:15:58,069 - #29 DESET
+INFO  19:15:58,069 - #14 =
+INFO  19:15:58,069 - #26 10
+INFO  19:15:58,069 - #20 }
+INFO  19:15:58,069 - #31 const
+ERROR 19:15:58,069 - Sintaksna greska na liniji 7
+ERROR 19:15:58,069 - Fatalna greska, parsiranje prekinuto na liniji 7

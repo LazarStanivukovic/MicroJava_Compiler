@@ -1,0 +1,57 @@
+program Keske
+
+const int pi = 3, g = 11;
+
+char x, y[];
+
+enum Broj { NULA, JEDAN, PET=5, DESET=10}
+
+const bool t = true;
+{
+	void main() int a, b[]; int x[], y; char eol;{
+		x = new int[5];
+		
+		//b = Broj.JEDAN;//error
+		//a = Broj.jedan;//error
+		//b[2] = Broj.JEDAN;//ok
+		
+		//a = x.JEDAN;//error
+		
+		//a = b;//error
+		//a= 3+b;//error
+		//a=3+b*2;//error
+		//a= 3+b[2]*2;//ok
+		//g=3;//error
+		//a=3;//ok
+		//x = new int[5];//ok
+		//x[2] = a; //ok
+		//x=a;//error
+		
+		//x[3]= x[5];//ok
+		//x=null;//ok
+		//x++;//error
+		//x[5]--;//ok
+		//pi--;//error
+		
+		//a++;//ok
+		//eol++;//error
+		
+		
+		//read(a);//ok
+		//read(eol);//ok
+		//read(x); //error
+		//read(x[2]);//ok
+		
+		//print(x);//error
+		//print(x[2]);//ok
+		
+		//print(1, 4);//ok
+		//print(a, 4);//ok
+		//print(eol, 4);//ok
+		//print(false, 4);//ok
+		
+		//print(x, 4);//error
+		//print(x[2], 4);//ok
+	}
+	
+}

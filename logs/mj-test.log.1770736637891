@@ -1,0 +1,2129 @@
+INFO  16:15:16,593 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\test301.mj
+INFO  16:15:16,645 - #30 program
+INFO  16:15:16,645 - #38 test301
+INFO  16:15:16,645 - #19 enum
+INFO  16:15:16,646 - #38 Broj
+INFO  16:15:16,646 - #34 {
+INFO  16:15:16,646 - #38 NULA
+INFO  16:15:16,646 - #6 ,
+INFO  16:15:16,646 - #38 JEDAN
+INFO  16:15:16,646 - #6 ,
+INFO  16:15:16,646 - #38 PET
+INFO  16:15:16,647 - #33 =
+INFO  16:15:16,647 - #36 5
+INFO  16:15:16,647 - #6 ,
+INFO  16:15:16,647 - #38 DESET
+INFO  16:15:16,647 - #33 =
+INFO  16:15:16,647 - #36 10
+INFO  16:15:16,647 - #35 }
+INFO  16:15:16,647 - #31 const
+INFO  16:15:16,648 - #38 int
+INFO  16:15:16,648 - #38 nula
+INFO  16:15:16,649 - #33 =
+INFO  16:15:16,651 - #36 0
+INFO  16:15:16,651 - #32 ;
+INFO  16:15:16,652 - #31 const
+INFO  16:15:16,652 - #38 int
+INFO  16:15:16,653 - #38 jedan
+INFO  16:15:16,653 - #33 =
+INFO  16:15:16,653 - #36 1
+INFO  16:15:16,653 - #32 ;
+INFO  16:15:16,653 - #31 const
+INFO  16:15:16,653 - #38 int
+INFO  16:15:16,653 - #38 pet
+INFO  16:15:16,653 - #33 =
+INFO  16:15:16,653 - #36 5
+INFO  16:15:16,653 - #32 ;
+INFO  16:15:16,653 - #38 int
+INFO  16:15:16,653 - #38 niz
+INFO  16:15:16,653 - #16 [
+INFO  16:15:16,653 - #17 ]
+INFO  16:15:16,653 - #32 ;
+INFO  16:15:16,654 - #38 char
+INFO  16:15:16,654 - #38 nizch
+INFO  16:15:16,654 - #16 [
+INFO  16:15:16,654 - #17 ]
+INFO  16:15:16,654 - #32 ;
+INFO  16:15:16,654 - #38 int
+INFO  16:15:16,654 - #38 a
+INFO  16:15:16,654 - #32 ;
+INFO  16:15:16,654 - #34 {
+INFO  16:15:16,654 - #14 void
+INFO  16:15:16,654 - #38 main
+INFO  16:15:16,654 - #15 (
+INFO  16:15:16,655 - #5 )
+INFO  16:15:16,655 - #38 int
+INFO  16:15:16,656 - #38 bodovi
+INFO  16:15:16,656 - #32 ;
+INFO  16:15:16,656 - #38 int
+INFO  16:15:16,656 - #38 temp
+INFO  16:15:16,656 - #32 ;
+INFO  16:15:16,656 - #38 Broj
+INFO  16:15:16,656 - #38 nula
+INFO  16:15:16,656 - #6 ,
+INFO  16:15:16,657 - #38 jedan
+INFO  16:15:16,657 - #32 ;
+INFO  16:15:16,657 - #38 bool
+INFO  16:15:16,657 - #38 bt
+INFO  16:15:16,657 - #32 ;
+INFO  16:15:16,657 - #34 {
+INFO  16:15:16,657 - #38 nula
+INFO  16:15:16,659 - #33 =
+INFO  16:15:16,662 - #38 Broj
+INFO  16:15:16,665 - #10 .
+INFO  16:15:16,665 - #38 NULA
+INFO  16:15:16,665 - #32 ;
+INFO  16:15:16,667 - #38 jedan
+INFO  16:15:16,667 - #33 =
+INFO  16:15:16,667 - #38 Broj
+INFO  16:15:16,668 - #10 .
+INFO  16:15:16,668 - #38 JEDAN
+INFO  16:15:16,668 - #32 ;
+INFO  16:15:16,668 - #38 bodovi
+INFO  16:15:16,668 - #33 =
+INFO  16:15:16,668 - #36 0
+INFO  16:15:16,668 - #32 ;
+INFO  16:15:16,668 - #38 bodovi
+INFO  16:15:16,668 - #24 ++
+INFO  16:15:16,668 - #32 ;
+INFO  16:15:16,668 - #38 bodovi
+INFO  16:15:16,668 - #33 =
+INFO  16:15:16,668 - #38 bodovi
+INFO  16:15:16,668 - #3 +
+INFO  16:15:16,668 - #38 jedan
+INFO  16:15:16,672 - #32 ;
+INFO  16:15:16,672 - #38 bodovi
+INFO  16:15:16,672 - #33 =
+INFO  16:15:16,672 - #38 bodovi
+INFO  16:15:16,672 - #20 *
+INFO  16:15:16,672 - #38 pet
+INFO  16:15:16,675 - #32 ;
+INFO  16:15:16,675 - #38 bodovi
+INFO  16:15:16,675 - #29 --
+INFO  16:15:16,675 - #32 ;
+INFO  16:15:16,675 - #26 print
+INFO  16:15:16,675 - #15 (
+INFO  16:15:16,675 - #38 bodovi
+INFO  16:15:16,675 - #5 )
+INFO  16:15:16,675 - #32 ;
+INFO  16:15:16,676 - #26 print
+INFO  16:15:16,676 - #15 (
+INFO  16:15:16,676 - #38 eol
+INFO  16:15:16,676 - #5 )
+INFO  16:15:16,676 - #32 ;
+INFO  16:15:16,676 - #38 niz
+INFO  16:15:16,676 - #33 =
+INFO  16:15:16,676 - #8 new
+INFO  16:15:16,676 - #38 int
+INFO  16:15:16,676 - #16 [
+INFO  16:15:16,676 - #36 3
+INFO  16:15:16,676 - #17 ]
+INFO  16:15:16,676 - #32 ;
+INFO  16:15:16,676 - #38 niz
+INFO  16:15:16,676 - #16 [
+INFO  16:15:16,676 - #38 nula
+INFO  16:15:16,676 - #17 ]
+INFO  16:15:16,676 - #33 =
+INFO  16:15:16,676 - #36 2
+INFO  16:15:16,676 - #32 ;
+INFO  16:15:16,676 - #38 niz
+INFO  16:15:16,676 - #16 [
+INFO  16:15:16,676 - #38 jedan
+INFO  16:15:16,676 - #17 ]
+INFO  16:15:16,676 - #33 =
+INFO  16:15:16,676 - #36 3
+INFO  16:15:16,676 - #32 ;
+INFO  16:15:16,676 - #38 niz
+INFO  16:15:16,677 - #16 [
+INFO  16:15:16,677 - #38 niz
+INFO  16:15:16,677 - #16 [
+INFO  16:15:16,677 - #38 nula
+INFO  16:15:16,677 - #17 ]
+INFO  16:15:16,677 - #17 ]
+INFO  16:15:16,677 - #33 =
+INFO  16:15:16,677 - #38 niz
+INFO  16:15:16,677 - #16 [
+INFO  16:15:16,677 - #36 1
+INFO  16:15:16,677 - #17 ]
+INFO  16:15:16,677 - #20 *
+INFO  16:15:16,677 - #36 4
+INFO  16:15:16,677 - #32 ;
+INFO  16:15:16,677 - #38 bodovi
+INFO  16:15:16,677 - #33 =
+INFO  16:15:16,677 - #38 niz
+INFO  16:15:16,677 - #16 [
+INFO  16:15:16,677 - #36 2
+INFO  16:15:16,677 - #17 ]
+INFO  16:15:16,677 - #12 /
+INFO  16:15:16,678 - #38 niz
+INFO  16:15:16,679 - #16 [
+INFO  16:15:16,679 - #36 0
+INFO  16:15:16,679 - #17 ]
+INFO  16:15:16,679 - #32 ;
+INFO  16:15:16,679 - #26 print
+INFO  16:15:16,679 - #15 (
+INFO  16:15:16,679 - #38 bodovi
+INFO  16:15:16,679 - #5 )
+INFO  16:15:16,679 - #32 ;
+INFO  16:15:16,679 - #26 print
+INFO  16:15:16,679 - #15 (
+INFO  16:15:16,679 - #38 eol
+INFO  16:15:16,679 - #5 )
+INFO  16:15:16,679 - #32 ;
+INFO  16:15:16,679 - #26 print
+INFO  16:15:16,679 - #15 (
+INFO  16:15:16,679 - #38 niz
+INFO  16:15:16,679 - #16 [
+INFO  16:15:16,679 - #36 2
+INFO  16:15:16,679 - #17 ]
+INFO  16:15:16,679 - #5 )
+INFO  16:15:16,679 - #32 ;
+INFO  16:15:16,679 - #26 print
+INFO  16:15:16,679 - #15 (
+INFO  16:15:16,679 - #38 eol
+INFO  16:15:16,680 - #5 )
+INFO  16:15:16,680 - #32 ;
+INFO  16:15:16,680 - #38 nizch
+INFO  16:15:16,680 - #33 =
+INFO  16:15:16,680 - #8 new
+INFO  16:15:16,680 - #38 char
+INFO  16:15:16,680 - #16 [
+INFO  16:15:16,680 - #36 3
+INFO  16:15:16,680 - #17 ]
+INFO  16:15:16,680 - #32 ;
+INFO  16:15:16,680 - #38 nizch
+INFO  16:15:16,680 - #16 [
+INFO  16:15:16,680 - #36 0
+INFO  16:15:16,680 - #17 ]
+INFO  16:15:16,680 - #33 =
+INFO  16:15:16,680 - #39 a
+INFO  16:15:16,680 - #32 ;
+INFO  16:15:16,680 - #38 nizch
+INFO  16:15:16,680 - #16 [
+INFO  16:15:16,680 - #38 jedan
+INFO  16:15:16,680 - #17 ]
+INFO  16:15:16,680 - #33 =
+INFO  16:15:16,680 - #39 b
+INFO  16:15:16,680 - #32 ;
+INFO  16:15:16,680 - #38 nizch
+INFO  16:15:16,680 - #16 [
+INFO  16:15:16,680 - #38 pet
+INFO  16:15:16,680 - #13 -
+INFO  16:15:16,680 - #36 3
+INFO  16:15:16,682 - #17 ]
+INFO  16:15:16,682 - #33 =
+INFO  16:15:16,682 - #39 c
+INFO  16:15:16,682 - #32 ;
+INFO  16:15:16,682 - #26 print
+INFO  16:15:16,682 - #15 (
+INFO  16:15:16,682 - #38 nizch
+INFO  16:15:16,682 - #16 [
+INFO  16:15:16,682 - #36 1
+INFO  16:15:16,682 - #17 ]
+INFO  16:15:16,682 - #5 )
+INFO  16:15:16,682 - #32 ;
+INFO  16:15:16,682 - #26 print
+INFO  16:15:16,682 - #15 (
+INFO  16:15:16,682 - #38 eol
+INFO  16:15:16,682 - #5 )
+INFO  16:15:16,682 - #32 ;
+INFO  16:15:16,682 - #26 print
+INFO  16:15:16,682 - #15 (
+INFO  16:15:16,682 - #38 nizch
+INFO  16:15:16,682 - #16 [
+INFO  16:15:16,682 - #38 jedan
+INFO  16:15:16,682 - #20 *
+INFO  16:15:16,682 - #36 2
+INFO  16:15:16,682 - #17 ]
+INFO  16:15:16,682 - #5 )
+INFO  16:15:16,682 - #32 ;
+INFO  16:15:16,682 - #26 print
+INFO  16:15:16,682 - #15 (
+INFO  16:15:16,682 - #38 eol
+INFO  16:15:16,682 - #5 )
+INFO  16:15:16,682 - #32 ;
+INFO  16:15:16,682 - #26 print
+INFO  16:15:16,682 - #15 (
+INFO  16:15:16,682 - #38 ord
+INFO  16:15:16,682 - #15 (
+INFO  16:15:16,682 - #38 nizch
+INFO  16:15:16,682 - #16 [
+INFO  16:15:16,682 - #36 0
+INFO  16:15:16,682 - #17 ]
+INFO  16:15:16,682 - #5 )
+INFO  16:15:16,682 - #5 )
+INFO  16:15:16,682 - #32 ;
+INFO  16:15:16,682 - #26 print
+INFO  16:15:16,682 - #15 (
+INFO  16:15:16,682 - #38 nizch
+INFO  16:15:16,682 - #10 .
+INFO  16:15:16,682 - #11 length
+INFO  16:15:16,682 - #5 )
+INFO  16:15:16,684 - #32 ;
+INFO  16:15:16,684 - #26 print
+INFO  16:15:16,684 - #15 (
+INFO  16:15:16,684 - #38 niz
+INFO  16:15:16,684 - #10 .
+INFO  16:15:16,685 - #11 length
+INFO  16:15:16,685 - #5 )
+INFO  16:15:16,685 - #32 ;
+INFO  16:15:16,685 - #38 a
+INFO  16:15:16,685 - #33 =
+INFO  16:15:16,685 - #36 1
+INFO  16:15:16,685 - #32 ;
+INFO  16:15:16,685 - #23 read
+INFO  16:15:16,685 - #15 (
+INFO  16:15:16,685 - #38 bodovi
+INFO  16:15:16,685 - #5 )
+INFO  16:15:16,685 - #32 ;
+INFO  16:15:16,685 - #38 bodovi
+INFO  16:15:16,685 - #33 =
+INFO  16:15:16,685 - #13 -
+INFO  16:15:16,685 - #38 bodovi
+INFO  16:15:16,687 - #3 +
+INFO  16:15:16,687 - #15 (
+INFO  16:15:16,687 - #38 pet
+INFO  16:15:16,687 - #20 *
+INFO  16:15:16,687 - #38 a
+INFO  16:15:16,687 - #12 /
+INFO  16:15:16,687 - #36 2
+INFO  16:15:16,687 - #13 -
+INFO  16:15:16,687 - #38 nula
+INFO  16:15:16,687 - #5 )
+INFO  16:15:16,687 - #20 *
+INFO  16:15:16,687 - #38 bodovi
+INFO  16:15:16,687 - #13 -
+INFO  16:15:16,687 - #15 (
+INFO  16:15:16,687 - #36 3
+INFO  16:15:16,687 - #18 %
+INFO  16:15:16,687 - #36 2
+INFO  16:15:16,689 - #3 +
+INFO  16:15:16,689 - #36 3
+INFO  16:15:16,689 - #20 *
+INFO  16:15:16,689 - #36 2
+INFO  16:15:16,689 - #13 -
+INFO  16:15:16,689 - #36 7
+INFO  16:15:16,689 - #5 )
+INFO  16:15:16,689 - #32 ;
+INFO  16:15:16,689 - #26 print
+INFO  16:15:16,689 - #15 (
+INFO  16:15:16,689 - #38 bodovi
+INFO  16:15:16,689 - #5 )
+INFO  16:15:16,689 - #32 ;
+INFO  16:15:16,689 - #23 read
+INFO  16:15:16,689 - #15 (
+INFO  16:15:16,689 - #38 bodovi
+INFO  16:15:16,689 - #5 )
+INFO  16:15:16,689 - #32 ;
+INFO  16:15:16,689 - #38 bt
+INFO  16:15:16,689 - #33 =
+INFO  16:15:16,689 - #37 1
+INFO  16:15:16,689 - #32 ;
+INFO  16:15:16,689 - #26 print
+INFO  16:15:16,689 - #15 (
+INFO  16:15:16,689 - #38 bt
+INFO  16:15:16,689 - #21 ?
+INFO  16:15:16,689 - #38 bodovi
+INFO  16:15:16,689 - #2 :
+INFO  16:15:16,689 - #38 bodovi
+INFO  16:15:16,689 - #3 +
+INFO  16:15:16,689 - #36 10
+INFO  16:15:16,689 - #5 )
+INFO  16:15:16,690 - #32 ;
+INFO  16:15:16,690 - #26 print
+INFO  16:15:16,690 - #15 (
+INFO  16:15:16,690 - #37 0
+INFO  16:15:16,690 - #21 ?
+INFO  16:15:16,690 - #38 bodovi
+INFO  16:15:16,690 - #3 +
+INFO  16:15:16,690 - #36 20
+INFO  16:15:16,690 - #2 :
+INFO  16:15:16,690 - #38 bodovi
+INFO  16:15:16,690 - #3 +
+INFO  16:15:16,690 - #36 30
+INFO  16:15:16,690 - #5 )
+INFO  16:15:16,690 - #32 ;
+INFO  16:15:16,690 - #26 print
+INFO  16:15:16,690 - #15 (
+INFO  16:15:16,690 - #38 bodovi
+INFO  16:15:16,690 - #22 >
+INFO  16:15:16,690 - #36 10
+INFO  16:15:16,693 - #21 ?
+INFO  16:15:16,693 - #39 +
+INFO  16:15:16,693 - #2 :
+INFO  16:15:16,693 - #39 -
+INFO  16:15:16,693 - #5 )
+INFO  16:15:16,694 - #32 ;
+INFO  16:15:16,694 - #35 }
+INFO  16:15:16,694 - #35 }
+INFO  16:15:16,707 - Program(
+ test301
+  ConVarDecList2(
+    ConVarDecList2(
+      ConVarDecList2(
+        ConVarDecList1(
+          ConVarDecList1(
+            ConVarDecList1(
+              ConVarDecList3(
+                ConVarDecList4(
+                ) [ConVarDecList4]
+                EnumDeclList(
+                 Broj
+                  EnumElemListMore(
+                    EnumElemListMore(
+                      EnumElemListMore(
+                        EnumElemSingle(
+                          EnumElemNoValue(
+                           NULA
+                          ) [EnumElemNoValue]
+                        ) [EnumElemSingle]
+                        EnumElemNoValue(
+                         JEDAN
+                        ) [EnumElemNoValue]
+                      ) [EnumElemListMore]
+                      EnumElemWithValue(
+                       PET
+                       5
+                      ) [EnumElemWithValue]
+                    ) [EnumElemListMore]
+                    EnumElemWithValue(
+                     DESET
+                     10
+                    ) [EnumElemWithValue]
+                  ) [EnumElemListMore]
+                ) [EnumDeclList]
+              ) [ConVarDecList3]
+              ConDecList(
+                Type(
+                 int
+                ) [Type]
+                ConDecl(
+                 nula
+                  ConstantN(
+                   0
+                  ) [ConstantN]
+                ) [ConDecl]
+                ConDeclMore2(
+                ) [ConDeclMore2]
+              ) [ConDecList]
+            ) [ConVarDecList1]
+            ConDecList(
+              Type(
+               int
+              ) [Type]
+              ConDecl(
+               jedan
+                ConstantN(
+                 1
+                ) [ConstantN]
+              ) [ConDecl]
+              ConDeclMore2(
+              ) [ConDeclMore2]
+            ) [ConDecList]
+          ) [ConVarDecList1]
+          ConDecList(
+            Type(
+             int
+            ) [Type]
+            ConDecl(
+             pet
+              ConstantN(
+               5
+              ) [ConstantN]
+            ) [ConDecl]
+            ConDeclMore2(
+            ) [ConDeclMore2]
+          ) [ConDecList]
+        ) [ConVarDecList1]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDeclArray(
+           niz
+          ) [VarDeclArray]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [ConVarDecList2]
+      VarDeclList(
+        Type(
+         char
+        ) [Type]
+        VarDeclArray(
+         nizch
+        ) [VarDeclArray]
+        VarDeclMoreE(
+        ) [VarDeclMoreE]
+      ) [VarDeclList]
+    ) [ConVarDecList2]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDeclVar(
+       a
+      ) [VarDeclVar]
+      VarDeclMoreE(
+      ) [VarDeclMoreE]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecR(
+        VarDeclListRecR(
+          VarDeclListRecR(
+            VarDeclListRecR(
+              VarDeclListRecE(
+              ) [VarDeclListRecE]
+              VarDeclList(
+                Type(
+                 int
+                ) [Type]
+                VarDeclVar(
+                 bodovi
+                ) [VarDeclVar]
+                VarDeclMoreE(
+                ) [VarDeclMoreE]
+              ) [VarDeclList]
+            ) [VarDeclListRecR]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDeclVar(
+               temp
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclList]
+          ) [VarDeclListRecR]
+          VarDeclList(
+            Type(
+             Broj
+            ) [Type]
+            VarDeclVar(
+             nula
+            ) [VarDeclVar]
+            VarDeclMoreCOMMA(
+              VarDeclVar(
+               jedan
+              ) [VarDeclVar]
+              VarDeclMoreE(
+              ) [VarDeclMoreE]
+            ) [VarDeclMoreCOMMA]
+          ) [VarDeclList]
+        ) [VarDeclListRecR]
+        VarDeclList(
+          Type(
+           bool
+          ) [Type]
+          VarDeclVar(
+           bt
+          ) [VarDeclVar]
+          VarDeclMoreE(
+          ) [VarDeclMoreE]
+        ) [VarDeclList]
+      ) [VarDeclListRecR]
+      StatementListR(
+        StatementListR(
+          StatementListR(
+            StatementListR(
+              StatementListR(
+                StatementListR(
+                  StatementListR(
+                    StatementListR(
+                      StatementListR(
+                        StatementListR(
+                          StatementListR(
+                            StatementListR(
+                              StatementListR(
+                                StatementListR(
+                                  StatementListR(
+                                    StatementListR(
+                                      StatementListR(
+                                        StatementListR(
+                                          StatementListR(
+                                            StatementListR(
+                                              StatementListR(
+                                                StatementListR(
+                                                  StatementListR(
+                                                    StatementListR(
+                                                      StatementListR(
+                                                        StatementListR(
+                                                          StatementListR(
+                                                            StatementListR(
+                                                              StatementListR(
+                                                                StatementListR(
+                                                                  StatementListR(
+                                                                    StatementListR(
+                                                                      StatementListR(
+                                                                        StatementListR(
+                                                                          StatementListR(
+                                                                            StatementListR(
+                                                                              StatementListR(
+                                                                                StatementListR(
+                                                                                  StatementListE(
+                                                                                  ) [StatementListE]
+                                                                                  StatementDS(
+                                                                                    DesignatorStatementASS(
+                                                                                      Designator(
+                                                                                       nula
+                                                                                        DesiListNEMA(
+                                                                                        ) [DesiListNEMA]
+                                                                                      ) [Designator]
+                                                                                      Assignop(
+                                                                                      ) [Assignop]
+                                                                                      AddExpr(
+                                                                                        FactorTerm(
+                                                                                          Factor(
+                                                                                            NoMinus(
+                                                                                            ) [NoMinus]
+                                                                                            FactorD(
+                                                                                              Designator(
+                                                                                               Broj
+                                                                                                DesiListIMA(
+                                                                                                  DesiListNEMA(
+                                                                                                  ) [DesiListNEMA]
+                                                                                                  DesiCompIDENT(
+                                                                                                   NULA
+                                                                                                  ) [DesiCompIDENT]
+                                                                                                ) [DesiListIMA]
+                                                                                              ) [Designator]
+                                                                                            ) [FactorD]
+                                                                                          ) [Factor]
+                                                                                        ) [FactorTerm]
+                                                                                        AddopTermListE(
+                                                                                        ) [AddopTermListE]
+                                                                                      ) [AddExpr]
+                                                                                    ) [DesignatorStatementASS]
+                                                                                  ) [StatementDS]
+                                                                                ) [StatementListR]
+                                                                                StatementDS(
+                                                                                  DesignatorStatementASS(
+                                                                                    Designator(
+                                                                                     jedan
+                                                                                      DesiListNEMA(
+                                                                                      ) [DesiListNEMA]
+                                                                                    ) [Designator]
+                                                                                    Assignop(
+                                                                                    ) [Assignop]
+                                                                                    AddExpr(
+                                                                                      FactorTerm(
+                                                                                        Factor(
+                                                                                          NoMinus(
+                                                                                          ) [NoMinus]
+                                                                                          FactorD(
+                                                                                            Designator(
+                                                                                             Broj
+                                                                                              DesiListIMA(
+                                                                                                DesiListNEMA(
+                                                                                                ) [DesiListNEMA]
+                                                                                                DesiCompIDENT(
+                                                                                                 JEDAN
+                                                                                                ) [DesiCompIDENT]
+                                                                                              ) [DesiListIMA]
+                                                                                            ) [Designator]
+                                                                                          ) [FactorD]
+                                                                                        ) [Factor]
+                                                                                      ) [FactorTerm]
+                                                                                      AddopTermListE(
+                                                                                      ) [AddopTermListE]
+                                                                                    ) [AddExpr]
+                                                                                  ) [DesignatorStatementASS]
+                                                                                ) [StatementDS]
+                                                                              ) [StatementListR]
+                                                                              StatementDS(
+                                                                                DesignatorStatementASS(
+                                                                                  Designator(
+                                                                                   bodovi
+                                                                                    DesiListNEMA(
+                                                                                    ) [DesiListNEMA]
+                                                                                  ) [Designator]
+                                                                                  Assignop(
+                                                                                  ) [Assignop]
+                                                                                  AddExpr(
+                                                                                    FactorTerm(
+                                                                                      Factor(
+                                                                                        NoMinus(
+                                                                                        ) [NoMinus]
+                                                                                        FactorNum(
+                                                                                         0
+                                                                                        ) [FactorNum]
+                                                                                      ) [Factor]
+                                                                                    ) [FactorTerm]
+                                                                                    AddopTermListE(
+                                                                                    ) [AddopTermListE]
+                                                                                  ) [AddExpr]
+                                                                                ) [DesignatorStatementASS]
+                                                                              ) [StatementDS]
+                                                                            ) [StatementListR]
+                                                                            StatementDS(
+                                                                              DesignatorStatementINC(
+                                                                                Designator(
+                                                                                 bodovi
+                                                                                  DesiListNEMA(
+                                                                                  ) [DesiListNEMA]
+                                                                                ) [Designator]
+                                                                              ) [DesignatorStatementINC]
+                                                                            ) [StatementDS]
+                                                                          ) [StatementListR]
+                                                                          StatementDS(
+                                                                            DesignatorStatementASS(
+                                                                              Designator(
+                                                                               bodovi
+                                                                                DesiListNEMA(
+                                                                                ) [DesiListNEMA]
+                                                                              ) [Designator]
+                                                                              Assignop(
+                                                                              ) [Assignop]
+                                                                              AddExpr(
+                                                                                FactorTerm(
+                                                                                  Factor(
+                                                                                    NoMinus(
+                                                                                    ) [NoMinus]
+                                                                                    FactorD(
+                                                                                      Designator(
+                                                                                       bodovi
+                                                                                        DesiListNEMA(
+                                                                                        ) [DesiListNEMA]
+                                                                                      ) [Designator]
+                                                                                    ) [FactorD]
+                                                                                  ) [Factor]
+                                                                                ) [FactorTerm]
+                                                                                AddopTermList1(
+                                                                                  AddopTermListE(
+                                                                                  ) [AddopTermListE]
+                                                                                  AddopADD(
+                                                                                  ) [AddopADD]
+                                                                                  FactorTerm(
+                                                                                    Factor(
+                                                                                      NoMinus(
+                                                                                      ) [NoMinus]
+                                                                                      FactorD(
+                                                                                        Designator(
+                                                                                         jedan
+                                                                                          DesiListNEMA(
+                                                                                          ) [DesiListNEMA]
+                                                                                        ) [Designator]
+                                                                                      ) [FactorD]
+                                                                                    ) [Factor]
+                                                                                  ) [FactorTerm]
+                                                                                ) [AddopTermList1]
+                                                                              ) [AddExpr]
+                                                                            ) [DesignatorStatementASS]
+                                                                          ) [StatementDS]
+                                                                        ) [StatementListR]
+                                                                        StatementDS(
+                                                                          DesignatorStatementASS(
+                                                                            Designator(
+                                                                             bodovi
+                                                                              DesiListNEMA(
+                                                                              ) [DesiListNEMA]
+                                                                            ) [Designator]
+                                                                            Assignop(
+                                                                            ) [Assignop]
+                                                                            AddExpr(
+                                                                              MulTerm(
+                                                                                FactorTerm(
+                                                                                  Factor(
+                                                                                    NoMinus(
+                                                                                    ) [NoMinus]
+                                                                                    FactorD(
+                                                                                      Designator(
+                                                                                       bodovi
+                                                                                        DesiListNEMA(
+                                                                                        ) [DesiListNEMA]
+                                                                                      ) [Designator]
+                                                                                    ) [FactorD]
+                                                                                  ) [Factor]
+                                                                                ) [FactorTerm]
+                                                                                MulopMUL(
+                                                                                ) [MulopMUL]
+                                                                                Factor(
+                                                                                  NoMinus(
+                                                                                  ) [NoMinus]
+                                                                                  FactorD(
+                                                                                    Designator(
+                                                                                     pet
+                                                                                      DesiListNEMA(
+                                                                                      ) [DesiListNEMA]
+                                                                                    ) [Designator]
+                                                                                  ) [FactorD]
+                                                                                ) [Factor]
+                                                                              ) [MulTerm]
+                                                                              AddopTermListE(
+                                                                              ) [AddopTermListE]
+                                                                            ) [AddExpr]
+                                                                          ) [DesignatorStatementASS]
+                                                                        ) [StatementDS]
+                                                                      ) [StatementListR]
+                                                                      StatementDS(
+                                                                        DesignatorStatementDEC(
+                                                                          Designator(
+                                                                           bodovi
+                                                                            DesiListNEMA(
+                                                                            ) [DesiListNEMA]
+                                                                          ) [Designator]
+                                                                        ) [DesignatorStatementDEC]
+                                                                      ) [StatementDS]
+                                                                    ) [StatementListR]
+                                                                    StatementP1(
+                                                                      AddExpr(
+                                                                        FactorTerm(
+                                                                          Factor(
+                                                                            NoMinus(
+                                                                            ) [NoMinus]
+                                                                            FactorD(
+                                                                              Designator(
+                                                                               bodovi
+                                                                                DesiListNEMA(
+                                                                                ) [DesiListNEMA]
+                                                                              ) [Designator]
+                                                                            ) [FactorD]
+                                                                          ) [Factor]
+                                                                        ) [FactorTerm]
+                                                                        AddopTermListE(
+                                                                        ) [AddopTermListE]
+                                                                      ) [AddExpr]
+                                                                    ) [StatementP1]
+                                                                  ) [StatementListR]
+                                                                  StatementP1(
+                                                                    AddExpr(
+                                                                      FactorTerm(
+                                                                        Factor(
+                                                                          NoMinus(
+                                                                          ) [NoMinus]
+                                                                          FactorD(
+                                                                            Designator(
+                                                                             eol
+                                                                              DesiListNEMA(
+                                                                              ) [DesiListNEMA]
+                                                                            ) [Designator]
+                                                                          ) [FactorD]
+                                                                        ) [Factor]
+                                                                      ) [FactorTerm]
+                                                                      AddopTermListE(
+                                                                      ) [AddopTermListE]
+                                                                    ) [AddExpr]
+                                                                  ) [StatementP1]
+                                                                ) [StatementListR]
+                                                                StatementDS(
+                                                                  DesignatorStatementASS(
+                                                                    Designator(
+                                                                     niz
+                                                                      DesiListNEMA(
+                                                                      ) [DesiListNEMA]
+                                                                    ) [Designator]
+                                                                    Assignop(
+                                                                    ) [Assignop]
+                                                                    AddExpr(
+                                                                      FactorTerm(
+                                                                        Factor(
+                                                                          NoMinus(
+                                                                          ) [NoMinus]
+                                                                          FactorIdent(
+                                                                            Type(
+                                                                             int
+                                                                            ) [Type]
+                                                                            AddExpr(
+                                                                              FactorTerm(
+                                                                                Factor(
+                                                                                  NoMinus(
+                                                                                  ) [NoMinus]
+                                                                                  FactorNum(
+                                                                                   3
+                                                                                  ) [FactorNum]
+                                                                                ) [Factor]
+                                                                              ) [FactorTerm]
+                                                                              AddopTermListE(
+                                                                              ) [AddopTermListE]
+                                                                            ) [AddExpr]
+                                                                          ) [FactorIdent]
+                                                                        ) [Factor]
+                                                                      ) [FactorTerm]
+                                                                      AddopTermListE(
+                                                                      ) [AddopTermListE]
+                                                                    ) [AddExpr]
+                                                                  ) [DesignatorStatementASS]
+                                                                ) [StatementDS]
+                                                              ) [StatementListR]
+                                                              StatementDS(
+                                                                DesignatorStatementASS(
+                                                                  Designator(
+                                                                   niz
+                                                                    DesiListIMA(
+                                                                      DesiListNEMA(
+                                                                      ) [DesiListNEMA]
+                                                                      DesiCompExpr(
+                                                                        AddExpr(
+                                                                          FactorTerm(
+                                                                            Factor(
+                                                                              NoMinus(
+                                                                              ) [NoMinus]
+                                                                              FactorD(
+                                                                                Designator(
+                                                                                 nula
+                                                                                  DesiListNEMA(
+                                                                                  ) [DesiListNEMA]
+                                                                                ) [Designator]
+                                                                              ) [FactorD]
+                                                                            ) [Factor]
+                                                                          ) [FactorTerm]
+                                                                          AddopTermListE(
+                                                                          ) [AddopTermListE]
+                                                                        ) [AddExpr]
+                                                                      ) [DesiCompExpr]
+                                                                    ) [DesiListIMA]
+                                                                  ) [Designator]
+                                                                  Assignop(
+                                                                  ) [Assignop]
+                                                                  AddExpr(
+                                                                    FactorTerm(
+                                                                      Factor(
+                                                                        NoMinus(
+                                                                        ) [NoMinus]
+                                                                        FactorNum(
+                                                                         2
+                                                                        ) [FactorNum]
+                                                                      ) [Factor]
+                                                                    ) [FactorTerm]
+                                                                    AddopTermListE(
+                                                                    ) [AddopTermListE]
+                                                                  ) [AddExpr]
+                                                                ) [DesignatorStatementASS]
+                                                              ) [StatementDS]
+                                                            ) [StatementListR]
+                                                            StatementDS(
+                                                              DesignatorStatementASS(
+                                                                Designator(
+                                                                 niz
+                                                                  DesiListIMA(
+                                                                    DesiListNEMA(
+                                                                    ) [DesiListNEMA]
+                                                                    DesiCompExpr(
+                                                                      AddExpr(
+                                                                        FactorTerm(
+                                                                          Factor(
+                                                                            NoMinus(
+                                                                            ) [NoMinus]
+                                                                            FactorD(
+                                                                              Designator(
+                                                                               jedan
+                                                                                DesiListNEMA(
+                                                                                ) [DesiListNEMA]
+                                                                              ) [Designator]
+                                                                            ) [FactorD]
+                                                                          ) [Factor]
+                                                                        ) [FactorTerm]
+                                                                        AddopTermListE(
+                                                                        ) [AddopTermListE]
+                                                                      ) [AddExpr]
+                                                                    ) [DesiCompExpr]
+                                                                  ) [DesiListIMA]
+                                                                ) [Designator]
+                                                                Assignop(
+                                                                ) [Assignop]
+                                                                AddExpr(
+                                                                  FactorTerm(
+                                                                    Factor(
+                                                                      NoMinus(
+                                                                      ) [NoMinus]
+                                                                      FactorNum(
+                                                                       3
+                                                                      ) [FactorNum]
+                                                                    ) [Factor]
+                                                                  ) [FactorTerm]
+                                                                  AddopTermListE(
+                                                                  ) [AddopTermListE]
+                                                                ) [AddExpr]
+                                                              ) [DesignatorStatementASS]
+                                                            ) [StatementDS]
+                                                          ) [StatementListR]
+                                                          StatementDS(
+                                                            DesignatorStatementASS(
+                                                              Designator(
+                                                               niz
+                                                                DesiListIMA(
+                                                                  DesiListNEMA(
+                                                                  ) [DesiListNEMA]
+                                                                  DesiCompExpr(
+                                                                    AddExpr(
+                                                                      FactorTerm(
+                                                                        Factor(
+                                                                          NoMinus(
+                                                                          ) [NoMinus]
+                                                                          FactorD(
+                                                                            Designator(
+                                                                             niz
+                                                                              DesiListIMA(
+                                                                                DesiListNEMA(
+                                                                                ) [DesiListNEMA]
+                                                                                DesiCompExpr(
+                                                                                  AddExpr(
+                                                                                    FactorTerm(
+                                                                                      Factor(
+                                                                                        NoMinus(
+                                                                                        ) [NoMinus]
+                                                                                        FactorD(
+                                                                                          Designator(
+                                                                                           nula
+                                                                                            DesiListNEMA(
+                                                                                            ) [DesiListNEMA]
+                                                                                          ) [Designator]
+                                                                                        ) [FactorD]
+                                                                                      ) [Factor]
+                                                                                    ) [FactorTerm]
+                                                                                    AddopTermListE(
+                                                                                    ) [AddopTermListE]
+                                                                                  ) [AddExpr]
+                                                                                ) [DesiCompExpr]
+                                                                              ) [DesiListIMA]
+                                                                            ) [Designator]
+                                                                          ) [FactorD]
+                                                                        ) [Factor]
+                                                                      ) [FactorTerm]
+                                                                      AddopTermListE(
+                                                                      ) [AddopTermListE]
+                                                                    ) [AddExpr]
+                                                                  ) [DesiCompExpr]
+                                                                ) [DesiListIMA]
+                                                              ) [Designator]
+                                                              Assignop(
+                                                              ) [Assignop]
+                                                              AddExpr(
+                                                                MulTerm(
+                                                                  FactorTerm(
+                                                                    Factor(
+                                                                      NoMinus(
+                                                                      ) [NoMinus]
+                                                                      FactorD(
+                                                                        Designator(
+                                                                         niz
+                                                                          DesiListIMA(
+                                                                            DesiListNEMA(
+                                                                            ) [DesiListNEMA]
+                                                                            DesiCompExpr(
+                                                                              AddExpr(
+                                                                                FactorTerm(
+                                                                                  Factor(
+                                                                                    NoMinus(
+                                                                                    ) [NoMinus]
+                                                                                    FactorNum(
+                                                                                     1
+                                                                                    ) [FactorNum]
+                                                                                  ) [Factor]
+                                                                                ) [FactorTerm]
+                                                                                AddopTermListE(
+                                                                                ) [AddopTermListE]
+                                                                              ) [AddExpr]
+                                                                            ) [DesiCompExpr]
+                                                                          ) [DesiListIMA]
+                                                                        ) [Designator]
+                                                                      ) [FactorD]
+                                                                    ) [Factor]
+                                                                  ) [FactorTerm]
+                                                                  MulopMUL(
+                                                                  ) [MulopMUL]
+                                                                  Factor(
+                                                                    NoMinus(
+                                                                    ) [NoMinus]
+                                                                    FactorNum(
+                                                                     4
+                                                                    ) [FactorNum]
+                                                                  ) [Factor]
+                                                                ) [MulTerm]
+                                                                AddopTermListE(
+                                                                ) [AddopTermListE]
+                                                              ) [AddExpr]
+                                                            ) [DesignatorStatementASS]
+                                                          ) [StatementDS]
+                                                        ) [StatementListR]
+                                                        StatementDS(
+                                                          DesignatorStatementASS(
+                                                            Designator(
+                                                             bodovi
+                                                              DesiListNEMA(
+                                                              ) [DesiListNEMA]
+                                                            ) [Designator]
+                                                            Assignop(
+                                                            ) [Assignop]
+                                                            AddExpr(
+                                                              MulTerm(
+                                                                FactorTerm(
+                                                                  Factor(
+                                                                    NoMinus(
+                                                                    ) [NoMinus]
+                                                                    FactorD(
+                                                                      Designator(
+                                                                       niz
+                                                                        DesiListIMA(
+                                                                          DesiListNEMA(
+                                                                          ) [DesiListNEMA]
+                                                                          DesiCompExpr(
+                                                                            AddExpr(
+                                                                              FactorTerm(
+                                                                                Factor(
+                                                                                  NoMinus(
+                                                                                  ) [NoMinus]
+                                                                                  FactorNum(
+                                                                                   2
+                                                                                  ) [FactorNum]
+                                                                                ) [Factor]
+                                                                              ) [FactorTerm]
+                                                                              AddopTermListE(
+                                                                              ) [AddopTermListE]
+                                                                            ) [AddExpr]
+                                                                          ) [DesiCompExpr]
+                                                                        ) [DesiListIMA]
+                                                                      ) [Designator]
+                                                                    ) [FactorD]
+                                                                  ) [Factor]
+                                                                ) [FactorTerm]
+                                                                MulopDIV(
+                                                                ) [MulopDIV]
+                                                                Factor(
+                                                                  NoMinus(
+                                                                  ) [NoMinus]
+                                                                  FactorD(
+                                                                    Designator(
+                                                                     niz
+                                                                      DesiListIMA(
+                                                                        DesiListNEMA(
+                                                                        ) [DesiListNEMA]
+                                                                        DesiCompExpr(
+                                                                          AddExpr(
+                                                                            FactorTerm(
+                                                                              Factor(
+                                                                                NoMinus(
+                                                                                ) [NoMinus]
+                                                                                FactorNum(
+                                                                                 0
+                                                                                ) [FactorNum]
+                                                                              ) [Factor]
+                                                                            ) [FactorTerm]
+                                                                            AddopTermListE(
+                                                                            ) [AddopTermListE]
+                                                                          ) [AddExpr]
+                                                                        ) [DesiCompExpr]
+                                                                      ) [DesiListIMA]
+                                                                    ) [Designator]
+                                                                  ) [FactorD]
+                                                                ) [Factor]
+                                                              ) [MulTerm]
+                                                              AddopTermListE(
+                                                              ) [AddopTermListE]
+                                                            ) [AddExpr]
+                                                          ) [DesignatorStatementASS]
+                                                        ) [StatementDS]
+                                                      ) [StatementListR]
+                                                      StatementP1(
+                                                        AddExpr(
+                                                          FactorTerm(
+                                                            Factor(
+                                                              NoMinus(
+                                                              ) [NoMinus]
+                                                              FactorD(
+                                                                Designator(
+                                                                 bodovi
+                                                                  DesiListNEMA(
+                                                                  ) [DesiListNEMA]
+                                                                ) [Designator]
+                                                              ) [FactorD]
+                                                            ) [Factor]
+                                                          ) [FactorTerm]
+                                                          AddopTermListE(
+                                                          ) [AddopTermListE]
+                                                        ) [AddExpr]
+                                                      ) [StatementP1]
+                                                    ) [StatementListR]
+                                                    StatementP1(
+                                                      AddExpr(
+                                                        FactorTerm(
+                                                          Factor(
+                                                            NoMinus(
+                                                            ) [NoMinus]
+                                                            FactorD(
+                                                              Designator(
+                                                               eol
+                                                                DesiListNEMA(
+                                                                ) [DesiListNEMA]
+                                                              ) [Designator]
+                                                            ) [FactorD]
+                                                          ) [Factor]
+                                                        ) [FactorTerm]
+                                                        AddopTermListE(
+                                                        ) [AddopTermListE]
+                                                      ) [AddExpr]
+                                                    ) [StatementP1]
+                                                  ) [StatementListR]
+                                                  StatementP1(
+                                                    AddExpr(
+                                                      FactorTerm(
+                                                        Factor(
+                                                          NoMinus(
+                                                          ) [NoMinus]
+                                                          FactorD(
+                                                            Designator(
+                                                             niz
+                                                              DesiListIMA(
+                                                                DesiListNEMA(
+                                                                ) [DesiListNEMA]
+                                                                DesiCompExpr(
+                                                                  AddExpr(
+                                                                    FactorTerm(
+                                                                      Factor(
+                                                                        NoMinus(
+                                                                        ) [NoMinus]
+                                                                        FactorNum(
+                                                                         2
+                                                                        ) [FactorNum]
+                                                                      ) [Factor]
+                                                                    ) [FactorTerm]
+                                                                    AddopTermListE(
+                                                                    ) [AddopTermListE]
+                                                                  ) [AddExpr]
+                                                                ) [DesiCompExpr]
+                                                              ) [DesiListIMA]
+                                                            ) [Designator]
+                                                          ) [FactorD]
+                                                        ) [Factor]
+                                                      ) [FactorTerm]
+                                                      AddopTermListE(
+                                                      ) [AddopTermListE]
+                                                    ) [AddExpr]
+                                                  ) [StatementP1]
+                                                ) [StatementListR]
+                                                StatementP1(
+                                                  AddExpr(
+                                                    FactorTerm(
+                                                      Factor(
+                                                        NoMinus(
+                                                        ) [NoMinus]
+                                                        FactorD(
+                                                          Designator(
+                                                           eol
+                                                            DesiListNEMA(
+                                                            ) [DesiListNEMA]
+                                                          ) [Designator]
+                                                        ) [FactorD]
+                                                      ) [Factor]
+                                                    ) [FactorTerm]
+                                                    AddopTermListE(
+                                                    ) [AddopTermListE]
+                                                  ) [AddExpr]
+                                                ) [StatementP1]
+                                              ) [StatementListR]
+                                              StatementDS(
+                                                DesignatorStatementASS(
+                                                  Designator(
+                                                   nizch
+                                                    DesiListNEMA(
+                                                    ) [DesiListNEMA]
+                                                  ) [Designator]
+                                                  Assignop(
+                                                  ) [Assignop]
+                                                  AddExpr(
+                                                    FactorTerm(
+                                                      Factor(
+                                                        NoMinus(
+                                                        ) [NoMinus]
+                                                        FactorIdent(
+                                                          Type(
+                                                           char
+                                                          ) [Type]
+                                                          AddExpr(
+                                                            FactorTerm(
+                                                              Factor(
+                                                                NoMinus(
+                                                                ) [NoMinus]
+                                                                FactorNum(
+                                                                 3
+                                                                ) [FactorNum]
+                                                              ) [Factor]
+                                                            ) [FactorTerm]
+                                                            AddopTermListE(
+                                                            ) [AddopTermListE]
+                                                          ) [AddExpr]
+                                                        ) [FactorIdent]
+                                                      ) [Factor]
+                                                    ) [FactorTerm]
+                                                    AddopTermListE(
+                                                    ) [AddopTermListE]
+                                                  ) [AddExpr]
+                                                ) [DesignatorStatementASS]
+                                              ) [StatementDS]
+                                            ) [StatementListR]
+                                            StatementDS(
+                                              DesignatorStatementASS(
+                                                Designator(
+                                                 nizch
+                                                  DesiListIMA(
+                                                    DesiListNEMA(
+                                                    ) [DesiListNEMA]
+                                                    DesiCompExpr(
+                                                      AddExpr(
+                                                        FactorTerm(
+                                                          Factor(
+                                                            NoMinus(
+                                                            ) [NoMinus]
+                                                            FactorNum(
+                                                             0
+                                                            ) [FactorNum]
+                                                          ) [Factor]
+                                                        ) [FactorTerm]
+                                                        AddopTermListE(
+                                                        ) [AddopTermListE]
+                                                      ) [AddExpr]
+                                                    ) [DesiCompExpr]
+                                                  ) [DesiListIMA]
+                                                ) [Designator]
+                                                Assignop(
+                                                ) [Assignop]
+                                                AddExpr(
+                                                  FactorTerm(
+                                                    Factor(
+                                                      NoMinus(
+                                                      ) [NoMinus]
+                                                      FactorChar(
+                                                       a
+                                                      ) [FactorChar]
+                                                    ) [Factor]
+                                                  ) [FactorTerm]
+                                                  AddopTermListE(
+                                                  ) [AddopTermListE]
+                                                ) [AddExpr]
+                                              ) [DesignatorStatementASS]
+                                            ) [StatementDS]
+                                          ) [StatementListR]
+                                          StatementDS(
+                                            DesignatorStatementASS(
+                                              Designator(
+                                               nizch
+                                                DesiListIMA(
+                                                  DesiListNEMA(
+                                                  ) [DesiListNEMA]
+                                                  DesiCompExpr(
+                                                    AddExpr(
+                                                      FactorTerm(
+                                                        Factor(
+                                                          NoMinus(
+                                                          ) [NoMinus]
+                                                          FactorD(
+                                                            Designator(
+                                                             jedan
+                                                              DesiListNEMA(
+                                                              ) [DesiListNEMA]
+                                                            ) [Designator]
+                                                          ) [FactorD]
+                                                        ) [Factor]
+                                                      ) [FactorTerm]
+                                                      AddopTermListE(
+                                                      ) [AddopTermListE]
+                                                    ) [AddExpr]
+                                                  ) [DesiCompExpr]
+                                                ) [DesiListIMA]
+                                              ) [Designator]
+                                              Assignop(
+                                              ) [Assignop]
+                                              AddExpr(
+                                                FactorTerm(
+                                                  Factor(
+                                                    NoMinus(
+                                                    ) [NoMinus]
+                                                    FactorChar(
+                                                     b
+                                                    ) [FactorChar]
+                                                  ) [Factor]
+                                                ) [FactorTerm]
+                                                AddopTermListE(
+                                                ) [AddopTermListE]
+                                              ) [AddExpr]
+                                            ) [DesignatorStatementASS]
+                                          ) [StatementDS]
+                                        ) [StatementListR]
+                                        StatementDS(
+                                          DesignatorStatementASS(
+                                            Designator(
+                                             nizch
+                                              DesiListIMA(
+                                                DesiListNEMA(
+                                                ) [DesiListNEMA]
+                                                DesiCompExpr(
+                                                  AddExpr(
+                                                    FactorTerm(
+                                                      Factor(
+                                                        NoMinus(
+                                                        ) [NoMinus]
+                                                        FactorD(
+                                                          Designator(
+                                                           pet
+                                                            DesiListNEMA(
+                                                            ) [DesiListNEMA]
+                                                          ) [Designator]
+                                                        ) [FactorD]
+                                                      ) [Factor]
+                                                    ) [FactorTerm]
+                                                    AddopTermList1(
+                                                      AddopTermListE(
+                                                      ) [AddopTermListE]
+                                                      AddopMINUS(
+                                                      ) [AddopMINUS]
+                                                      FactorTerm(
+                                                        Factor(
+                                                          NoMinus(
+                                                          ) [NoMinus]
+                                                          FactorNum(
+                                                           3
+                                                          ) [FactorNum]
+                                                        ) [Factor]
+                                                      ) [FactorTerm]
+                                                    ) [AddopTermList1]
+                                                  ) [AddExpr]
+                                                ) [DesiCompExpr]
+                                              ) [DesiListIMA]
+                                            ) [Designator]
+                                            Assignop(
+                                            ) [Assignop]
+                                            AddExpr(
+                                              FactorTerm(
+                                                Factor(
+                                                  NoMinus(
+                                                  ) [NoMinus]
+                                                  FactorChar(
+                                                   c
+                                                  ) [FactorChar]
+                                                ) [Factor]
+                                              ) [FactorTerm]
+                                              AddopTermListE(
+                                              ) [AddopTermListE]
+                                            ) [AddExpr]
+                                          ) [DesignatorStatementASS]
+                                        ) [StatementDS]
+                                      ) [StatementListR]
+                                      StatementP1(
+                                        AddExpr(
+                                          FactorTerm(
+                                            Factor(
+                                              NoMinus(
+                                              ) [NoMinus]
+                                              FactorD(
+                                                Designator(
+                                                 nizch
+                                                  DesiListIMA(
+                                                    DesiListNEMA(
+                                                    ) [DesiListNEMA]
+                                                    DesiCompExpr(
+                                                      AddExpr(
+                                                        FactorTerm(
+                                                          Factor(
+                                                            NoMinus(
+                                                            ) [NoMinus]
+                                                            FactorNum(
+                                                             1
+                                                            ) [FactorNum]
+                                                          ) [Factor]
+                                                        ) [FactorTerm]
+                                                        AddopTermListE(
+                                                        ) [AddopTermListE]
+                                                      ) [AddExpr]
+                                                    ) [DesiCompExpr]
+                                                  ) [DesiListIMA]
+                                                ) [Designator]
+                                              ) [FactorD]
+                                            ) [Factor]
+                                          ) [FactorTerm]
+                                          AddopTermListE(
+                                          ) [AddopTermListE]
+                                        ) [AddExpr]
+                                      ) [StatementP1]
+                                    ) [StatementListR]
+                                    StatementP1(
+                                      AddExpr(
+                                        FactorTerm(
+                                          Factor(
+                                            NoMinus(
+                                            ) [NoMinus]
+                                            FactorD(
+                                              Designator(
+                                               eol
+                                                DesiListNEMA(
+                                                ) [DesiListNEMA]
+                                              ) [Designator]
+                                            ) [FactorD]
+                                          ) [Factor]
+                                        ) [FactorTerm]
+                                        AddopTermListE(
+                                        ) [AddopTermListE]
+                                      ) [AddExpr]
+                                    ) [StatementP1]
+                                  ) [StatementListR]
+                                  StatementP1(
+                                    AddExpr(
+                                      FactorTerm(
+                                        Factor(
+                                          NoMinus(
+                                          ) [NoMinus]
+                                          FactorD(
+                                            Designator(
+                                             nizch
+                                              DesiListIMA(
+                                                DesiListNEMA(
+                                                ) [DesiListNEMA]
+                                                DesiCompExpr(
+                                                  AddExpr(
+                                                    MulTerm(
+                                                      FactorTerm(
+                                                        Factor(
+                                                          NoMinus(
+                                                          ) [NoMinus]
+                                                          FactorD(
+                                                            Designator(
+                                                             jedan
+                                                              DesiListNEMA(
+                                                              ) [DesiListNEMA]
+                                                            ) [Designator]
+                                                          ) [FactorD]
+                                                        ) [Factor]
+                                                      ) [FactorTerm]
+                                                      MulopMUL(
+                                                      ) [MulopMUL]
+                                                      Factor(
+                                                        NoMinus(
+                                                        ) [NoMinus]
+                                                        FactorNum(
+                                                         2
+                                                        ) [FactorNum]
+                                                      ) [Factor]
+                                                    ) [MulTerm]
+                                                    AddopTermListE(
+                                                    ) [AddopTermListE]
+                                                  ) [AddExpr]
+                                                ) [DesiCompExpr]
+                                              ) [DesiListIMA]
+                                            ) [Designator]
+                                          ) [FactorD]
+                                        ) [Factor]
+                                      ) [FactorTerm]
+                                      AddopTermListE(
+                                      ) [AddopTermListE]
+                                    ) [AddExpr]
+                                  ) [StatementP1]
+                                ) [StatementListR]
+                                StatementP1(
+                                  AddExpr(
+                                    FactorTerm(
+                                      Factor(
+                                        NoMinus(
+                                        ) [NoMinus]
+                                        FactorD(
+                                          Designator(
+                                           eol
+                                            DesiListNEMA(
+                                            ) [DesiListNEMA]
+                                          ) [Designator]
+                                        ) [FactorD]
+                                      ) [Factor]
+                                    ) [FactorTerm]
+                                    AddopTermListE(
+                                    ) [AddopTermListE]
+                                  ) [AddExpr]
+                                ) [StatementP1]
+                              ) [StatementListR]
+                              StatementP1(
+                                AddExpr(
+                                  FactorTerm(
+                                    Factor(
+                                      NoMinus(
+                                      ) [NoMinus]
+                                      FactorDA(
+                                        Designator(
+                                         ord
+                                          DesiListNEMA(
+                                          ) [DesiListNEMA]
+                                        ) [Designator]
+                                        ActParsL(
+                                          ActListExpr(
+                                            AddExpr(
+                                              FactorTerm(
+                                                Factor(
+                                                  NoMinus(
+                                                  ) [NoMinus]
+                                                  FactorD(
+                                                    Designator(
+                                                     nizch
+                                                      DesiListIMA(
+                                                        DesiListNEMA(
+                                                        ) [DesiListNEMA]
+                                                        DesiCompExpr(
+                                                          AddExpr(
+                                                            FactorTerm(
+                                                              Factor(
+                                                                NoMinus(
+                                                                ) [NoMinus]
+                                                                FactorNum(
+                                                                 0
+                                                                ) [FactorNum]
+                                                              ) [Factor]
+                                                            ) [FactorTerm]
+                                                            AddopTermListE(
+                                                            ) [AddopTermListE]
+                                                          ) [AddExpr]
+                                                        ) [DesiCompExpr]
+                                                      ) [DesiListIMA]
+                                                    ) [Designator]
+                                                  ) [FactorD]
+                                                ) [Factor]
+                                              ) [FactorTerm]
+                                              AddopTermListE(
+                                              ) [AddopTermListE]
+                                            ) [AddExpr]
+                                          ) [ActListExpr]
+                                        ) [ActParsL]
+                                      ) [FactorDA]
+                                    ) [Factor]
+                                  ) [FactorTerm]
+                                  AddopTermListE(
+                                  ) [AddopTermListE]
+                                ) [AddExpr]
+                              ) [StatementP1]
+                            ) [StatementListR]
+                            StatementP1(
+                              AddExpr(
+                                FactorTerm(
+                                  Factor(
+                                    NoMinus(
+                                    ) [NoMinus]
+                                    FactorD(
+                                      Designator(
+                                       nizch
+                                        DesiListIMA(
+                                          DesiListNEMA(
+                                          ) [DesiListNEMA]
+                                          DesiCompLENGTH(
+                                          ) [DesiCompLENGTH]
+                                        ) [DesiListIMA]
+                                      ) [Designator]
+                                    ) [FactorD]
+                                  ) [Factor]
+                                ) [FactorTerm]
+                                AddopTermListE(
+                                ) [AddopTermListE]
+                              ) [AddExpr]
+                            ) [StatementP1]
+                          ) [StatementListR]
+                          StatementP1(
+                            AddExpr(
+                              FactorTerm(
+                                Factor(
+                                  NoMinus(
+                                  ) [NoMinus]
+                                  FactorD(
+                                    Designator(
+                                     niz
+                                      DesiListIMA(
+                                        DesiListNEMA(
+                                        ) [DesiListNEMA]
+                                        DesiCompLENGTH(
+                                        ) [DesiCompLENGTH]
+                                      ) [DesiListIMA]
+                                    ) [Designator]
+                                  ) [FactorD]
+                                ) [Factor]
+                              ) [FactorTerm]
+                              AddopTermListE(
+                              ) [AddopTermListE]
+                            ) [AddExpr]
+                          ) [StatementP1]
+                        ) [StatementListR]
+                        StatementDS(
+                          DesignatorStatementASS(
+                            Designator(
+                             a
+                              DesiListNEMA(
+                              ) [DesiListNEMA]
+                            ) [Designator]
+                            Assignop(
+                            ) [Assignop]
+                            AddExpr(
+                              FactorTerm(
+                                Factor(
+                                  NoMinus(
+                                  ) [NoMinus]
+                                  FactorNum(
+                                   1
+                                  ) [FactorNum]
+                                ) [Factor]
+                              ) [FactorTerm]
+                              AddopTermListE(
+                              ) [AddopTermListE]
+                            ) [AddExpr]
+                          ) [DesignatorStatementASS]
+                        ) [StatementDS]
+                      ) [StatementListR]
+                      StatementREAD(
+                        Designator(
+                         bodovi
+                          DesiListNEMA(
+                          ) [DesiListNEMA]
+                        ) [Designator]
+                      ) [StatementREAD]
+                    ) [StatementListR]
+                    StatementDS(
+                      DesignatorStatementASS(
+                        Designator(
+                         bodovi
+                          DesiListNEMA(
+                          ) [DesiListNEMA]
+                        ) [Designator]
+                        Assignop(
+                        ) [Assignop]
+                        AddExpr(
+                          FactorTerm(
+                            Factor(
+                              NegativeExpr(
+                              ) [NegativeExpr]
+                              FactorD(
+                                Designator(
+                                 bodovi
+                                  DesiListNEMA(
+                                  ) [DesiListNEMA]
+                                ) [Designator]
+                              ) [FactorD]
+                            ) [Factor]
+                          ) [FactorTerm]
+                          AddopTermList1(
+                            AddopTermList1(
+                              AddopTermListE(
+                              ) [AddopTermListE]
+                              AddopADD(
+                              ) [AddopADD]
+                              MulTerm(
+                                FactorTerm(
+                                  Factor(
+                                    NoMinus(
+                                    ) [NoMinus]
+                                    FactorExpr(
+                                      AddExpr(
+                                        MulTerm(
+                                          MulTerm(
+                                            FactorTerm(
+                                              Factor(
+                                                NoMinus(
+                                                ) [NoMinus]
+                                                FactorD(
+                                                  Designator(
+                                                   pet
+                                                    DesiListNEMA(
+                                                    ) [DesiListNEMA]
+                                                  ) [Designator]
+                                                ) [FactorD]
+                                              ) [Factor]
+                                            ) [FactorTerm]
+                                            MulopMUL(
+                                            ) [MulopMUL]
+                                            Factor(
+                                              NoMinus(
+                                              ) [NoMinus]
+                                              FactorD(
+                                                Designator(
+                                                 a
+                                                  DesiListNEMA(
+                                                  ) [DesiListNEMA]
+                                                ) [Designator]
+                                              ) [FactorD]
+                                            ) [Factor]
+                                          ) [MulTerm]
+                                          MulopDIV(
+                                          ) [MulopDIV]
+                                          Factor(
+                                            NoMinus(
+                                            ) [NoMinus]
+                                            FactorNum(
+                                             2
+                                            ) [FactorNum]
+                                          ) [Factor]
+                                        ) [MulTerm]
+                                        AddopTermList1(
+                                          AddopTermListE(
+                                          ) [AddopTermListE]
+                                          AddopMINUS(
+                                          ) [AddopMINUS]
+                                          FactorTerm(
+                                            Factor(
+                                              NoMinus(
+                                              ) [NoMinus]
+                                              FactorD(
+                                                Designator(
+                                                 nula
+                                                  DesiListNEMA(
+                                                  ) [DesiListNEMA]
+                                                ) [Designator]
+                                              ) [FactorD]
+                                            ) [Factor]
+                                          ) [FactorTerm]
+                                        ) [AddopTermList1]
+                                      ) [AddExpr]
+                                    ) [FactorExpr]
+                                  ) [Factor]
+                                ) [FactorTerm]
+                                MulopMUL(
+                                ) [MulopMUL]
+                                Factor(
+                                  NoMinus(
+                                  ) [NoMinus]
+                                  FactorD(
+                                    Designator(
+                                     bodovi
+                                      DesiListNEMA(
+                                      ) [DesiListNEMA]
+                                    ) [Designator]
+                                  ) [FactorD]
+                                ) [Factor]
+                              ) [MulTerm]
+                            ) [AddopTermList1]
+                            AddopMINUS(
+                            ) [AddopMINUS]
+                            FactorTerm(
+                              Factor(
+                                NoMinus(
+                                ) [NoMinus]
+                                FactorExpr(
+                                  AddExpr(
+                                    MulTerm(
+                                      FactorTerm(
+                                        Factor(
+                                          NoMinus(
+                                          ) [NoMinus]
+                                          FactorNum(
+                                           3
+                                          ) [FactorNum]
+                                        ) [Factor]
+                                      ) [FactorTerm]
+                                      MulopMOD(
+                                      ) [MulopMOD]
+                                      Factor(
+                                        NoMinus(
+                                        ) [NoMinus]
+                                        FactorNum(
+                                         2
+                                        ) [FactorNum]
+                                      ) [Factor]
+                                    ) [MulTerm]
+                                    AddopTermList1(
+                                      AddopTermList1(
+                                        AddopTermListE(
+                                        ) [AddopTermListE]
+                                        AddopADD(
+                                        ) [AddopADD]
+                                        MulTerm(
+                                          FactorTerm(
+                                            Factor(
+                                              NoMinus(
+                                              ) [NoMinus]
+                                              FactorNum(
+                                               3
+                                              ) [FactorNum]
+                                            ) [Factor]
+                                          ) [FactorTerm]
+                                          MulopMUL(
+                                          ) [MulopMUL]
+                                          Factor(
+                                            NoMinus(
+                                            ) [NoMinus]
+                                            FactorNum(
+                                             2
+                                            ) [FactorNum]
+                                          ) [Factor]
+                                        ) [MulTerm]
+                                      ) [AddopTermList1]
+                                      AddopMINUS(
+                                      ) [AddopMINUS]
+                                      FactorTerm(
+                                        Factor(
+                                          NoMinus(
+                                          ) [NoMinus]
+                                          FactorNum(
+                                           7
+                                          ) [FactorNum]
+                                        ) [Factor]
+                                      ) [FactorTerm]
+                                    ) [AddopTermList1]
+                                  ) [AddExpr]
+                                ) [FactorExpr]
+                              ) [Factor]
+                            ) [FactorTerm]
+                          ) [AddopTermList1]
+                        ) [AddExpr]
+                      ) [DesignatorStatementASS]
+                    ) [StatementDS]
+                  ) [StatementListR]
+                  StatementP1(
+                    AddExpr(
+                      FactorTerm(
+                        Factor(
+                          NoMinus(
+                          ) [NoMinus]
+                          FactorD(
+                            Designator(
+                             bodovi
+                              DesiListNEMA(
+                              ) [DesiListNEMA]
+                            ) [Designator]
+                          ) [FactorD]
+                        ) [Factor]
+                      ) [FactorTerm]
+                      AddopTermListE(
+                      ) [AddopTermListE]
+                    ) [AddExpr]
+                  ) [StatementP1]
+                ) [StatementListR]
+                StatementREAD(
+                  Designator(
+                   bodovi
+                    DesiListNEMA(
+                    ) [DesiListNEMA]
+                  ) [Designator]
+                ) [StatementREAD]
+              ) [StatementListR]
+              StatementDS(
+                DesignatorStatementASS(
+                  Designator(
+                   bt
+                    DesiListNEMA(
+                    ) [DesiListNEMA]
+                  ) [Designator]
+                  Assignop(
+                  ) [Assignop]
+                  AddExpr(
+                    FactorTerm(
+                      Factor(
+                        NoMinus(
+                        ) [NoMinus]
+                        FactorBool(
+                         1
+                        ) [FactorBool]
+                      ) [Factor]
+                    ) [FactorTerm]
+                    AddopTermListE(
+                    ) [AddopTermListE]
+                  ) [AddExpr]
+                ) [DesignatorStatementASS]
+              ) [StatementDS]
+            ) [StatementListR]
+            StatementP1(
+              TernaryExpr(
+                CondFactBez(
+                  FactorTerm(
+                    Factor(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorD(
+                        Designator(
+                         bt
+                          DesiListNEMA(
+                          ) [DesiListNEMA]
+                        ) [Designator]
+                      ) [FactorD]
+                    ) [Factor]
+                  ) [FactorTerm]
+                  AddopTermListE(
+                  ) [AddopTermListE]
+                ) [CondFactBez]
+                AddExpr(
+                  FactorTerm(
+                    Factor(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorD(
+                        Designator(
+                         bodovi
+                          DesiListNEMA(
+                          ) [DesiListNEMA]
+                        ) [Designator]
+                      ) [FactorD]
+                    ) [Factor]
+                  ) [FactorTerm]
+                  AddopTermListE(
+                  ) [AddopTermListE]
+                ) [AddExpr]
+                AddExpr(
+                  FactorTerm(
+                    Factor(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorD(
+                        Designator(
+                         bodovi
+                          DesiListNEMA(
+                          ) [DesiListNEMA]
+                        ) [Designator]
+                      ) [FactorD]
+                    ) [Factor]
+                  ) [FactorTerm]
+                  AddopTermList1(
+                    AddopTermListE(
+                    ) [AddopTermListE]
+                    AddopADD(
+                    ) [AddopADD]
+                    FactorTerm(
+                      Factor(
+                        NoMinus(
+                        ) [NoMinus]
+                        FactorNum(
+                         10
+                        ) [FactorNum]
+                      ) [Factor]
+                    ) [FactorTerm]
+                  ) [AddopTermList1]
+                ) [AddExpr]
+              ) [TernaryExpr]
+            ) [StatementP1]
+          ) [StatementListR]
+          StatementP1(
+            TernaryExpr(
+              CondFactBez(
+                FactorTerm(
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorBool(
+                     0
+                    ) [FactorBool]
+                  ) [Factor]
+                ) [FactorTerm]
+                AddopTermListE(
+                ) [AddopTermListE]
+              ) [CondFactBez]
+              AddExpr(
+                FactorTerm(
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorD(
+                      Designator(
+                       bodovi
+                        DesiListNEMA(
+                        ) [DesiListNEMA]
+                      ) [Designator]
+                    ) [FactorD]
+                  ) [Factor]
+                ) [FactorTerm]
+                AddopTermList1(
+                  AddopTermListE(
+                  ) [AddopTermListE]
+                  AddopADD(
+                  ) [AddopADD]
+                  FactorTerm(
+                    Factor(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorNum(
+                       20
+                      ) [FactorNum]
+                    ) [Factor]
+                  ) [FactorTerm]
+                ) [AddopTermList1]
+              ) [AddExpr]
+              AddExpr(
+                FactorTerm(
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorD(
+                      Designator(
+                       bodovi
+                        DesiListNEMA(
+                        ) [DesiListNEMA]
+                      ) [Designator]
+                    ) [FactorD]
+                  ) [Factor]
+                ) [FactorTerm]
+                AddopTermList1(
+                  AddopTermListE(
+                  ) [AddopTermListE]
+                  AddopADD(
+                  ) [AddopADD]
+                  FactorTerm(
+                    Factor(
+                      NoMinus(
+                      ) [NoMinus]
+                      FactorNum(
+                       30
+                      ) [FactorNum]
+                    ) [Factor]
+                  ) [FactorTerm]
+                ) [AddopTermList1]
+              ) [AddExpr]
+            ) [TernaryExpr]
+          ) [StatementP1]
+        ) [StatementListR]
+        StatementP1(
+          TernaryExpr(
+            CondFactRelop(
+              FactorTerm(
+                Factor(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorD(
+                    Designator(
+                     bodovi
+                      DesiListNEMA(
+                      ) [DesiListNEMA]
+                    ) [Designator]
+                  ) [FactorD]
+                ) [Factor]
+              ) [FactorTerm]
+              AddopTermListE(
+              ) [AddopTermListE]
+              RelopGT(
+              ) [RelopGT]
+              FactorTerm(
+                Factor(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorNum(
+                   10
+                  ) [FactorNum]
+                ) [Factor]
+              ) [FactorTerm]
+              AddopTermListE(
+              ) [AddopTermListE]
+            ) [CondFactRelop]
+            AddExpr(
+              FactorTerm(
+                Factor(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorChar(
+                   +
+                  ) [FactorChar]
+                ) [Factor]
+              ) [FactorTerm]
+              AddopTermListE(
+              ) [AddopTermListE]
+            ) [AddExpr]
+            AddExpr(
+              FactorTerm(
+                Factor(
+                  NoMinus(
+                  ) [NoMinus]
+                  FactorChar(
+                   -
+                  ) [FactorChar]
+                ) [Factor]
+              ) [FactorTerm]
+              AddopTermListE(
+              ) [AddopTermListE]
+            ) [AddExpr]
+          ) [TernaryExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  16:15:16,709 - ===================================
+INFO  16:15:16,709 - Parsiranje uspesno zavrseno

@@ -1,0 +1,54 @@
+INFO  22:13:21,678 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  22:13:21,759 - #30 program
+INFO  22:13:21,759 - #38 Keske
+INFO  22:13:21,759 - #31 const
+INFO  22:13:21,760 - #38 byte
+INFO  22:13:21,760 - #38 pi
+INFO  22:13:21,761 - #33 =
+INFO  22:13:21,761 - #36 3
+INFO  22:13:21,761 - #32 ;
+INFO  22:13:21,762 - #34 {
+INFO  22:13:21,764 - #14 void
+INFO  22:13:21,764 - #38 main
+INFO  22:13:21,764 - #15 (
+INFO  22:13:21,765 - #5 )
+INFO  22:13:21,765 - #34 {
+INFO  22:13:21,765 - #35 }
+INFO  22:13:21,766 - #35 }
+INFO  22:13:21,767 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    ConDecList(
+      Type(
+       byte
+      ) [Type]
+      ConDecl(
+       pi
+        ConstantN(
+         3
+        ) [ConstantN]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListE(
+      ) [StatementListE]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  22:13:21,771 - ===================================
+ERROR 22:13:21,776 - Nepostojeci tip podatka: byte na liniji 3
+INFO  22:13:21,776 - ===================================
+INFO  22:13:21,776 - Parsiranje NIJE uspesno zavrseno

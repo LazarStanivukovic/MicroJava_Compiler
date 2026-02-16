@@ -1,0 +1,75 @@
+INFO  21:16:18,572 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj2.mj
+INFO  21:16:18,654 - #30 program
+INFO  21:16:18,654 - #38 TestLength
+INFO  21:16:18,654 - #31 const
+INFO  21:16:18,657 - #38 int
+INFO  21:16:18,657 - #38 pi
+INFO  21:16:18,660 - #33 =
+INFO  21:16:18,660 - #36 3
+INFO  21:16:18,660 - #32 ;
+INFO  21:16:18,664 - #34 {
+INFO  21:16:18,666 - #14 void
+INFO  21:16:18,666 - #38 main
+INFO  21:16:18,666 - #15 (
+INFO  21:16:18,668 - #5 )
+INFO  21:16:18,668 - #34 {
+INFO  21:16:18,670 - #26 print
+INFO  21:16:18,671 - #15 (
+INFO  21:16:18,671 - #36 1
+INFO  21:16:18,673 - #5 )
+INFO  21:16:18,677 - #32 ;
+INFO  21:16:18,679 - #35 }
+INFO  21:16:18,680 - #35 }
+INFO  21:16:18,687 - Program(
+  ProgramName(
+   TestLength
+  ) [ProgramName]
+  ConVarDecList1(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    ConDecList(
+      Type(
+       int
+      ) [Type]
+      ConDecl(
+       pi
+        ConstantN(
+         3
+        ) [ConstantN]
+      ) [ConDecl]
+      ConDeclMore2(
+      ) [ConDeclMore2]
+    ) [ConDecList]
+  ) [ConVarDecList1]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListR(
+        StatementListE(
+        ) [StatementListE]
+        StatementP1(
+          AddExpr(
+            FactorTerm(
+              Factor(
+                NoMinus(
+                ) [NoMinus]
+                FactorNum(
+                 1
+                ) [FactorNum]
+              ) [Factor]
+            ) [FactorTerm]
+            AddopTermListE(
+            ) [AddopTermListE]
+          ) [AddExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  21:16:18,687 - ===================================
+INFO  21:16:18,703 - ===================================
+INFO  21:16:18,713 - Parsiranje uspesno zavrseno

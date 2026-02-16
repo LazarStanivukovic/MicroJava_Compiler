@@ -1,0 +1,110 @@
+INFO  16:35:41,587 - Compiling source file: C:\faks\pp1\snimciVezbanje\pp1domaci\workspace\Projekat\test\testmoj.mj
+INFO  16:35:41,627 - #30 program
+INFO  16:35:41,627 - #38 Keske
+INFO  16:35:41,627 - #38 int
+INFO  16:35:41,628 - #38 x
+INFO  16:35:41,628 - #32 ;
+INFO  16:35:41,629 - #34 {
+INFO  16:35:41,630 - #14 void
+INFO  16:35:41,630 - #38 main
+INFO  16:35:41,630 - #15 (
+INFO  16:35:41,632 - #5 )
+INFO  16:35:41,632 - #34 {
+INFO  16:35:41,632 - #38 a
+INFO  16:35:41,633 - #24 ++
+INFO  16:35:41,635 - #32 ;
+INFO  16:35:41,635 - #38 b
+INFO  16:35:41,635 - #33 =
+INFO  16:35:41,635 - #36 3
+INFO  16:35:41,637 - #32 ;
+INFO  16:35:41,640 - #26 print
+INFO  16:35:41,640 - #15 (
+INFO  16:35:41,640 - #39 x
+INFO  16:35:41,640 - #5 )
+INFO  16:35:41,642 - #32 ;
+INFO  16:35:41,642 - #35 }
+INFO  16:35:41,642 - #35 }
+INFO  16:35:41,645 - Program(
+ Keske
+  ConVarDecList2(
+    ConVarDecList4(
+    ) [ConVarDecList4]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDeclVar(
+       x
+      ) [VarDeclVar]
+      VarDeclMoreE(
+      ) [VarDeclMoreE]
+    ) [VarDeclList]
+  ) [ConVarDecList2]
+  MethodDeclList(
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclListRecE(
+      ) [VarDeclListRecE]
+      StatementListR(
+        StatementListR(
+          StatementListR(
+            StatementListE(
+            ) [StatementListE]
+            StatementDS(
+              DesignatorStatementINC(
+                Designator(
+                 a
+                  DesiListNEMA(
+                  ) [DesiListNEMA]
+                ) [Designator]
+              ) [DesignatorStatementINC]
+            ) [StatementDS]
+          ) [StatementListR]
+          StatementDS(
+            DesignatorStatementASS(
+              Designator(
+               b
+                DesiListNEMA(
+                ) [DesiListNEMA]
+              ) [Designator]
+              Assignop(
+              ) [Assignop]
+              AddExpr(
+                FactorTerm(
+                  Factor(
+                    NoMinus(
+                    ) [NoMinus]
+                    FactorNum(
+                     3
+                    ) [FactorNum]
+                  ) [Factor]
+                ) [FactorTerm]
+                AddopTermListE(
+                ) [AddopTermListE]
+              ) [AddExpr]
+            ) [DesignatorStatementASS]
+          ) [StatementDS]
+        ) [StatementListR]
+        StatementP1(
+          AddExpr(
+            FactorTerm(
+              Factor(
+                NoMinus(
+                ) [NoMinus]
+                FactorChar(
+                 x
+                ) [FactorChar]
+              ) [Factor]
+            ) [FactorTerm]
+            AddopTermListE(
+            ) [AddopTermListE]
+          ) [AddExpr]
+        ) [StatementP1]
+      ) [StatementListR]
+    ) [MethodDecl]
+  ) [MethodDeclList]
+) [Program]
+INFO  16:35:41,645 - ===================================
+INFO  16:35:41,645 - Parsiranje uspesno zavrseno
