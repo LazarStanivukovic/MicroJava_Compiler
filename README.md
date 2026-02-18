@@ -39,7 +39,7 @@ pp1lab.templateAST/
 
 ## Features
 
-### Level A (20 points) - Core
+### Level A - Core
 
 - Global/local variable declarations (simple, array, enum types)
 - Global constant declarations
@@ -52,7 +52,7 @@ pp1lab.templateAST/
 - Function calls (with actual parameters)
 - Error recovery for global variable definitions and assignment statements
 
-### Level B (30 points) - Control Flow & Functions
+### Level B - Control Flow & Functions
 
 - All Level A features, plus:
 - `if`/`else` conditional statements
@@ -64,7 +64,7 @@ pp1lab.templateAST/
 - Global method definitions and calls
 - Error recovery for formal parameters and `if` conditions
 
-### Level C (40 points) - OOP
+### Level C - OOP
 
 - All Level B features, plus:
 - Inner class definitions with fields and methods
